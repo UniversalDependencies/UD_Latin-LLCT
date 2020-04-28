@@ -76,7 +76,7 @@ Lemmas: converted from manual
 UPOS: converted from manual
 XPOS: manual native
 Features: converted from manual
-Relations: converted from manual
+Relations: converted with corrections
 Contributors: Korkiakangas, Timo; Cecchini, Flavio Massimiliano; Passarotti, Marco
 Contributing: elsewhere
 Contact: flavio.cecchini@unicatt.it, timo.t.korkiakangas@gmail.com, marco.passarotti@unicatt.it
