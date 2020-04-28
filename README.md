@@ -56,8 +56,7 @@ corpus-based approaches to NLP (SIGDAT), ACL. Available at https://www.aclweb.or
 in Annotating Medieval Latin Charters. *Journal for
 Language Technology and Computational Linguistics
 (JLCL)*, 26(2):105–116, november. In Francesco Mambrini, et al., editors, *Annotation of Corpora for Research
-in the Humanities: Proceedings of the ACRH Workshop*,
-Heidelberg, 5. Jan. 2012*. Available at https://jlcl.org/content/2-allissues/12-Heft2-2011/16.pdf
+in the Humanities: Proceedings of the ACRH Workshop, Heidelberg, 5. Jan. 2012*. Available at https://jlcl.org/content/2-allissues/12-Heft2-2011/16.pdf
 
 
 
