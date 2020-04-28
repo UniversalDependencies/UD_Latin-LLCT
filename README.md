@@ -40,7 +40,7 @@ The conversion of the LLCT2 into the Universal Dependencies was realized by Flav
 Treebanks (v. 1.3)*. Tufts Published Scholarship. Tufts
 University's Digital Collections and Archives, Medford, MA, USA. Permanent URL: http://hdl.handle.net/10427/42683 or https://itreebank.marginalia.it/doc/2007_Passa+Bamman+Crane+Raynaud_Guidelines%20Tb.pdf
 
-* Cavallo, G., Nicolaj, G., et al., editors, (1997-2019). *Chartae Latinae Antiquiores: facsimile edition of the Latin charters, 2nd series: ninth century*. Urs Graf Verlag, Dietikon, Zürich, Switzerland.
+* Cavallo, G., Nicolaj, G., et al., editors (1997-2019). *Chartae Latinae Antiquiores: facsimile edition of the Latin charters, 2nd series: ninth century*. Urs Graf Verlag, Dietikon, Zürich, Switzerland.
 
 * Cecchini, F. M., Korkiakangas, T. and Passarotti, M. (2020). A New Latin Treebank for Universal Dependencies: Charters between Ancient Latin and Romance Languages. In *Proceedings of the Twelfth International Conference on Language Resources and Evaluation (LREC2020)*, Marseille, France, May. European Language Resources Association (ELRA).
 
