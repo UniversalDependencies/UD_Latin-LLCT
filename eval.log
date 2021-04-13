@@ -3,9 +3,9 @@ commit d71d1b63fd448a8b098d4b5a0329f8da3f7413b0
 Author: Dan Zeman <zeman@ufal.mff.cuni.cz>
 Date:   Sat Apr 21 19:02:58 2018 +0200
 Evaluating the following revision of UD_Latin-LLCT:
-commit e0526ff92cf9d609f67eba0a69e620c8286b3a2c
+commit 15748399a55f09e3373967a1600551161c0807ba
 Author: Dan Zeman <zeman@ufal.mff.cuni.cz>
-Date:   Sun May 10 16:57:13 2020 +0200
+Date:   Sun May 10 18:24:37 2020 +0200
 Size: counted 242411 of 242411 words (nodes).
 Size: min(0, log((N/1000)**2)) = 10.981269265407.
 Size: maximum value 13.815511 is for 1000000 words or more.
