@@ -4953,7 +4953,7 @@
 54	sitas	sino	VERB	t|t|-|s|r|p|p|f|a|-	Aspect=Perf|Case=Acc|Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part|Voice=Pass	51	acl	_	_
 55	loco	locus	NOUN	n|n|-|s|-|-|-|m|b|-	Case=Abl|Gender=Masc|Number=Sing	54	obl	_	_
 56	Pisscia	Piscia	PROPN	Propn|n|-|s|-|-|-|f|b|-	Case=Abl|Gender=Fem|Number=Sing	55	flat	_	_
-57	Maiore	magnus	PROPN	Propn|n|-|s|-|-|-|f|b|c	Case=Abl|Degree=Cmp|Gender=Fem|Number=Sing	56	flat	_	SpaceAfter=No
+57	Maiore	magnus	ADJ	Propn|n|-|s|-|-|-|f|b|c	Case=Abl|Degree=Cmp|Gender=Fem|Number=Sing|Proper=Yes	56	amod	_	SpaceAfter=No
 58	,	,	PUNCT	Punc	_	60	punct	_	_
 59	qui	qui	PRON	p|p|-|s|-|-|-|m|n|-	Case=Nom|Gender=Masc|Number=Sing|PronType=Rel	60	nsubj	_	_
 60	pertinens	pertineo	VERB	t|t|-|s|p|p|a|f|n|-	Aspect=Imp|Case=Nom|Gender=Fem|Number=Sing|Tense=Pres|VerbForm=Part|Voice=Act	51	acl:relcl	_	_
@@ -12523,7 +12523,7 @@
 28	et	et	CCONJ	c|c|-|-|-|-|-|-|-|-	_	29	cc	_	_
 29	finibus	finis	NOUN	n|n|-|p|-|-|-|m|b|-	Case=Abl|Gender=Masc|Number=Plur	27	conj	_	_
 30	Piscia	Piscia	PROPN	Propn|n|-|s|-|-|-|f|a|-	Case=Acc|Gender=Fem|Number=Sing	27	flat	_	_
-31	Maiore	magnus	PROPN	Propn|n|-|s|-|-|-|f|a|c	Case=Acc|Degree=Cmp|Gender=Fem|Number=Sing	30	flat	_	SpaceAfter=No
+31	Maiore	magnus	ADJ	Propn|n|-|s|-|-|-|f|a|c	Case=Acc|Degree=Cmp|Gender=Fem|Number=Sing|Proper=Yes	30	amod	_	SpaceAfter=No
 32	.	.	PUNCT	Punc	_	1	punct	_	_
 
 # sent_id = dev-s380
@@ -25060,7 +25060,7 @@
 38	Petri	Petrus	PROPN	Propn|n|-|s|-|-|-|m|g|-	Case=Gen|Gender=Masc|Number=Sing	35	nmod	_	_
 39	sito	sino	VERB	t|t|-|s|r|p|p|n|a|-	Aspect=Perf|Case=Acc|Gender=Neut|Number=Sing|Tense=Past|VerbForm=Part|Voice=Pass	35	acl	_	_
 40	Campo	campus	PROPN	Propn|n|-|s|-|-|-|m|b|-	Case=Abl|Gender=Masc|Number=Sing	39	obl	_	_
-41	Maiore	magnus	PROPN	Propn|n|-|s|-|-|-|m|b|c	Case=Abl|Degree=Cmp|Gender=Masc|Number=Sing	40	flat	_	SpaceAfter=No
+41	Maiore	magnus	ADJ	Propn|n|-|s|-|-|-|m|b|c	Case=Abl|Degree=Cmp|Gender=Masc|Number=Sing|Proper=Yes	40	amod	_	SpaceAfter=No
 42	,	,	PUNCT	Punc	_	43	punct	_	_
 43	filio	filius	NOUN	n|n|-|s|-|-|-|m|a|-	Case=Acc|Gender=Masc|Number=Sing	31	appos	_	_
 44	quondam	quondam	ADJ	a|a|-|-|-|-|-|-|-|-	_	45	amod	_	_

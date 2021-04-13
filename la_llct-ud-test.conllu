@@ -20334,7 +20334,7 @@
 29	,	,	PUNCT	Punc	_	31	punct	_	_
 30	que	qui	PRON	p|p|-|s|-|-|-|f|n|-	Case=Nom|Gender=Fem|Number=Sing|PronType=Rel	31	nsubj:pass	_	_
 31	dicitur	dico	VERB	v|v|3|s|p|i|p|-|-|-	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Pass	18	acl:relcl	_	_
-32	Maiore	magnus	PROPN	Propn|n|-|s|-|-|-|f|a|c	Case=Acc|Degree=Cmp|Gender=Fem|Number=Sing	31	xcomp	_	SpaceAfter=No
+32	Maiore	magnus	ADJ	Propn|n|-|s|-|-|-|f|a|c	Case=Acc|Degree=Cmp|Gender=Fem|Number=Sing|Proper=Yes	31	xcomp	_	SpaceAfter=No
 33	,	,	PUNCT	Punc	_	11	punct	_	_
 34	per	per	ADP	r|r|-|-|-|-|-|-|-|-	_	35	case	_	_
 35	cartula	chartula	NOUN	n|n|-|s|-|-|-|f|a|-	Case=Acc|Gender=Fem|Number=Sing	41	obl	_	_
@@ -23518,7 +23518,7 @@
 67	minuare	minuo	VERB	v|v|-|-|p|n|a|-|-|-	Aspect=Imp|Tense=Pres|VerbForm=Inf|Voice=Act	59	conj	_	_
 68	quesierimus	quaero	VERB	v|v|1|p|t|i|a|-|-|-	Aspect=Perf|Mood=Ind|Number=Plur|Person=1|Tense=Fut|VerbForm=Fin|VerbType=Mod|Voice=Act	20	conj	_	_
 69	per	per	ADP	r|r|-|-|-|-|-|-|-|-	_	70	case	_	_
-70	nosmedipsos	nosmetipse	NOUN	p|p|1|p|-|-|-|m|a|-	Case=Acc|Gender=Masc|Number=Plur|Person=1	59	obl	_	_
+70	nosmedipsos	nosmetipse	PRON	p|p|1|p|-|-|-|m|a|-	Case=Acc|Gender=Masc|Number=Plur|Person=1	59	obl	_	_
 71	aut	aut	CCONJ	c|c|-|-|-|-|-|-|-|-	_	76	cc	_	_
 72	qui	qui	PRON	p|p|-|s|-|-|-|m|n|-	Case=Nom|Gender=Masc|Number=Sing|PronType=Rel	76	nsubj	_	_
 73	cum	cum	ADP	r|r|-|-|-|-|-|-|-|-	_	74	case	_	_
