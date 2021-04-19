@@ -139,7 +139,7 @@
 # text = suprascriptas res in predicto loco Murriano tam terris, vineis, olivis, silvis, virgareis, cultas res vel incultas, omnia quantum in suprascripto loco Murriano suprascripte ecclesie vestre sancti Fridiani est pertenente et suprascriptis Vualpo et Petrus germani exinde ad manus suas abuerunt nobis dedisti in integrum, tali ordinem ut da admodum in nostra vel de nostris heredibus sint potestatem eas abendum, inperandum, laborare faciendum, gubernandum, meliorandum et nobis eas privato nomine usufructuandum.
 # reference = document_id='84:42'-span='64'
 1	suprascriptas	suprascriptus	DET	a|a|-|p|-|-|-|f|a|-	Case=Acc|Gender=Fem|Number=Plur|PronType=Dem	2	det	_	_
-2	res	res	NOUN	n|n|-|p|-|-|-|f|a|-	Case=Acc|Gender=Fem|Number=Plur	48	dislocated:nmod	_	_
+2	res	res	NOUN	n|n|-|p|-|-|-|f|a|-	Case=Acc|Gender=Fem|Number=Plur	48	dislocated:obj	_	_
 3	in	in	ADP	r|r|-|-|-|-|-|-|-|-	_	5	case	_	_
 4	predicto	praedictus	DET	a|a|-|s|-|-|-|m|b|-	Case=Abl|Gender=Masc|Number=Sing|PronType=Dem	5	det	_	_
 5	loco	locus	NOUN	n|n|-|s|-|-|-|m|b|-	Case=Abl|Gender=Masc|Number=Sing	2	nmod	_	_
@@ -2062,7 +2062,7 @@
 # sent_id = dev-s67
 # text = casa vero ipsa cum fundamento et omnem edeficio suo seu curte, orto, terris, vineis, silvis, virgareis, pratis, pascuis, cultis rebus vel incultis, omnia quantum ad ipsa casa est pertenentes et quondam Adalperto exinde ad manus suas abuit et nos ipsis exinde ad manus nostra abere visi essemus nos firmasti in integrum, tali ordinem ut nos vel nostris heredibus in ipsa casa residere et abitare debeamus;
 # reference = document_id='84:46'-span='128'
-1	casa	casa	NOUN	n|n|-|s|-|-|-|f|a|-	Case=Acc|Gender=Fem|Number=Sing	58	dislocated:nmod	_	_
+1	casa	casa	NOUN	n|n|-|s|-|-|-|f|a|-	Case=Acc|Gender=Fem|Number=Sing	58	dislocated:obj	_	_
 2	vero	uero	ADV	d|d|-|-|-|-|-|-|-|-	_	58	advmod	_	_
 3	ipsa	ipse	DET	p|p|-|s|-|-|-|f|a|-	Case=Acc|Gender=Fem|Number=Sing|PronType=Dem	1	det	_	_
 4	cum	cum	ADP	r|r|-|-|-|-|-|-|-|-	_	5	case	_	_
@@ -2594,7 +2594,7 @@
 # sent_id = dev-s85
 # text = capanna vero ipsa cum fundamento et omnem edeficio suo seu curte, orto, terris, vineis, silvis, virgareis, cultas res vel incultas, omnia quantum ad ipsa capanna est pertenentes et suprascripto genitore nostro ad manus suas abuit et nos ipsos ad manus nostra abere visis essemus nobis firmasti in integrum, tali ordinem ut nos vel nostris heredibus in ipsa capanna residere et abitare debeamus;
 # reference = document_id='84:47'-span='146'
-1	capanna	capanna	NOUN	n|n|-|s|-|-|-|f|n|-	Case=Nom|Gender=Fem|Number=Sing	53	dislocated:nmod	_	_
+1	capanna	capanna	NOUN	n|n|-|s|-|-|-|f|n|-	Case=Nom|Gender=Fem|Number=Sing	53	dislocated:obj	_	_
 2	vero	uero	ADV	d|d|-|-|-|-|-|-|-|-	_	53	advmod	_	_
 3	ipsa	ipse	DET	p|p|-|s|-|-|-|f|n|-	Case=Nom|Gender=Fem|Number=Sing|PronType=Dem	1	det	_	_
 4	cum	cum	ADP	r|r|-|-|-|-|-|-|-|-	_	5	case	_	_
@@ -3102,7 +3102,7 @@
 # sent_id = dev-s104
 # text = casa ipsa cun fundamento et edeficio suo seo curte, orto, terris, vineis, olivis, silvis, virgariis, pratis, pascuis, cultis rebus vel incultis, omnia quantum ad ipsa casa est pertenentes, et nos ipsis exinde ad manus nostras abere videtur, in integrum nobis dedisti tali ordinem ut nos, vel nostris heredibus, in ipsa casa residere et abitare debeamus, et tam ipsa casa et res bene laborare et gubernare seo meliorare debeamus nobis privatum fruendum.
 # reference = document_id='85:1'-span='165'
-1	casa	casa	NOUN	n|n|-|s|-|-|-|f|a|-	Case=Acc|Gender=Fem|Number=Sing	53	dislocated:nmod	_	_
+1	casa	casa	NOUN	n|n|-|s|-|-|-|f|a|-	Case=Acc|Gender=Fem|Number=Sing	53	dislocated:obj	_	_
 2	ipsa	ipse	DET	p|p|-|s|-|-|-|f|a|-	Case=Acc|Gender=Fem|Number=Sing|PronType=Dem	1	det	_	_
 3	cun	cum	ADP	r|r|-|-|-|-|-|-|-|-	_	4	case	_	_
 4	fundamento	fundamentum	NOUN	n|n|-|s|-|-|-|n|b|-	Case=Abl|Gender=Neut|Number=Sing	1	nmod	_	_
@@ -3632,7 +3632,7 @@
 # text = suprascripta petia de terra et silva, qualiter ab omnis partes circumdata est per designatas locas, nobis eas dedisti in integrum usque in anni viginti et quinque tali ordinem ut da ammodum in nostra, vel de nostris heredibus, sint potestate eas abendi, imperandi, laborandi et vobis eas privato nomine usufructuandi.
 # reference = document_id='85:2'-span='179'
 1	suprascripta	suprascriptus	DET	a|a|-|s|-|-|-|f|a|-	Case=Acc|Gender=Fem|Number=Sing|PronType=Dem	2	det	_	_
-2	petia	petia	NOUN	n|n|-|s|-|-|-|f|a|-	Case=Acc|Gender=Fem|Number=Sing	20	dislocated:nmod	_	_
+2	petia	petia	NOUN	n|n|-|s|-|-|-|f|a|-	Case=Acc|Gender=Fem|Number=Sing	20	dislocated:obj	_	_
 3	de	de	ADP	r|r|-|-|-|-|-|-|-|-	_	4	case	_	_
 4	terra	terra	NOUN	n|n|-|s|-|-|-|f|b|-	Case=Abl|Gender=Fem|Number=Sing	2	nmod	_	_
 5	et	et	CCONJ	c|c|-|-|-|-|-|-|-|-	_	6	cc	_	_
@@ -4097,7 +4097,7 @@
 # text = suprascripta petia de terra et silva, qualiter circumdata est per designatas locas, una cum omnibus arboribus suis, in integrum mihi eas dedisti, tali ordinem ut da admodum usque in sex anni expleti prossimi venturi ego, vel meus heredes, suprascripta petia de terra vinea plantare et propaginare seo elevare debeamus et eas bene laborare et gubernare seo meliorare debeamus, nobis privatum fruendum.
 # reference = document_id='85:3'-span='191'
 1	suprascripta	suprascriptus	DET	a|a|-|s|-|-|-|f|a|-	Case=Acc|Gender=Fem|Number=Sing|PronType=Dem	2	det	_	_
-2	petia	petia	NOUN	n|n|-|s|-|-|-|f|a|-	Case=Acc|Gender=Fem|Number=Sing	25	dislocated:nmod	_	_
+2	petia	petia	NOUN	n|n|-|s|-|-|-|f|a|-	Case=Acc|Gender=Fem|Number=Sing	25	dislocated:obj	_	_
 3	de	de	ADP	r|r|-|-|-|-|-|-|-|-	_	4	case	_	_
 4	terra	terra	NOUN	n|n|-|s|-|-|-|f|b|-	Case=Abl|Gender=Fem|Number=Sing	2	nmod	_	_
 5	et	et	CCONJ	c|c|-|-|-|-|-|-|-|-	_	6	cc	_	_
@@ -4676,7 +4676,7 @@
 # sent_id = dev-s145
 # text = casa ipsa una cum omnia res ad eam pertenentes, et suprascripto Insuardulo exinde ad manus suas abere videtur, in integrum mihi eas dedisti;
 # reference = document_id='85:4'-span='10'
-1	casa	casa	NOUN	n|n|-|s|-|-|-|f|a|-	Case=Acc|Gender=Fem|Number=Sing	25	dislocated:nmod	_	_
+1	casa	casa	NOUN	n|n|-|s|-|-|-|f|a|-	Case=Acc|Gender=Fem|Number=Sing	25	dislocated:obj	_	_
 2	ipsa	ipse	DET	p|p|-|s|-|-|-|f|a|-	Case=Acc|Gender=Fem|Number=Sing|PronType=Dem	1	det	_	_
 3	una	una	ADV	d|d|-|-|-|-|-|-|-|-	_	6	case	_	_
 4	cum	cum	ADP	r|r|-|-|-|-|-|-|-|-	_	3	fixed	_	_
@@ -4784,7 +4784,7 @@
 76	loco	locus	NOUN	n|n|-|s|-|-|-|m|b|-	Case=Abl|Gender=Masc|Number=Sing	73	nmod	_	_
 77	Mutiliano	Mutilianus	ADJ	a|a|-|s|-|-|-|m|b|-	Case=Abl|Gender=Masc|Number=Sing	76	amod	_	SpaceAfter=No
 78	,	,	PUNCT	Punc	_	79	punct	_	_
-79	quas	qui	PRON	p|p|-|s|-|-|-|f|a|-	Case=Acc|Gender=Fem|Number=Sing|PronType=Rel	86	dislocated:nmod	_	_
+79	quas	qui	PRON	p|p|-|s|-|-|-|f|a|-	Case=Acc|Gender=Fem|Number=Sing|PronType=Rel	86	dislocated:obj	_	_
 80	Rachiprandulo	Rachiprandulus	PROPN	Propn|n|-|s|-|-|-|m|a|-	Case=Acc|Gender=Masc|Number=Sing	86	nsubj	_	SpaceAfter=No
 81	,	,	PUNCT	Punc	_	80	punct	_	_
 82	eas	is	PRON	p|p|-|s|-|-|-|f|a|-	Case=Acc|Gender=Fem|Number=Sing|Person=3|PronType=Dem,Prs	86	obj	_	_
@@ -4978,7 +4978,7 @@
 # reference = document_id='85:5'-span='15'
 1	et	et	CCONJ	c|c|-|-|-|-|-|-|-|-	_	14	cc	_	_
 2	ipsa	ipse	DET	p|p|-|s|-|-|-|f|a|-	Case=Acc|Gender=Fem|Number=Sing|PronType=Dem	3	det	_	_
-3	petia	petia	NOUN	n|n|-|s|-|-|-|f|a|-	Case=Acc|Gender=Fem|Number=Sing	14	dislocated:nmod	_	_
+3	petia	petia	NOUN	n|n|-|s|-|-|-|f|a|-	Case=Acc|Gender=Fem|Number=Sing	14	dislocated:obj	_	_
 4	de	de	ADP	r|r|-|-|-|-|-|-|-|-	_	5	case	_	_
 5	terra	terra	NOUN	n|n|-|s|-|-|-|f|b|-	Case=Abl|Gender=Fem|Number=Sing	3	nmod	_	_
 6	et	et	CCONJ	c|c|-|-|-|-|-|-|-|-	_	7	cc	_	_
@@ -5027,7 +5027,7 @@
 # text = suprascripta petia de terra et silva, qualiter per designatas locas, una cum omnibus arboribus suis, in integrum mihi eas dedisti tali ordinem ut ego, vel meus heredes, infra isti tres anni expleti prossimi venturi infra ipsa petia de terra et silva casa levare et claudere seo coperire debeamus;
 # reference = document_id='85:5'-span='16'
 1	suprascripta	suprascriptus	DET	a|a|-|s|-|-|-|f|a|-	Case=Acc|Gender=Fem|Number=Sing|PronType=Dem	2	det	_	_
-2	petia	petia	NOUN	n|n|-|s|-|-|-|f|a|-	Case=Acc|Gender=Fem|Number=Sing	23	dislocated:nmod	_	_
+2	petia	petia	NOUN	n|n|-|s|-|-|-|f|a|-	Case=Acc|Gender=Fem|Number=Sing	23	dislocated:obj	_	_
 3	de	de	ADP	r|r|-|-|-|-|-|-|-|-	_	4	case	_	_
 4	terra	terra	NOUN	n|n|-|s|-|-|-|f|b|-	Case=Abl|Gender=Fem|Number=Sing	2	nmod	_	_
 5	et	et	CCONJ	c|c|-|-|-|-|-|-|-|-	_	6	cc	_	_
@@ -5509,7 +5509,7 @@
 29	abere	habeo	VERB	v|v|-|-|p|n|a|-|-|-	Aspect=Imp|Tense=Pres|VerbForm=Inf|Voice=Act	30	xcomp	_	_
 30	videtur	uideo	VERB	v|v|3|s|p|i|p|-|-|-	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Pass	7	acl:relcl	_	SpaceAfter=No
 31	,	,	PUNCT	Punc	_	32	punct	_	_
-32	casa	casa	NOUN	n|n|-|s|-|-|-|f|a|-	Case=Acc|Gender=Fem|Number=Sing	74	dislocated:nmod	_	_
+32	casa	casa	NOUN	n|n|-|s|-|-|-|f|a|-	Case=Acc|Gender=Fem|Number=Sing	74	dislocated:obj	_	_
 33	ipsa	ipse	DET	p|p|-|s|-|-|-|f|a|-	Case=Acc|Gender=Fem|Number=Sing|PronType=Dem	32	det	_	_
 34	cum	cum	ADP	r|r|-|-|-|-|-|-|-|-	_	35	case	_	_
 35	curte	curtis	NOUN	n|n|-|s|-|-|-|f|b|-	Case=Abl|Gender=Fem|Number=Sing	32	nmod	_	SpaceAfter=No
@@ -6688,7 +6688,7 @@
 47	loco	locus	NOUN	n|n|-|s|-|-|-|m|b|-	Case=Abl|Gender=Masc|Number=Sing	46	obl	_	_
 48	Monte	Mons	PROPN	Propn|n|-|s|-|-|-|m|b|-	Case=Abl|Gender=Masc|Number=Sing	47	flat	_	_
 49	Alto	altus	ADJ	a|a|-|s|-|-|-|m|b|-	Case=Abl|Gender=Masc|Number=Sing	48	amod	_	_
-50	quas	qui	PRON	p|p|-|s|-|-|-|f|a|-	Case=Acc|Gender=Fem|Number=Sing|PronType=Rel	57	dislocated:nmod	_	_
+50	quas	qui	PRON	p|p|-|s|-|-|-|f|a|-	Case=Acc|Gender=Fem|Number=Sing|PronType=Rel	57	dislocated:obj	_	_
 51	ego	ego	PRON	p|p|1|s|-|-|-|m|n|-	Case=Nom|Gender=Masc|Number=Sing|Person=1|PronType=Prs	58	nsubj:pass	_	SpaceAfter=No
 52	,	,	PUNCT	Punc	_	51	punct	_	_
 53	eas	is	PRON	p|p|-|s|-|-|-|f|a|-	Case=Acc|Gender=Fem|Number=Sing|Person=3|PronType=Dem,Prs	57	obj	_	_
@@ -9420,7 +9420,7 @@
 38	dicitur	dico	VERB	v|v|3|s|p|i|p|-|-|-	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Pass	31	acl:relcl	_	_
 39	Capriaticho	Capriaticum	PROPN	Propn|n|-|s|-|-|-|n|n|-	Case=Nom|Gender=Neut|Number=Sing	38	xcomp	_	SpaceAfter=No
 40	,	,	PUNCT	Punc	_	41	punct	_	_
-41	quas	qui	PRON	p|p|-|p|-|-|-|f|a|-	Case=Acc|Gender=Fem|Number=Plur|PronType=Rel	48	dislocated:nmod	_	_
+41	quas	qui	PRON	p|p|-|p|-|-|-|f|a|-	Case=Acc|Gender=Fem|Number=Plur|PronType=Rel	48	dislocated:obj	_	_
 42	Himulo	Himulus	PROPN	Propn|n|-|s|-|-|-|m|a|-	Case=Acc|Gender=Masc|Number=Sing	48	nsubj	_	SpaceAfter=No
 43	,	,	PUNCT	Punc	_	42	punct	_	_
 44	eas	is	PRON	p|p|-|p|-|-|-|f|a|-	Case=Acc|Gender=Fem|Number=Plur|Person=3|PronType=Dem,Prs	48	obj	_	_
@@ -9954,7 +9954,7 @@
 87	mensurata	mensuro	VERB	t|t|-|s|r|p|p|f|a|-	Aspect=Perf|Case=Acc|Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part|Voice=Pass	88	xcomp	_	_
 88	modiorum	modius	NOUN	n|n|-|p|-|-|-|m|g|-	Case=Gen|Gender=Masc|Number=Plur	61	acl:relcl	_	_
 89	quinque	quinque	NUM	m|m|-|-|-|-|-|-|-|-	NumType=Card	88	nummod	_	_
-90	quas	qui	PRON	p|p|-|p|-|-|-|f|a|-	Case=Acc|Gender=Fem|Number=Plur|PronType=Rel	97	dislocated:nmod	_	_
+90	quas	qui	PRON	p|p|-|p|-|-|-|f|a|-	Case=Acc|Gender=Fem|Number=Plur|PronType=Rel	97	dislocated:obj	_	_
 91	ad	ab	ADP	r|r|-|-|-|-|-|-|-|-	_	92	case	_	_
 92	te	tu	PRON	p|p|2|s|-|-|-|m|b|-	Case=Abl|Gender=Masc|Number=Sing|Person=2|PronType=Prs	97	obl	_	SpaceAfter=No
 93	,	,	PUNCT	Punc	_	92	punct	_	_
@@ -9983,7 +9983,7 @@
 # sent_id = dev-s299
 # text = omnia qualiter suprascripto Gumfridulo eas ad manus suas abere videtur, ad te eas in comutationem recepi in integrum.
 # reference = document_id='85:16'-span='173'
-1	omnia	omnis	DET	a|a|-|p|-|-|-|n|a|-	Case=Acc|Gender=Neut|Number=Plur|PronType=Tot	17	dislocated:nmod	_	_
+1	omnia	omnis	DET	a|a|-|p|-|-|-|n|a|-	Case=Acc|Gender=Neut|Number=Plur|PronType=Tot	17	dislocated:obj	_	_
 2	qualiter	qualiter	SCONJ	d|d|-|-|-|-|-|-|-|-	_	10	mark	_	_
 3	suprascripto	suprascriptus	DET	a|a|-|s|-|-|-|m|a|-	Case=Acc|Gender=Masc|Number=Sing|PronType=Dem	4	det	_	_
 4	Gumfridulo	Gumfridulus	PROPN	Propn|n|-|s|-|-|-|m|a|-	Case=Acc|Gender=Masc|Number=Sing	10	nsubj:pass	_	_
@@ -11586,7 +11586,7 @@
 # sent_id = dev-s354
 # text = omnia quantum ad ipsa casa est pertenentes, in integrum mihi eas livellario nomine dedisti tali ordinem ut ego, vel meis heredes, in ipsa casa homines ad residendum et abitandum mittere debeamus, et tam ipsa casa quam et predicta res bene laborare et gubernare seo meliorare debeamus, nobis privatum fruendum.
 # reference = document_id='85:19'-span='30'
-1	omnia	omnis	DET	a|a|-|p|-|-|-|n|a|-	Case=Acc|Gender=Neut|Number=Plur|PronType=Tot	15	dislocated:nmod	_	_
+1	omnia	omnis	DET	a|a|-|p|-|-|-|n|a|-	Case=Acc|Gender=Neut|Number=Plur|PronType=Tot	15	dislocated:obj	_	_
 2	quantum	quantum	ADV	d|d|-|-|-|-|-|-|-|-	PronType=Rel	7	advmod	_	_
 3	ad	ad	ADP	r|r|-|-|-|-|-|-|-|-	_	5	case	_	_
 4	ipsa	ipse	DET	p|p|-|s|-|-|-|f|a|-	Case=Acc|Gender=Fem|Number=Sing|PronType=Dem	5	det	_	_
@@ -12009,7 +12009,7 @@
 # sent_id = dev-s367
 # text = casa vero ipsa cum fundamento, curte, orto, terris, vineis, silvis, virgareis, pratis, pascuis, cultum vel incultum, omnia quantum exinde Rachiprando presbitero ad manus suas abuit mihi dedisti tali tinore ut ego, vel meis heredes, in ipsa casa residere et abitare debeamus, tam ipsa casa quam et res per singulos annos bene laborare et gubernare debeamus.
 # reference = document_id='85:20'-span='43'
-1	casa	casa	NOUN	n|n|-|s|-|-|-|f|a|-	Case=Acc|Gender=Fem|Number=Sing	37	dislocated:nmod	_	_
+1	casa	casa	NOUN	n|n|-|s|-|-|-|f|a|-	Case=Acc|Gender=Fem|Number=Sing	37	dislocated:obj	_	_
 2	vero	uero	ADV	d|d|-|-|-|-|-|-|-|-	_	37	advmod	_	_
 3	ipsa	ipse	DET	p|p|-|s|-|-|-|f|a|-	Case=Acc|Gender=Fem|Number=Sing|PronType=Dem	1	det	_	_
 4	cum	cum	ADP	r|r|-|-|-|-|-|-|-|-	_	5	case	_	_
@@ -12709,7 +12709,7 @@
 13	et	et	CCONJ	c|c|-|-|-|-|-|-|-|-	_	14	cc	_	_
 14	detinet	detineo	VERB	v|v|3|s|p|i|a|-|-|-	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	12	conj	_	SpaceAfter=No
 15	,	,	PUNCT	Punc	_	16	punct	_	_
-16	si	si	SCONJ	c|c|-|-|-|-|-|-|-|-	_	12	dislocated:conj	_	_
+16	si	si	SCONJ	c|c|-|-|-|-|-|-|-|-	_	12	dislocated	_	_
 17	abet	habeo	VERB	v|v|3|s|p|i|a|-|-|-	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	12	conj	_	_
 18	exinde	exinde	ADV	d|d|-|-|-|-|-|-|-|-	_	17	advmod	_	_
 19	monimen	munimen	NOUN	n|n|-|s|-|-|-|n|a|-	Case=Acc|Gender=Neut|Number=Sing	17	obj	_	_
@@ -15536,7 +15536,7 @@
 # sent_id = dev-s503
 # text = omnia quantum ad ipsa casa est pertenentes, et suprascripto Rachulo exinde ad manus suas abere videtur, in integrum mihi eas dedisti tali ordinem ut da admodum, dum vita mea fuerit, in mea qui supra Cristiano presbitero sint potestatem, suprascripto casa et res, quas mihi dedisti, abendi, inperandi, gubernandi, laborare faciendi, meliorandi et mihi eas privato nomine usufructuandi, et in ipsa casa homines ad residendum et abitandum mittere debeam;
 # reference = document_id='85:26'-span='188'
-1	omnia	omnis	DET	a|a|-|p|-|-|-|n|a|-	Case=Acc|Gender=Neut|Number=Plur|PronType=Tot	23	dislocated:nmod	_	_
+1	omnia	omnis	DET	a|a|-|p|-|-|-|n|a|-	Case=Acc|Gender=Neut|Number=Plur|PronType=Tot	23	dislocated:obj	_	_
 2	quantum	quantum	ADV	d|d|-|-|-|-|-|-|-|-	PronType=Rel	7	advmod	_	_
 3	ad	ad	ADP	r|r|-|-|-|-|-|-|-|-	_	5	case	_	_
 4	ipsa	ipse	DET	p|p|-|s|-|-|-|f|a|-	Case=Acc|Gender=Fem|Number=Sing|PronType=Dem	5	det	_	_
@@ -16111,7 +16111,7 @@
 # sent_id = dev-s521
 # text = petia ipsa de terra, qualiter circumdata est per designatas locas, quod est per mensura ad iusta pertica mensuratas sistariorum quadraginta, in integrum tibi eas in comutationem dare videor ad parte ipsius episcopatui vestro sancti Martini.
 # reference = document_id='85:27'-span='7'
-1	petia	petia	NOUN	n|n|-|s|-|-|-|f|a|-	Case=Acc|Gender=Fem|Number=Sing	30	dislocated:nmod	_	_
+1	petia	petia	NOUN	n|n|-|s|-|-|-|f|a|-	Case=Acc|Gender=Fem|Number=Sing	30	dislocated:obj	_	_
 2	ipsa	ipse	DET	p|p|-|s|-|-|-|f|a|-	Case=Acc|Gender=Fem|Number=Sing|PronType=Dem	1	det	_	_
 3	de	de	ADP	r|r|-|-|-|-|-|-|-|-	_	4	case	_	_
 4	terra	terra	NOUN	n|n|-|s|-|-|-|f|b|-	Case=Abl|Gender=Fem|Number=Sing	1	nmod	_	SpaceAfter=No
@@ -16246,7 +16246,7 @@
 # sent_id = dev-s524
 # text = petia ipsa de terra, qualiter circumdata est per designatas locas, quod est per mensura ad iusta pertica mansuratas sistariorum triginta duo, in integrum ad te eas in comutationem recepi de pars ipsius episcopatui vestro sancti Martini.
 # reference = document_id='85:27'-span='10'
-1	petia	petia	NOUN	n|n|-|s|-|-|-|f|a|-	Case=Acc|Gender=Fem|Number=Sing	32	dislocated:nmod	_	_
+1	petia	petia	NOUN	n|n|-|s|-|-|-|f|a|-	Case=Acc|Gender=Fem|Number=Sing	32	dislocated:obj	_	_
 2	ipsa	ipse	DET	p|p|-|s|-|-|-|f|a|-	Case=Acc|Gender=Fem|Number=Sing|PronType=Dem	1	det	_	_
 3	de	de	ADP	r|r|-|-|-|-|-|-|-|-	_	4	case	_	_
 4	terra	terra	NOUN	n|n|-|s|-|-|-|f|b|-	Case=Abl|Gender=Fem|Number=Sing	1	nmod	_	SpaceAfter=No
@@ -17333,7 +17333,7 @@
 # sent_id = dev-s562
 # text = omnia quantum ad ipsa ecclesia sancti Andree, tam domnicatis casis et rebus quam et massariciis, quantas ubique in qualibet locis vel vocabulis ad predicta ecclesia est pertenentes, in integrum mihi eas dedisti;
 # reference = document_id='85:29'-span='48'
-1	omnia	omnis	DET	a|a|-|p|-|-|-|n|a|-	Case=Acc|Gender=Neut|Number=Plur|PronType=Tot	35	dislocated:nmod	_	_
+1	omnia	omnis	DET	a|a|-|p|-|-|-|n|a|-	Case=Acc|Gender=Neut|Number=Plur|PronType=Tot	35	dislocated:obj	_	_
 2	quantum	quantum	ADV	d|d|-|-|-|-|-|-|-|-	PronType=Rel	29	reparandum	_	_
 3	ad	ad	ADP	r|r|-|-|-|-|-|-|-|-	_	5	case	_	_
 4	ipsa	ipse	DET	p|p|-|s|-|-|-|f|a|-	Case=Acc|Gender=Fem|Number=Sing|PronType=Dem	5	det	_	_
@@ -17491,7 +17491,7 @@
 # sent_id = dev-s565
 # text = vinea ipsa cum omnibus arboribus suis, in integrum mihi eas dedisti;
 # reference = document_id='85:29'-span='52'
-1	vinea	uinea	NOUN	n|n|-|s|-|-|-|f|a|-	Case=Acc|Gender=Fem|Number=Sing	12	dislocated:nmod	_	_
+1	vinea	uinea	NOUN	n|n|-|s|-|-|-|f|a|-	Case=Acc|Gender=Fem|Number=Sing	12	dislocated:obj	_	_
 2	ipsa	ipse	DET	p|p|-|s|-|-|-|f|a|-	Case=Acc|Gender=Fem|Number=Sing|PronType=Dem	1	det	_	_
 3	cum	cum	ADP	r|r|-|-|-|-|-|-|-|-	_	5	case	_	_
 4	omnibus	omnis	DET	a|a|-|p|-|-|-|m|b|-	Case=Abl|Gender=Masc|Number=Plur|PronType=Tot	5	det	_	_
@@ -17551,7 +17551,7 @@
 # sent_id = dev-s567
 # text = omnia quantum exinde filii Grimaldi ad manus suas abuit, in integrum mihi eas dedisti;
 # reference = document_id='85:29'-span='54'
-1	omnia	omnis	DET	a|a|-|p|-|-|-|n|a|-	Case=Acc|Gender=Neut|Number=Plur|PronType=Tot	15	dislocated:nmod	_	_
+1	omnia	omnis	DET	a|a|-|p|-|-|-|n|a|-	Case=Acc|Gender=Neut|Number=Plur|PronType=Tot	15	dislocated:obj	_	_
 2	quantum	quantum	ADV	d|d|-|-|-|-|-|-|-|-	PronType=Rel	9	advmod	_	_
 3	exinde	exinde	ADV	d|d|-|-|-|-|-|-|-|-	_	9	advmod	_	_
 4	filii	filius	NOUN	n|n|-|p|-|-|-|m|n|-	Case=Nom|Gender=Masc|Number=Plur	9	nsubj	_	_
@@ -17638,7 +17638,7 @@
 # sent_id = dev-s569
 # text = omnia quantum in predicto loco Cassiaticho predicte ecclesie sancti Bartholomei est pertinentes, et Ermulo exinde ad manus suas abere videtur, in integrum mihi eas dedisti tali ordinem ut da admodum suprascripta ecclesia seu casis et rebus quas mihi superius dedisti in mea vel de meis heredes sint potestatem eas abendi, inperandi, gubernandi, laborare faciendi, meliorandi et nobis eas privato nomine usufructuandi;
 # reference = document_id='85:29'-span='56'
-1	omnia	omnis	DET	a|a|-|p|-|-|-|n|a|-	Case=Acc|Gender=Neut|Number=Plur|PronType=Tot	27	dislocated:nmod	_	_
+1	omnia	omnis	DET	a|a|-|p|-|-|-|n|a|-	Case=Acc|Gender=Neut|Number=Plur|PronType=Tot	27	dislocated:obj	_	_
 2	quantum	quantum	ADV	d|d|-|-|-|-|-|-|-|-	PronType=Rel	12	advmod	_	_
 3	in	in	ADP	r|r|-|-|-|-|-|-|-|-	_	5	case	_	_
 4	predicto	praedictus	DET	a|a|-|s|-|-|-|m|b|-	Case=Abl|Gender=Masc|Number=Sing|PronType=Dem	5	det	_	_
@@ -18218,7 +18218,7 @@
 # sent_id = dev-s587
 # text = omnia quantum ad ipsa casa est pertenentes et nos ipsis exinde ad manus nostra abere visi sumus, una cum terra illa qui pertinet de suprascripta casa ubi vocitatur ad Valle, [--] prope ecclesia sancte Marie, in integrum nobis eas dedisti tali ordinem ut nos, vel nostris heredibus, in ipsa casa homines ad residendum et abitandum mittere debeamus, et tam ipsa casa quam et res quas nobis dedisti bene laborare et gubernare seu meliorare debeamus nobis privatum fruendum.
 # reference = document_id='85:30'-span='74'
-1	omnia	omnis	DET	a|a|-|p|-|-|-|n|a|-	Case=Acc|Gender=Neut|Number=Plur|PronType=Tot	43	dislocated:nmod	_	_
+1	omnia	omnis	DET	a|a|-|p|-|-|-|n|a|-	Case=Acc|Gender=Neut|Number=Plur|PronType=Tot	43	dislocated:obj	_	_
 2	quantum	quantum	ADV	d|d|-|-|-|-|-|-|-|-	PronType=Rel	7	advmod	_	_
 3	ad	ad	ADP	r|r|-|-|-|-|-|-|-|-	_	5	case	_	_
 4	ipsa	ipse	DET	p|p|-|s|-|-|-|f|a|-	Case=Acc|Gender=Fem|Number=Sing|PronType=Dem	5	det	_	_
@@ -19422,7 +19422,7 @@
 1	tota	totus	DET	a|a|-|s|-|-|-|f|a|-	Case=Acc|Gender=Fem|Number=Sing|PronType=Tot	4	det	_	_
 2	ipsa	ipse	DET	p|p|-|s|-|-|-|f|a|-	Case=Acc|Gender=Fem|Number=Sing|PronType=Dem	4	det	_	_
 3	nostra	noster	DET	a|a|1|s|-|-|-|f|a|-	Case=Acc|Gender=Fem|Number=Sing|Number[psor]=Plur|Person[psor]=1|Poss=Yes|PronType=Prs	4	det	_	_
-4	portione	portio	NOUN	n|n|-|s|-|-|-|f|a|-	Case=Acc|Gender=Fem|Number=Sing	8	dislocated:nmod	_	SpaceAfter=No
+4	portione	portio	NOUN	n|n|-|s|-|-|-|f|a|-	Case=Acc|Gender=Fem|Number=Sing	8	dislocated:obj	_	SpaceAfter=No
 5	,	,	PUNCT	Punc	_	4	punct	_	_
 6	tibi	tu	PRON	p|p|2|s|-|-|-|m|d|-	Case=Dat|Gender=Masc|Number=Sing|Person=2|PronType=Prs	8	obl:arg	_	_
 7	eas	is	PRON	p|p|-|s|-|-|-|f|a|-	Case=Acc|Gender=Fem|Number=Sing|Person=3|PronType=Dem,Prs	8	obj	_	_
@@ -20160,7 +20160,7 @@
 # sent_id = dev-s642
 # text = casella ipsa cun fundamento et edeficio suo, qualiter circumdata est per designatas locas in integrum, ad te eas in comutationem recepi.
 # reference = document_id='85:34'-span='132'
-1	casella	casella	NOUN	n|n|-|s|-|-|-|f|a|-	Case=Acc|Gender=Fem|Number=Sing	23	dislocated:nmod	_	_
+1	casella	casella	NOUN	n|n|-|s|-|-|-|f|a|-	Case=Acc|Gender=Fem|Number=Sing	23	dislocated:obj	_	_
 2	ipsa	ipse	DET	p|p|-|s|-|-|-|f|a|-	Case=Acc|Gender=Fem|Number=Sing|PronType=Dem	1	det	_	_
 3	cun	cum	ADP	r|r|-|-|-|-|-|-|-|-	_	4	case	_	_
 4	fundamento	fundamentum	NOUN	n|n|-|s|-|-|-|n|b|-	Case=Abl|Gender=Neut|Number=Sing	1	nmod	_	_
@@ -20490,7 +20490,7 @@
 # reference = document_id='85:35'-span='140'
 1	suprascripte	suprascriptus	DET	a|a|-|p|-|-|-|f|n|-	Case=Nom|Gender=Fem|Number=Plur|PronType=Dem	3	det	_	_
 2	duo	duo	NUM	a|a|-|p|-|-|-|m|n|-	Case=Nom|Gender=Masc|Number=Plur|NumType=Card	3	nummod	_	_
-3	petie	petia	NOUN	n|n|-|p|-|-|-|f|n|-	Case=Nom|Gender=Fem|Number=Plur	37	dislocated:nmod	_	_
+3	petie	petia	NOUN	n|n|-|p|-|-|-|f|n|-	Case=Nom|Gender=Fem|Number=Plur	37	dislocated:obj	_	_
 4	de	de	ADP	r|r|-|-|-|-|-|-|-|-	_	5	case	_	_
 5	terra	terra	NOUN	n|n|-|s|-|-|-|f|b|-	Case=Abl|Gender=Fem|Number=Sing	3	nmod	_	_
 6	qualiter	qualiter	SCONJ	d|d|-|-|-|-|-|-|-|-	_	10	mark	_	_
@@ -20829,7 +20829,7 @@
 44	si	si	SCONJ	c|c|-|-|-|-|-|-|-|-	_	52	mark	_	_
 45	nos	nos	PRON	p|p|1|p|-|-|-|m|n|-	Case=Nom|Gender=Masc|Number=Plur|Person=1|PronType=Prs	52	nsubj	_	_
 46	vobis	uos	PRON	p|p|2|p|-|-|-|m|d|-	Case=Dat|Gender=Masc|Number=Plur|Person=2|PronType=Prs	52	obl:arg	_	_
-47	eas	is	PRON	p|p|-|p|-|-|-|f|a|-	Case=Acc|Gender=Fem|Number=Plur|Person=3|PronType=Dem,Prs	52	dislocated:nmod	_	_
+47	eas	is	PRON	p|p|-|p|-|-|-|f|a|-	Case=Acc|Gender=Fem|Number=Plur|Person=3|PronType=Dem,Prs	52	dislocated:obj	_	_
 48	aliquando	aliquando	ADV	d|d|-|-|-|-|-|-|-|-	_	52	advmod	_	_
 49	tempore	tempus	NOUN	n|n|-|s|-|-|-|n|b|-	Case=Abl|Gender=Neut|Number=Sing	52	obl	_	SpaceAfter=No
 50	,	,	PUNCT	Punc	_	49	punct	_	_
@@ -21760,7 +21760,7 @@
 # sent_id = dev-s691
 # text = petia ipsa de terra, qualiter circumdata est per designatas locas, quod est per mensura ad iusta pertica mensurata modiorum unum et sistariorum nove, una cum fose et cese sue in integrum tibi eas in comutationem dare videor ad pars suprascripte ecclesie sancti Silvestri.
 # reference = document_id='85:37'-span='182'
-1	petia	petia	NOUN	n|n|-|s|-|-|-|f|a|-	Case=Acc|Gender=Fem|Number=Sing	39	dislocated:nmod	_	_
+1	petia	petia	NOUN	n|n|-|s|-|-|-|f|a|-	Case=Acc|Gender=Fem|Number=Sing	39	dislocated:obj	_	_
 2	ipsa	ipse	DET	p|p|-|s|-|-|-|f|a|-	Case=Acc|Gender=Fem|Number=Sing|PronType=Dem	1	det	_	_
 3	de	de	ADP	r|r|-|-|-|-|-|-|-|-	_	4	case	_	_
 4	terra	terra	NOUN	n|n|-|s|-|-|-|f|b|-	Case=Abl|Gender=Fem|Number=Sing	1	nmod	_	SpaceAfter=No
@@ -21892,7 +21892,7 @@
 # text = suprascripta petia de terra, qualiter ab omnis parte circumdata est per designatas locas, quod est per mensura ad iusta pertica mensurata modiorum unum et sistariorum quattuor, una cum cesis et omnibus arboribus suis, in integrum ad te eas in comutationem recepi de parte suprascripte ecclesie sancti Silvestri.
 # reference = document_id='85:37'-span='184'
 1	suprascripta	suprascriptus	DET	a|a|-|s|-|-|-|f|a|-	Case=Acc|Gender=Fem|Number=Sing|PronType=Dem	2	det	_	_
-2	petia	petia	NOUN	n|n|-|s|-|-|-|f|a|-	Case=Acc|Gender=Fem|Number=Sing	45	dislocated:nmod	_	_
+2	petia	petia	NOUN	n|n|-|s|-|-|-|f|a|-	Case=Acc|Gender=Fem|Number=Sing	45	dislocated:obj	_	_
 3	de	de	ADP	r|r|-|-|-|-|-|-|-|-	_	4	case	_	_
 4	terra	terra	NOUN	n|n|-|s|-|-|-|f|b|-	Case=Abl|Gender=Fem|Number=Sing	2	nmod	_	SpaceAfter=No
 5	,	,	PUNCT	Punc	_	10	punct	_	_
@@ -22699,7 +22699,7 @@
 # text = suprascripta petia de terra qualiter circumdata est per desingnatas locas, conpetit exinde mihi, medietatem ipsa vero ex integram medietas tibi dedi a parte iam dicte ecclesie;
 # reference = document_id='85:38'-span='11'
 1	suprascripta	suprascriptus	DET	a|a|-|s|-|-|-|f|a|-	Case=Acc|Gender=Fem|Number=Sing|PronType=Dem	2	det	_	_
-2	petia	petia	NOUN	n|n|-|s|-|-|-|f|a|-	Case=Acc|Gender=Fem|Number=Sing	23	dislocated:nmod	_	_
+2	petia	petia	NOUN	n|n|-|s|-|-|-|f|a|-	Case=Acc|Gender=Fem|Number=Sing	23	dislocated:obj	_	_
 3	de	de	ADP	r|r|-|-|-|-|-|-|-|-	_	4	case	_	_
 4	terra	terra	NOUN	n|n|-|s|-|-|-|f|b|-	Case=Abl|Gender=Fem|Number=Sing	2	nmod	_	_
 5	qualiter	qualiter	SCONJ	d|d|-|-|-|-|-|-|-|-	_	6	mark	_	_
@@ -23721,7 +23721,7 @@
 171	quondam	quondam	ADJ	a|a|-|-|-|-|-|-|-|-	_	172	amod	_	_
 172	Eritei	Eriteus	PROPN	Propn|n|-|s|-|-|-|m|g|-	Case=Gen|Gender=Masc|Number=Sing	168	acl:relcl	_	SpaceAfter=No
 173	,	,	PUNCT	Punc	_	117	punct	_	_
-174	petia	petia	NOUN	n|n|-|s|-|-|-|f|a|-	Case=Acc|Gender=Fem|Number=Sing	54	dislocated:conj	_	_
+174	petia	petia	NOUN	n|n|-|s|-|-|-|f|a|-	Case=Acc|Gender=Fem|Number=Sing	54	dislocated	_	_
 175	ipsa	ipse	DET	p|p|-|s|-|-|-|f|a|-	Case=Acc|Gender=Fem|Number=Sing|PronType=Dem	174	det	_	_
 176	de	de	ADP	r|r|-|-|-|-|-|-|-|-	_	177	case	_	_
 177	terra	terra	NOUN	n|n|-|s|-|-|-|f|b|-	Case=Abl|Gender=Fem|Number=Sing	174	nmod	_	_
@@ -23795,7 +23795,7 @@
 # reference = document_id='85:39'-span='42'
 1	hec	hic	DET	p|p|-|p|-|-|-|f|n|-	Case=Nom|Gender=Fem|Number=Plur|PronType=Dem	3	det	_	_
 2	predictas	praedictus	DET	a|a|-|p|-|-|-|f|a|-	Case=Acc|Gender=Fem|Number=Plur|PronType=Dem	3	det	_	_
-3	petias	petia	NOUN	n|n|-|p|-|-|-|f|a|-	Case=Acc|Gender=Fem|Number=Plur	37	dislocated:nmod	_	_
+3	petias	petia	NOUN	n|n|-|p|-|-|-|f|a|-	Case=Acc|Gender=Fem|Number=Plur	37	dislocated:obj	_	_
 4	de	de	ADP	r|r|-|-|-|-|-|-|-|-	_	5	case	_	_
 5	vineas	uinea	NOUN	n|n|-|p|-|-|-|f|a|-	Case=Acc|Gender=Fem|Number=Plur	3	nmod	_	_
 6	et	et	CCONJ	c|c|-|-|-|-|-|-|-|-	_	7	cc	_	_
@@ -24024,7 +24024,7 @@
 # reference = document_id='85:39'-span='46'
 1	hec	hic	DET	p|p|-|p|-|-|-|f|n|-	Case=Nom|Gender=Fem|Number=Plur|PronType=Dem	3	det	_	_
 2	predictas	praedictus	DET	a|a|-|p|-|-|-|f|a|-	Case=Acc|Gender=Fem|Number=Plur|PronType=Dem	3	det	_	_
-3	petias	petia	NOUN	n|n|-|p|-|-|-|f|a|-	Case=Acc|Gender=Fem|Number=Plur	53	dislocated:nmod	_	_
+3	petias	petia	NOUN	n|n|-|p|-|-|-|f|a|-	Case=Acc|Gender=Fem|Number=Plur	53	dislocated:obj	_	_
 4	de	de	ADP	r|r|-|-|-|-|-|-|-|-	_	5	case	_	_
 5	terras	terra	NOUN	n|n|-|p|-|-|-|f|a|-	Case=Acc|Gender=Fem|Number=Plur	3	nmod	_	_
 6	et	et	CCONJ	c|c|-|-|-|-|-|-|-|-	_	7	cc	_	_
@@ -24881,7 +24881,7 @@
 # reference = document_id='85:41'-span='74'
 1	ambo	ambo	DET	p|p|-|p|-|-|-|n|a|-	Case=Acc|Gender=Neut|Number=Plur|PronType=Tot	3	nmod	_	_
 2	ipse	ipse	DET	p|p|-|p|-|-|-|f|n|-	Case=Nom|Gender=Fem|Number=Plur|PronType=Dem	3	det	_	_
-3	petie	petia	NOUN	n|n|-|p|-|-|-|f|n|-	Case=Nom|Gender=Fem|Number=Plur	17	dislocated:nmod	_	_
+3	petie	petia	NOUN	n|n|-|p|-|-|-|f|n|-	Case=Nom|Gender=Fem|Number=Plur	17	dislocated:obj	_	_
 4	de	de	ADP	r|r|-|-|-|-|-|-|-|-	_	5	case	_	_
 5	vinee	uinea	NOUN	n|n|-|p|-|-|-|f|n|-	Case=Nom|Gender=Fem|Number=Plur	3	nmod	_	_
 6	cum	cum	ADP	r|r|-|-|-|-|-|-|-|-	_	7	case	_	_
@@ -25021,7 +25021,7 @@
 # text = suprascripta petia de terra, qualiter ab omnis partes circumdata est per designatas locas cum fossis suis in integrum mihi eas dedisti, tali ordinem ut da admodum dum vita Arifusi presbiteri et abbas monasterii beati sancti Petri sito Campo Maiore, filio quondam Auchisi, fuerit, in mea qui supra Petrus vel de meis heredes sint potestatem suprascriptas ecclesie sancti Geminiani et sancte Marie cum casis et rebus ad eas pertenentibus, seu predictis capannis et rebus massariciis adque et supradictis petiis de vineis et terra seu silva quas mihi supra dedisti, abendi, inperandi, laborare faciendi ita ut melioretur nam non pegioretur et nobis eas privato nomine usufructuandi et in ipsa Domini ecclesia sancti Geminiani et sancte Marie per nostram dispositionem officium Dei et luminaria seu missarum fieri debeam.
 # reference = document_id='85:41'-span='78'
 1	suprascripta	suprascriptus	DET	a|a|-|s|-|-|-|f|a|-	Case=Acc|Gender=Fem|Number=Sing|PronType=Dem	2	det	_	_
-2	petia	petia	NOUN	n|n|-|s|-|-|-|f|a|-	Case=Acc|Gender=Fem|Number=Sing	22	dislocated:nmod	_	_
+2	petia	petia	NOUN	n|n|-|s|-|-|-|f|a|-	Case=Acc|Gender=Fem|Number=Sing	22	dislocated:obj	_	_
 3	de	de	ADP	r|r|-|-|-|-|-|-|-|-	_	4	case	_	_
 4	terra	terra	NOUN	n|n|-|s|-|-|-|f|b|-	Case=Abl|Gender=Fem|Number=Sing	2	nmod	_	SpaceAfter=No
 5	,	,	PUNCT	Punc	_	10	punct	_	_
@@ -25630,7 +25630,7 @@
 # sent_id = dev-s795
 # text = petie ipse de terre et quercieto, qualiter eas nos ipsis usque modo ad manus nostra abuimus, nobis eas dedisti in integrum tali ordinem ut nos, vel nostris heredibus, suprascripte petie de terre quas nobis dedisti bene laborare et gubernare seu meliorare debeamus;
 # reference = document_id='85:42'-span='90'
-1	petie	petia	NOUN	n|n|-|p|-|-|-|f|n|-	Case=Nom|Gender=Fem|Number=Plur	21	dislocated:nmod	_	_
+1	petie	petia	NOUN	n|n|-|p|-|-|-|f|n|-	Case=Nom|Gender=Fem|Number=Plur	21	dislocated:obj	_	_
 2	ipse	ipse	DET	p|p|-|p|-|-|-|f|n|-	Case=Nom|Gender=Fem|Number=Plur|PronType=Dem	1	det	_	_
 3	de	de	ADP	r|r|-|-|-|-|-|-|-|-	_	4	case	_	_
 4	terre	terra	NOUN	n|n|-|p|-|-|-|f|n|-	Case=Nom|Gender=Fem|Number=Plur	1	nmod	_	_
