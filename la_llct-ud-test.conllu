@@ -3906,12 +3906,12 @@
 28	ad	ad	ADP	r|r|-|-|-|-|-|-|-|-	_	30	case	_	_
 29	tertiam	tertius	ADJ	a|a|-|s|-|-|-|f|a|-	Case=Acc|Gender=Fem|Number=Sing|NumType=Ord	30	amod	_	_
 30	vices	uicis	NOUN	n|n|-|s|-|-|-|f|a|-	Case=Acc|Gender=Fem|Number=Sing	33	obl	_	_
-31	ube	uua	NOUN	n|n|-|p|-|-|-|f|n|-	Case=Nom|Gender=Fem|Number=Plur	33	nsubj:pass	_	_
+31	ube	uua	NOUN	n|n|-|p|-|-|-|f|n|-	Case=Gen|Gender=Fem|Number=Plur	26	nmod	_	_
 32	legitime	legitime	ADV	d|d|-|-|-|-|-|-|-|-	_	33	advmod	_	_
-33	calcate	calco	VERB	t|t|-|p|r|p|p|f|n|-	Aspect=Perf|Case=Nom|Gender=Fem|Number=Plur|Tense=Past|VerbForm=Part|Voice=Pass	23	advcl	_	_
+33	calcate	calco	VERB	t|t|-|p|r|p|p|f|n|-	Aspect=Perf|Case=Gen|Gender=Fem|Number=Plur|Tense=Past|VerbForm=Part|Voice=Pass	31	acl	_	_
 34	et	et	CCONJ	c|c|-|-|-|-|-|-|-|-	_	36	cc	_	_
 35	indi	inde	ADV	d|d|-|-|-|-|-|-|-|-	_	36	advmod	_	_
-36	vinate	uino	VERB	t|t|-|p|r|p|p|f|n|-	Aspect=Perf|Case=Nom|Gender=Fem|Number=Plur|Tense=Past|VerbForm=Part|Voice=Pass	33	conj	_	SpaceAfter=No
+36	vinate	uino	VERB	t|t|-|p|r|p|p|f|n|-	Aspect=Perf|Case=Gen|Gender=Fem|Number=Plur|Tense=Past|VerbForm=Part|Voice=Pass	33	conj	_	SpaceAfter=No
 37	,	,	PUNCT	Punc	_	41	punct	_	_
 38	nam	nam	CCONJ	c|c|-|-|-|-|-|-|-|-	_	41	cc	_	_
 39	non	non	PART	d|d|-|-|-|-|-|-|-|-	Polarity=Neg	41	advmod	_	_
