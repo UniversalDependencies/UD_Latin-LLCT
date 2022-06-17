@@ -35,11 +35,11 @@
   <feats unique="58">
     <feat name="Aspect" value="Imp" upos="AUX,VERB">14373</feat><!-- debeamus, est, legitur, tenet, regnante, scribere, conponere, pertenentes, dicitur, fieri -->
     <feat name="Aspect" value="Perf" upos="AUX,VERB">16603</feat><!-- subscripsi, rogatus, dedi, dedisti, fuerit, actum, conplevi, traditam, rogavimus, fuit -->
-    <feat name="Case" value="Abl" upos="ADJ,DET,NOUN,NUM,PRON,PROPN,VERB">37334</feat><!-- me, teste, loco, terra, nomine, anno, mea, rebus, nostro, domno -->
+    <feat name="Case" value="Abl" upos="ADJ,DET,NOUN,NUM,PRON,PROPN,VERB">37358</feat><!-- me, teste, loco, terra, nomine, anno, mea, rebus, nostro, domno -->
     <feat name="Case" value="Acc" upos="ADJ,DET,NOUN,NUM,PRON,PROPN,VERB">39651</feat><!-- nos, filio, res, ipsa, casa, quas, hanc, cartula, integrum, annos -->
     <feat name="Case" value="Dat" upos="ADJ,DET,NOUN,PRON,PROPN,VERB">5781</feat><!-- tibi, mihi, vobis, ecclesie, nobis, cui, Deo, tuis, eidem, successoribus -->
     <feat name="Case" value="Gen" upos="ADJ,DET,NOUN,PRON,PROPN,VERB">21011</feat><!-- sancti, Dei, eius, ecclesie, manus, ipsius, Martini, testis, sancte, bone -->
-    <feat name="Case" value="Loc" upos="NOUN,PROPN">25</feat><!-- noctu, Lucae -->
+    <feat name="Case" value="Loc" upos="PROPN">1</feat><!-- Lucae -->
     <feat name="Case" value="Nom" upos="ADJ,DET,NOUN,NUM,PRON,PROPN,VERB">28579</feat><!-- ego, qui, rogatus, signum, notarius, episcopus, presbiter, nos, actum, clericus -->
     <feat name="Case" value="Voc" upos="ADJ,NOUN,PROPN,VERB">51</feat><!-- episcope, Iacobe, domne, Aldiperte, Gundolperte, Alperte, Ansiprande, Meringule, Alfonse, Alfuse -->
     <feat name="Degree" value="Abs" upos="ADJ,ADV,VERB">273</feat><!-- serenissimus, gloriosissimi, serenissimo, beatissimi, beatissimo, piissimo, beatissimus, firmissimo, gloriosissimus, beatissime -->
