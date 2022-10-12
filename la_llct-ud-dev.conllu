@@ -17334,7 +17334,7 @@
 # text = omnia quantum ad ipsa ecclesia sancti Andree, tam domnicatis casis et rebus quam et massariciis, quantas ubique in qualibet locis vel vocabulis ad predicta ecclesia est pertenentes, in integrum mihi eas dedisti;
 # reference = document_id='85:29'-span='48'
 1	omnia	omnis	DET	a|a|-|p|-|-|-|n|a|-	Case=Acc|Gender=Neut|Number=Plur|PronType=Tot	35	dislocated:obj	_	_
-2	quantum	quantum	ADV	d|d|-|-|-|-|-|-|-|-	PronType=Rel	29	reparandum	_	_
+2	quantum	quantum	ADV	d|d|-|-|-|-|-|-|-|-	PronType=Rel	29	advmod	_	_
 3	ad	ad	ADP	r|r|-|-|-|-|-|-|-|-	_	5	case	_	_
 4	ipsa	ipse	DET	p|p|-|s|-|-|-|f|a|-	Case=Acc|Gender=Fem|Number=Sing|PronType=Dem	5	det	_	_
 5	ecclesia	ecclesia	NOUN	n|n|-|s|-|-|-|f|a|-	Case=Acc|Gender=Fem|Number=Sing	29	obl	_	_
@@ -17362,7 +17362,7 @@
 27	ecclesia	ecclesia	NOUN	n|n|-|s|-|-|-|f|a|-	Case=Acc|Gender=Fem|Number=Sing	29	obl	_	_
 28	est	sum	AUX	v|v|3|s|p|i|a|-|-|-	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	29	cop	_	_
 29	pertenentes	pertineo	VERB	t|t|-|s|p|p|a|m|a|-	Aspect=Imp|Case=Acc|Gender=Masc|Number=Sing|VerbForm=Part|Voice=Act	1	acl:relcl	_	SpaceAfter=No
-30	,	,	PUNCT	Punc	_	1	punct	_	_
+30	,	,	PUNCT	Punc	_	35	punct	_	_
 31	in	in	ADP	r|r|-|-|-|-|-|-|-|-	_	32	case	_	_
 32	integrum	integer	ADJ	a|a|-|s|-|-|-|n|a|-	Case=Acc|Gender=Neut|Number=Sing	35	obl	_	_
 33	mihi	ego	PRON	p|p|1|s|-|-|-|m|d|-	Case=Dat|Gender=Masc|Number=Sing|Person=1|PronType=Prs	35	obl:arg	_	_
