@@ -12063,19 +12063,19 @@
 52	abitare	habito	VERB	v|v|-|-|p|n|a|-|-|-	Aspect=Imp|VerbForm=Vnoun|Voice=Act	50	conj	_	_
 53	debeamus	debeo	VERB	v|v|1|p|p|s|a|-|-|-	Aspect=Imp|Mood=Sub|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	39	acl	_	SpaceAfter=No
 54	,	,	PUNCT	Punc	_	68	punct	_	_
-55	tam	tam	CCONJ	d|d|-|-|-|-|-|-|-|-	PronType=Dem	57	cc	_	_
+55	tam	tam	ADV	d|d|-|-|-|-|-|-|-|-	PronType=Dem	57	advmod:emph	_	_
 56	ipsa	ipse	DET	p|p|-|s|-|-|-|f|a|-	Case=Acc|Gender=Fem|Number=Sing|PronType=Dem	57	det	_	_
-57	casa	casa	NOUN	n|n|-|s|-|-|-|f|a|-	Case=Acc|Gender=Fem|Number=Sing	68	xcomp	_	_
-58	quam	quam	CCONJ	c|c|-|-|-|-|-|-|-|-	_	60	cc	_	_
-59	et	et	CCONJ	d|d|-|-|-|-|-|-|-|-	_	58	fixed	_	_
-60	res	res	NOUN	n|n|-|s|-|-|-|f|a|-	Case=Acc|Gender=Fem|Number=Sing	57	conj	_	_
+57	casa	casa	NOUN	n|n|-|s|-|-|-|f|a|-	Case=Acc|Gender=Fem|Number=Sing	65	obj	_	_
+58	quam	quam	SCONJ	c|c|-|-|-|-|-|-|-|-	_	60	cc	_	_
+59	et	et	CCONJ	d|d|-|-|-|-|-|-|-|-	_	60	advmod:emph	_	_
+60	res	res	NOUN	n|n|-|s|-|-|-|f|a|-	Case=Acc|Gender=Fem|Number=Sing	65	advcl:cmp	_	_
 61	per	per	ADP	r|r|-|-|-|-|-|-|-|-	_	63	case	_	_
 62	singulos	singulus	ADJ	a|a|-|p|-|-|-|m|a|-	Case=Acc|Gender=Masc|Number=Plur|NumType=Dist	63	amod	_	_
 63	annos	annus	NOUN	n|n|-|p|-|-|-|m|a|-	Case=Acc|Gender=Masc|Number=Plur	65	obl	_	_
 64	bene	bene	ADV	d|d|-|-|-|-|-|-|-|-	_	65	advmod	_	_
-65	laborare	laboro	VERB	v|v|-|-|p|n|a|-|-|-	Aspect=Imp|VerbForm=Vnoun|Voice=Act	57	conj	_	_
+65	laborare	laboro	VERB	v|v|-|-|p|n|a|-|-|-	Aspect=Imp|VerbForm=Vnoun|Voice=Act	68	xcomp	_	_
 66	et	et	CCONJ	c|c|-|-|-|-|-|-|-|-	_	67	cc	_	_
-67	gubernare	guberno	VERB	v|v|-|-|p|n|a|-|-|-	Aspect=Imp|VerbForm=Vnoun|Voice=Act	57	conj	_	_
+67	gubernare	guberno	VERB	v|v|-|-|p|n|a|-|-|-	Aspect=Imp|VerbForm=Vnoun|Voice=Act	65	conj	_	_
 68	debeamus	debeo	VERB	v|v|1|p|p|s|a|-|-|-	Aspect=Imp|Mood=Sub|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	53	conj	_	SpaceAfter=No
 69	.	.	PUNCT	Punc	_	37	punct	_	_
 
