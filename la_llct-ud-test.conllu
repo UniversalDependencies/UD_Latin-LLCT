@@ -112,7 +112,7 @@
 78	abere	habeo	VERB	v|v|-|-|p|n|a|-|-|-	Aspect=Imp|VerbForm=Vnoun|Voice=Act	79	xcomp	_	_
 79	videtur	uideo	VERB	v|v|3|s|p|i|p|-|-|-	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Pass	1	conj	_	SpaceAfter=No
 80	,	,	PUNCT	Punc	_	82	punct	_	_
-81	tam	tam	ADV	d|d|-|-|-|-|-|-|-|-	NumType=Card|PronType=Dem	82	cc	_	_
+81	tam	tam	ADV	d|d|-|-|-|-|-|-|-|-	PronType=Dem	82	cc	_	_
 82	terris	terra	NOUN	n|n|-|p|-|-|-|f|b|-	Case=Abl|Gender=Fem|Number=Plur	78	conj	_	SpaceAfter=No
 83	,	,	PUNCT	Punc	_	84	punct	_	_
 84	vineis	uinea	NOUN	n|n|-|p|-|-|-|f|b|-	Case=Abl|Gender=Fem|Number=Plur	82	conj	_	SpaceAfter=No
@@ -1282,7 +1282,7 @@
 26	ecclesie	ecclesia	NOUN	n|n|-|s|-|-|-|f|d|-	Case=Dat|Gender=Fem|Number=Sing	24	obl:arg	_	_
 27	sancte	sanctus	ADJ	a|a|-|s|-|-|-|f|g|-	Case=Gen|Gender=Fem|Number=Sing	28	amod	_	_
 28	Marie	Maria	PROPN	Propn|n|-|s|-|-|-|f|g|-	Case=Gen|Gender=Fem|Number=Sing	26	nmod	_	_
-29	tam	tam	ADV	d|d|-|-|-|-|-|-|-|-	NumType=Card|PronType=Dem	30	cc	_	_
+29	tam	tam	ADV	d|d|-|-|-|-|-|-|-|-	PronType=Dem	30	cc	_	_
 30	terris	terra	NOUN	n|n|-|p|-|-|-|f|b|-	Case=Abl|Gender=Fem|Number=Plur	23	conj	_	SpaceAfter=No
 31	,	,	PUNCT	Punc	_	32	punct	_	_
 32	silvis	silua	NOUN	n|n|-|p|-|-|-|f|b|-	Case=Abl|Gender=Fem|Number=Plur	30	conj	_	SpaceAfter=No
@@ -2190,23 +2190,23 @@
 70	massariciis	massaricius	ADJ	a|a|-|p|-|-|-|f|b|-	Case=Abl|Gender=Fem|Number=Plur	67	amod	_	_
 71	ad	ad	ADP	r|r|-|-|-|-|-|-|-|-	_	73	case	_	_
 72	eadem	idem	DET	p|p|-|s|-|-|-|f|a|-	Case=Acc|Gender=Fem|Number=Sing|PronType=Dem	73	det	_	_
-73	ecclesia	ecclesia	NOUN	n|n|-|s|-|-|-|f|a|-	Case=Acc|Gender=Fem|Number=Sing	76	obl	_	_
+73	ecclesia	ecclesia	NOUN	n|n|-|s|-|-|-|f|a|-	Case=Acc|Gender=Fem|Number=Sing	76	obl:arg	_	_
 74	sancti	sanctus	ADJ	a|a|-|s|-|-|-|m|g|-	Case=Gen|Gender=Masc|Number=Sing	75	amod	_	_
 75	Terentii	Terentius	PROPN	Propn|n|-|s|-|-|-|m|g|-	Case=Gen|Gender=Masc|Number=Sing	73	nmod	_	_
 76	pertinentibus	pertineo	VERB	t|t|-|p|p|p|a|f|b|-	Aspect=Imp|Case=Abl|Gender=Fem|Number=Plur|VerbForm=Part|Voice=Act	62	acl	_	SpaceAfter=No
 77	,	,	PUNCT	Punc	_	81	punct	_	_
-78	tam	tam	CCONJ	d|d|-|-|-|-|-|-|-|-	NumType=Card|PronType=Dem	81	cc	_	_
+78	tam	tam	ADV	d|d|-|-|-|-|-|-|-|-	PronType=Dem	81	advmod:emph	_	_
 79	in	in	ADP	r|r|-|-|-|-|-|-|-|-	_	81	case	_	_
 80	eodem	idem	DET	p|p|-|s|-|-|-|m|b|-	Case=Abl|Gender=Masc|Number=Sing|PronType=Dem	81	det	_	_
-81	loco	locus	NOUN	n|n|-|s|-|-|-|m|b|-	Case=Abl|Gender=Masc|Number=Sing	76	conj	_	_
+81	loco	locus	NOUN	n|n|-|s|-|-|-|m|b|-	Case=Abl|Gender=Masc|Number=Sing	76	obl:lmod	_	_
 82	et	et	CCONJ	c|c|-|-|-|-|-|-|-|-	_	83	cc	_	_
 83	finibus	finis	NOUN	n|n|-|p|-|-|-|m|b|-	Case=Abl|Gender=Masc|Number=Plur	81	conj	_	_
 84	vico	uicus	NOUN	n|n|-|s|-|-|-|m|b|-	Case=Abl|Gender=Masc|Number=Sing	81	nmod	_	_
 85	Elingo	Elingum	PROPN	Propn|n|-|s|-|-|-|n|b|-	Case=Abl|Gender=Neut|Number=Sing	84	flat	_	_
-86	quam	quam	CCONJ	c|c|-|-|-|-|-|-|-|-	_	89	cc	_	_
-87	et	et	CCONJ	d|d|-|-|-|-|-|-|-|-	_	86	fixed	_	_
+86	quam	quam	SCONJ	c|c|-|-|-|-|-|-|-|-	_	89	mark	_	_
+87	et	et	CCONJ	d|d|-|-|-|-|-|-|-|-	_	89	advmod:emph	_	_
 88	in	in	ADP	r|r|-|-|-|-|-|-|-|-	_	89	case	_	_
-89	loco	locus	NOUN	n|n|-|s|-|-|-|m|b|-	Case=Abl|Gender=Masc|Number=Sing	81	conj	_	_
+89	loco	locus	NOUN	n|n|-|s|-|-|-|m|b|-	Case=Abl|Gender=Masc|Number=Sing	76	advcl:cmp	_	_
 90	et	et	CCONJ	c|c|-|-|-|-|-|-|-|-	_	91	cc	_	_
 91	finibus	finis	NOUN	n|n|-|p|-|-|-|m|b|-	Case=Abl|Gender=Masc|Number=Plur	89	conj	_	_
 92	vico	uicus	NOUN	n|n|-|s|-|-|-|m|b|-	Case=Abl|Gender=Masc|Number=Sing	89	nmod	_	_
@@ -2396,7 +2396,7 @@
 59	casis	casa	NOUN	n|n|-|p|-|-|-|f|b|-	Case=Abl|Gender=Fem|Number=Plur	55	conj	_	_
 60	et	et	CCONJ	c|c|-|-|-|-|-|-|-|-	_	61	cc	_	_
 61	rebus	res	NOUN	n|n|-|p|-|-|-|f|b|-	Case=Abl|Gender=Fem|Number=Plur	59	conj	_	_
-62	tam	tam	CCONJ	d|d|-|-|-|-|-|-|-|-	NumType=Card|PronType=Dem	63	cc	_	_
+62	tam	tam	CCONJ	d|d|-|-|-|-|-|-|-|-	PronType=Dem	63	cc	_	_
 63	domnicatis	domnicatus	ADJ	a|a|-|p|-|-|-|f|b|-	Case=Abl|Gender=Fem|Number=Plur	61	conj	_	_
 64	quam	quam	CCONJ	c|c|-|-|-|-|-|-|-|-	_	66	cc	_	_
 65	et	et	CCONJ	d|d|-|-|-|-|-|-|-|-	_	64	fixed	_	_
@@ -3427,7 +3427,7 @@
 65	abitare	habito	VERB	v|v|-|-|p|n|a|-|-|-	Aspect=Imp|VerbForm=Vnoun|Voice=Act	63	conj	_	_
 66	debeamus	debeo	VERB	v|v|1|p|p|s|a|-|-|-	Aspect=Imp|Mood=Sub|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	54	acl	_	_
 67	et	et	CCONJ	c|c|-|-|-|-|-|-|-|-	_	79	cc	_	_
-68	tam	tam	ADV	d|d|-|-|-|-|-|-|-|-	NumType=Card|PronType=Dem	74	advmod	_	_
+68	tam	tam	ADV	d|d|-|-|-|-|-|-|-|-	PronType=Dem	74	advmod	_	_
 69	ipsa	ipse	DET	p|p|-|s|-|-|-|f|a|-	Case=Acc|Gender=Fem|Number=Sing|PronType=Dem	70	det	_	_
 70	casa	casa	NOUN	n|n|-|s|-|-|-|f|a|-	Case=Acc|Gender=Fem|Number=Sing	74	obj	_	_
 71	et	et	CCONJ	c|c|-|-|-|-|-|-|-|-	_	72	cc	_	_
@@ -4317,7 +4317,7 @@
 # sent_id = test-s130
 # text = tam casis domnicatis quam et massariciis cum fundamentis vel edeficiis et universis fabricis suis seu curtis, ortis, terris, vineis, olivetis, silvis, virgareis, pratis, pascuis, cultis rebus vel incultis, omnia et in omnibus casis et rebus tam domnicatis quam et massariciis quantas in suprascripto comitato et territurio Florentino et Pistoriense sive Fesolano vel in eorum finibus ad parte prefate ecclesie sancti Silvestri est pertinentes, in integrum mihi eas dedisti, tali ordinem ut ad presenti die in mea qui supra Teudelgrimo vel de meis heredibus seu filiis filiorum meorum et de eorum heredibus sint potestatem omnibus suprascriptis casis et rebus quas mihi dedisti abendi, inperandi et nobis eas privato nomine usufructuandi.
 # reference = document_id='86:5'-span='85'
-1	tam	tam	CCONJ	d|d|-|-|-|-|-|-|-|-	NumType=Card|PronType=Dem	3	cc	_	_
+1	tam	tam	CCONJ	d|d|-|-|-|-|-|-|-|-	PronType=Dem	3	cc	_	_
 2	casis	casa	NOUN	n|n|-|p|-|-|-|f|b|-	Case=Abl|Gender=Fem|Number=Plur	79	dislocated:obj	_	_
 3	domnicatis	domnicatus	ADJ	a|a|-|p|-|-|-|f|b|-	Case=Abl|Gender=Fem|Number=Plur	2	conj	_	_
 4	quam	quam	CCONJ	c|c|-|-|-|-|-|-|-|-	_	6	cc	_	_
@@ -4362,7 +4362,7 @@
 43	casis	casa	NOUN	n|n|-|p|-|-|-|f|b|-	Case=Abl|Gender=Fem|Number=Plur	39	conj	_	_
 44	et	et	CCONJ	c|c|-|-|-|-|-|-|-|-	_	45	cc	_	_
 45	rebus	res	NOUN	n|n|-|p|-|-|-|f|b|-	Case=Abl|Gender=Fem|Number=Plur	43	conj	_	_
-46	tam	tam	CCONJ	d|d|-|-|-|-|-|-|-|-	NumType=Card|PronType=Dem	47	cc	_	_
+46	tam	tam	CCONJ	d|d|-|-|-|-|-|-|-|-	PronType=Dem	47	cc	_	_
 47	domnicatis	domnicatus	ADJ	a|a|-|p|-|-|-|f|b|-	Case=Abl|Gender=Fem|Number=Plur	45	conj	_	_
 48	quam	quam	CCONJ	c|c|-|-|-|-|-|-|-|-	_	51	cc	_	_
 49	et	et	CCONJ	d|d|-|-|-|-|-|-|-|-	_	48	fixed	_	_
@@ -4899,7 +4899,7 @@
 87	presenti	praesens	ADJ	a|a|-|s|-|-|-|m|b|-	Case=Abl|Gender=Masc|Number=Sing	88	amod	_	_
 88	die	dies	NOUN	n|n|-|s|-|-|-|m|b|-	Case=Abl|Gender=Masc|Number=Sing	111	obl	_	SpaceAfter=No
 89	,	,	PUNCT	Punc	_	88	punct	_	_
-90	tam	tam	CCONJ	d|d|-|-|-|-|-|-|-|-	NumType=Card|PronType=Dem	92	cc	_	_
+90	tam	tam	CCONJ	d|d|-|-|-|-|-|-|-|-	PronType=Dem	92	cc	_	_
 91	in	in	ADP	r|r|-|-|-|-|-|-|-|-	_	92	case	_	_
 92	vita	uita	NOUN	n|n|-|s|-|-|-|f|n|-	Case=Nom|Gender=Fem|Number=Sing	84	acl	_	_
 93	mea	meus	DET	a|a|1|s|-|-|-|f|n|-	Case=Nom|Gender=Fem|Number=Sing|Number[psor]=Sing|Person[psor]=1|Poss=Yes|PronType=Prs	92	det	_	_
@@ -5596,7 +5596,7 @@
 50	abitare	habito	VERB	v|v|-|-|p|n|a|-|-|-	Aspect=Imp|VerbForm=Vnoun|Voice=Act	48	conj	_	_
 51	debeamus	debeo	VERB	v|v|1|p|p|s|a|-|-|-	Aspect=Imp|Mood=Sub|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	39	acl	_	_
 52	et	et	CCONJ	c|c|-|-|-|-|-|-|-|-	_	69	cc	_	_
-53	tam	tam	CCONJ	d|d|-|-|-|-|-|-|-|-	NumType=Card|PronType=Dem	55	cc	_	_
+53	tam	tam	CCONJ	d|d|-|-|-|-|-|-|-|-	PronType=Dem	55	cc	_	_
 54	ipsa	ipse	DET	p|p|-|s|-|-|-|f|a|-	Case=Acc|Gender=Fem|Number=Sing|PronType=Dem	55	det	_	_
 55	casa	casa	NOUN	n|n|-|s|-|-|-|f|a|-	Case=Acc|Gender=Fem|Number=Sing	69	xcomp	_	_
 56	quam	quam	CCONJ	c|c|-|-|-|-|-|-|-|-	_	59	cc	_	_
@@ -6186,7 +6186,7 @@
 49	abitare	habito	VERB	v|v|-|-|p|n|a|-|-|-	Aspect=Imp|VerbForm=Vnoun|Voice=Act	47	conj	_	_
 50	debeamus	debeo	VERB	v|v|1|p|p|s|a|-|-|-	Aspect=Imp|Mood=Sub|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	38	acl	_	_
 51	et	et	CCONJ	c|c|-|-|-|-|-|-|-|-	_	68	cc	_	_
-52	tam	tam	CCONJ	d|d|-|-|-|-|-|-|-|-	NumType=Card|PronType=Dem	54	cc	_	_
+52	tam	tam	CCONJ	d|d|-|-|-|-|-|-|-|-	PronType=Dem	54	cc	_	_
 53	ipsa	ipse	DET	p|p|-|s|-|-|-|f|a|-	Case=Acc|Gender=Fem|Number=Sing|PronType=Dem	54	det	_	_
 54	casa	casa	NOUN	n|n|-|s|-|-|-|f|a|-	Case=Acc|Gender=Fem|Number=Sing	68	xcomp	_	_
 55	quam	quam	CCONJ	c|c|-|-|-|-|-|-|-|-	_	58	cc	_	_
@@ -11341,7 +11341,7 @@
 55	casis	casa	NOUN	n|n|-|p|-|-|-|f|b|-	Case=Abl|Gender=Fem|Number=Plur	51	conj	_	_
 56	et	et	CCONJ	c|c|-|-|-|-|-|-|-|-	_	57	cc	_	_
 57	rebus	res	NOUN	n|n|-|p|-|-|-|f|b|-	Case=Abl|Gender=Fem|Number=Plur	55	conj	_	_
-58	tam	tam	CCONJ	d|d|-|-|-|-|-|-|-|-	NumType=Card|PronType=Dem	59	cc	_	_
+58	tam	tam	CCONJ	d|d|-|-|-|-|-|-|-|-	PronType=Dem	59	cc	_	_
 59	domnicatis	domnicatus	ADJ	a|a|-|p|-|-|-|f|b|-	Case=Abl|Gender=Fem|Number=Plur	57	conj	_	_
 60	quam	quam	CCONJ	c|c|-|-|-|-|-|-|-|-	_	62	cc	_	_
 61	et	et	CCONJ	d|d|-|-|-|-|-|-|-|-	_	60	fixed	_	_
@@ -13388,7 +13388,7 @@
 # text = et tam ipsa casa quam et res quas mihi dedisti bene laborare et gubernare seo meliorare debeamus privatum fruendum.
 # reference = document_id='86:22'-span='185'
 1	et	et	CCONJ	c|c|-|-|-|-|-|-|-|-	_	17	cc	_	_
-2	tam	tam	CCONJ	d|d|-|-|-|-|-|-|-|-	NumType=Card|PronType=Dem	4	cc	_	_
+2	tam	tam	CCONJ	d|d|-|-|-|-|-|-|-|-	PronType=Dem	4	cc	_	_
 3	ipsa	ipse	DET	p|p|-|s|-|-|-|f|a|-	Case=Acc|Gender=Fem|Number=Sing|PronType=Dem	4	det	_	_
 4	casa	casa	NOUN	n|n|-|s|-|-|-|f|a|-	Case=Acc|Gender=Fem|Number=Sing	17	xcomp	_	_
 5	quam	quam	CCONJ	c|c|-|-|-|-|-|-|-|-	_	7	cc	_	_
@@ -15455,7 +15455,7 @@
 127	presenti	praesens	ADJ	a|a|-|s|-|-|-|m|b|-	Case=Abl|Gender=Masc|Number=Sing	128	amod	_	_
 128	die	dies	NOUN	n|n|-|s|-|-|-|m|b|-	Case=Abl|Gender=Masc|Number=Sing	146	obl	_	SpaceAfter=No
 129	,	,	PUNCT	Punc	_	128	punct	_	_
-130	tam	tam	CCONJ	d|d|-|-|-|-|-|-|-|-	NumType=Card|PronType=Dem	132	cc	_	_
+130	tam	tam	CCONJ	d|d|-|-|-|-|-|-|-|-	PronType=Dem	132	cc	_	_
 131	in	in	ADP	r|r|-|-|-|-|-|-|-|-	_	132	case	_	_
 132	vita	uita	NOUN	n|n|-|s|-|-|-|f|b|-	Case=Abl|Gender=Fem|Number=Sing	117	advcl	_	_
 133	mea	meus	DET	a|a|1|s|-|-|-|f|b|-	Case=Abl|Gender=Fem|Number=Sing|Number[psor]=Sing|Person[psor]=1|Poss=Yes|PronType=Prs	132	det	_	_
@@ -15559,7 +15559,7 @@
 3	tempore	tempus	NOUN	n|n|-|s|-|-|-|n|b|-	Case=Abl|Gender=Neut|Number=Sing	4	obl	_	_
 4	volueritis	uolo	VERB	v|v|2|p|t|i|a|-|-|-	Aspect=Perf|Mood=Ind|Number=Plur|Person=2|Tense=Fut|VerbForm=Fin|Voice=Act	17	advcl	_	SpaceAfter=No
 5	,	,	PUNCT	Punc	_	4	punct	_	_
-6	tam	tam	CCONJ	d|d|-|-|-|-|-|-|-|-	NumType=Card|PronType=Dem	8	cc	_	_
+6	tam	tam	CCONJ	d|d|-|-|-|-|-|-|-|-	PronType=Dem	8	cc	_	_
 7	in	in	ADP	r|r|-|-|-|-|-|-|-|-	_	8	case	_	_
 8	vita	uita	NOUN	n|n|-|s|-|-|-|f|b|-	Case=Abl|Gender=Fem|Number=Sing	0	root	_	_
 9	mea	meus	DET	a|a|1|s|-|-|-|f|b|-	Case=Abl|Gender=Fem|Number=Sing|Number[psor]=Sing|Person[psor]=1|Poss=Yes|PronType=Prs	8	det	_	_
@@ -17462,7 +17462,7 @@
 59	ecclesie	ecclesia	NOUN	n|n|-|s|-|-|-|f|d|-	Case=Dat|Gender=Fem|Number=Sing	60	obl:arg	_	_
 60	pertinentibus	pertineo	VERB	t|t|-|p|p|p|a|f|b|-	Aspect=Imp|Case=Abl|Gender=Fem|Number=Plur|VerbForm=Part|Voice=Act	55	acl	_	SpaceAfter=No
 61	,	,	PUNCT	Punc	_	63	punct	_	_
-62	tam	tam	CCONJ	d|d|-|-|-|-|-|-|-|-	NumType=Card|PronType=Dem	63	cc	_	_
+62	tam	tam	CCONJ	d|d|-|-|-|-|-|-|-|-	PronType=Dem	63	cc	_	_
 63	domnicatis	domnicatus	ADJ	a|a|-|p|-|-|-|f|b|-	Case=Abl|Gender=Fem|Number=Plur	55	conj	_	_
 64	quam	quam	CCONJ	c|c|-|-|-|-|-|-|-|-	_	66	cc	_	_
 65	et	et	CCONJ	d|d|-|-|-|-|-|-|-|-	_	64	fixed	_	_
@@ -20920,7 +20920,7 @@
 78	mittere	mitto	VERB	v|v|-|-|p|n|a|-|-|-	Aspect=Imp|VerbForm=Vnoun|Voice=Act	79	xcomp	_	_
 79	debeamus	debeo	VERB	v|v|1|p|p|s|a|-|-|-	Aspect=Imp|Mood=Sub|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	64	acl	_	_
 80	et	et	CCONJ	c|c|-|-|-|-|-|-|-|-	_	93	cc	_	_
-81	tam	tam	ADV	d|d|-|-|-|-|-|-|-|-	NumType=Card|PronType=Dem	83	cc	_	_
+81	tam	tam	ADV	d|d|-|-|-|-|-|-|-|-	PronType=Dem	83	cc	_	_
 82	ipsa	ipse	DET	p|p|-|s|-|-|-|f|a|-	Case=Acc|Gender=Fem|Number=Sing|PronType=Dem	83	det	_	_
 83	casa	casa	NOUN	n|n|-|s|-|-|-|f|a|-	Case=Acc|Gender=Fem|Number=Sing	93	xcomp	_	_
 84	et	et	CCONJ	c|c|-|-|-|-|-|-|-|-	_	86	cc	_	_
@@ -22151,7 +22151,7 @@
 63	abitare	habito	VERB	v|v|-|-|p|n|a|-|-|-	Aspect=Imp|VerbForm=Vnoun|Voice=Act	61	conj	_	_
 64	debeamus	debeo	VERB	v|v|1|p|p|s|a|-|-|-	Aspect=Imp|Mood=Sub|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	52	acl	_	_
 65	et	et	CCONJ	c|c|-|-|-|-|-|-|-|-	_	80	cc	_	_
-66	tam	tam	ADV	d|d|-|-|-|-|-|-|-|-	NumType=Card|PronType=Dem	75	advmod	_	_
+66	tam	tam	ADV	d|d|-|-|-|-|-|-|-|-	PronType=Dem	75	advmod	_	_
 67	ipsa	ipse	DET	p|p|-|s|-|-|-|f|a|-	Case=Acc|Gender=Fem|Number=Sing|PronType=Dem	68	det	_	_
 68	casa	casa	NOUN	n|n|-|s|-|-|-|f|a|-	Case=Acc|Gender=Fem|Number=Sing	75	obj	_	_
 69	et	et	CCONJ	c|c|-|-|-|-|-|-|-|-	_	70	cc	_	_
@@ -26680,7 +26680,7 @@
 62	est	sum	AUX	v|v|3|s|p|i|a|-|-|-	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	63	cop	_	_
 63	pertenentes	pertineo	VERB	t|t|-|s|p|p|a|f|a|-	Aspect=Imp|Case=Acc|Gender=Fem|Number=Sing|VerbForm=Part|Voice=Act	47	acl:relcl	_	SpaceAfter=No
 64	,	,	PUNCT	Punc	_	67	punct	_	_
-65	tam	tam	ADV	d|d|-|-|-|-|-|-|-|-	NumType=Card|PronType=Dem	67	cc	_	_
+65	tam	tam	ADV	d|d|-|-|-|-|-|-|-|-	PronType=Dem	67	cc	_	_
 66	in	in	ADP	r|r|-|-|-|-|-|-|-|-	_	67	case	_	_
 67	loco	locus	NOUN	n|n|-|s|-|-|-|m|b|-	Case=Abl|Gender=Masc|Number=Sing	47	dislocated	_	_
 68	ubi	ubi	ADV	d|d|-|-|-|-|-|-|-|-	PronType=Rel	69	advmod	_	_
