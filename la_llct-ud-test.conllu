@@ -4362,11 +4362,11 @@
 43	casis	casa	NOUN	n|n|-|p|-|-|-|f|b|-	Case=Abl|Gender=Fem|Number=Plur	39	conj	_	_
 44	et	et	CCONJ	c|c|-|-|-|-|-|-|-|-	_	45	cc	_	_
 45	rebus	res	NOUN	n|n|-|p|-|-|-|f|b|-	Case=Abl|Gender=Fem|Number=Plur	43	conj	_	_
-46	tam	tam	CCONJ	d|d|-|-|-|-|-|-|-|-	PronType=Dem	47	cc	_	_
-47	domnicatis	domnicatus	ADJ	a|a|-|p|-|-|-|f|b|-	Case=Abl|Gender=Fem|Number=Plur	45	conj	_	_
-48	quam	quam	CCONJ	c|c|-|-|-|-|-|-|-|-	_	51	cc	_	_
-49	et	et	CCONJ	d|d|-|-|-|-|-|-|-|-	_	48	fixed	_	_
-50	massariciis	massaricius	ADJ	a|a|-|p|-|-|-|f|b|-	Case=Abl|Gender=Fem|Number=Plur	47	conj	_	_
+46	tam	tam	ADV	d|d|-|-|-|-|-|-|-|-	PronType=Dem	47	advmod:emph	_	_
+47	domnicatis	domnicatus	ADJ	a|a|-|p|-|-|-|f|b|-	Case=Abl|Gender=Fem|Number=Plur	43	amod	_	_
+48	quam	quam	SCONJ	c|c|-|-|-|-|-|-|-|-	_	50	mark	_	_
+49	et	et	CCONJ	d|d|-|-|-|-|-|-|-|-	_	50	advmod:emph	_	_
+50	massariciis	massaricius	ADJ	a|a|-|p|-|-|-|f|b|-	Case=Abl|Gender=Fem|Number=Plur	47	advcl:cmp	_	_
 51	quantas	quantus	DET	a|a|-|p|-|-|-|f|a|-	Case=Acc|Gender=Fem|Number=Plur|NumType=Card|PronType=Rel	47	conj	_	_
 52	in	in	ADP	r|r|-|-|-|-|-|-|-|-	_	54	case	_	_
 53	suprascripto	suprascriptus	DET	a|a|-|s|-|-|-|m|b|-	Case=Abl|Gender=Masc|Number=Sing|PronType=Dem	54	det	_	_
