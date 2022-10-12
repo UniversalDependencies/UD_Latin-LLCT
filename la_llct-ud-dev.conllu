@@ -17351,10 +17351,10 @@
 16	massariciis	massaricius	ADJ	a|a|-|p|-|-|-|f|b|-	Case=Abl|Gender=Fem|Number=Plur	29	advcl:cmp	_	SpaceAfter=No
 17	,	,	PUNCT	Punc	_	16	punct	_	_
 18	quantas	quantus	DET	a|a|-|p|-|-|-|f|a|-	Case=Acc|Gender=Fem|Number=Plur|NumType=Card|PronType=Rel	29	nsubj	_	_
-19	ubique	ubique	ADV	d|d|-|-|-|-|-|-|-|-	AdvType=Loc|PronType=Rel	18	acl:relcl	_	_
+19	ubique	ubique	ADV	d|d|-|-|-|-|-|-|-|-	AdvType=Loc|PronType=Rel	29	advmod:lmod	_	_
 20	in	in	ADP	r|r|-|-|-|-|-|-|-|-	_	22	case	_	_
 21	qualibet	quilibet	DET	p|p|-|s|-|-|-|f|b|-	Case=Abl|Gender=Fem|Number=Sing|PronType=Ind	22	det	_	_
-22	locis	locus	NOUN	n|n|-|p|-|-|-|m|b|-	Case=Abl|Gender=Masc|Number=Plur	19	obl	_	_
+22	locis	locus	NOUN	n|n|-|p|-|-|-|m|b|-	Case=Abl|Gender=Masc|Number=Plur	29	obl:lmod	_	_
 23	vel	uel	CCONJ	c|c|-|-|-|-|-|-|-|-	_	24	cc	_	_
 24	vocabulis	uocabulum	NOUN	n|n|-|p|-|-|-|n|b|-	Case=Abl|Gender=Neut|Number=Plur	22	conj	_	_
 25	ad	ad	ADP	r|r|-|-|-|-|-|-|-|-	_	27	case	_	_
