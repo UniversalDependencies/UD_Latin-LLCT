@@ -4808,7 +4808,7 @@
 100	.	.	PUNCT	Punc	_	37	punct	_	_
 
 # sent_id = test-s146
-# text = casa vero ipsa massaricia cum fundamento et omnem edeficio suo seo curte, orto, terris, vineis, olivis, silvis, virgareis, pratis, pascuis, cultis rebus vel incultis, omnia quantum ubique in qualibet locis vel vocabulus ad suprascripta casa et res massaricia in denominato loco Ancliano est pertenentes et suprascripto Urso et Atriperto massarii exinde ad manus sua abere et detinere videtur in integrum Deo et tibi ecclesie beate sancte Marie semper virginis offerrere prevideor, tali ordinem ut ad presenti die, tam in vita mea quam et post obito meo, in ipsa Domini ecclesia sancte Marie et de eius que rectoribus sint potestatem suprascripta casa et res pro anime mee remedium abendi, possidendi, inperandi, laborare faciendi et usufructuandi et causas exinde agendi, querimoniam faciendi, responsum reddendi et finem ponendi, modis omnibus eas defensandi cum cartula ista qualiter iusta legem melius potuerint ad pars ipsius ecclesie.
+# text = casa vero ipsa massaricia cum fundamento et omnem edeficio suo seo curte, orto, terris, vineis, olivis, silvis, virgareis, pratis, pascuis, cultis rebus vel incultis, omnia quantum ubique in qualibet locis vel vocabulus ad suprascripta casa et res massaricia in denominato loco Ancliano est pertenentes et suprascripto Urso et Atriperto massarii exinde ad manus sua abere et detinere videtur in integrum Deo et tibi ecclesie beate sancte Marie semper virginis offerrere prevideor, tali ordinem ut ad presenti die, tam in vita mea quam et post obito meo, in ipsa Domini ecclesia sancte Marie et de eiusque rectoribus sint potestatem suprascripta casa et res pro anime mee remedium abendi, possidendi, inperandi, laborare faciendi et usufructuandi et causas exinde agendi, querimoniam faciendi, responsum reddendi et finem ponendi, modis omnibus eas defensandi cum cartula ista qualiter iusta legem melius potuerint ad pars ipsius ecclesie.
 # reference = document_id='86:7'-span='103'
 1	casa	casa	NOUN	n|n|-|s|-|-|-|f|n|-	Case=Nom|Gender=Fem|Number=Sing	80	dislocated:obj	_	_
 2	vero	uero	ADV	d|d|-|-|-|-|-|-|-|-	_	80	discourse	_	_
@@ -4894,34 +4894,35 @@
 82	,	,	PUNCT	Punc	_	84	punct	_	_
 83	tali	talis	DET	a|a|-|s|-|-|-|m|b|-	Case=Abl|Gender=Masc|Number=Sing|PronType=Dem	84	det	_	_
 84	ordinem	ordo	NOUN	n|n|-|s|-|-|-|m|b|-	Case=Abl|Gender=Masc|Number=Sing	80	obl	_	_
-85	ut	ut	SCONJ	c|c|-|-|-|-|-|-|-|-	PronType=Rel	111	mark	_	_
+85	ut	ut	SCONJ	c|c|-|-|-|-|-|-|-|-	PronType=Rel	112	mark	_	_
 86	ad	ab	ADP	r|r|-|-|-|-|-|-|-|-	_	88	case	_	_
 87	presenti	praesens	ADJ	a|a|-|s|-|-|-|m|b|-	Case=Abl|Gender=Masc|Number=Sing	88	amod	_	_
-88	die	dies	NOUN	n|n|-|s|-|-|-|m|b|-	Case=Abl|Gender=Masc|Number=Sing	111	obl	_	SpaceAfter=No
+88	die	dies	NOUN	n|n|-|s|-|-|-|m|b|-	Case=Abl|Gender=Masc|Number=Sing	112	obl:tmod	_	SpaceAfter=No
 89	,	,	PUNCT	Punc	_	88	punct	_	_
-90	tam	tam	CCONJ	d|d|-|-|-|-|-|-|-|-	PronType=Dem	92	cc	_	_
+90	tam	tam	ADV	d|d|-|-|-|-|-|-|-|-	PronType=Dem	92	advmod:emph	_	_
 91	in	in	ADP	r|r|-|-|-|-|-|-|-|-	_	92	case	_	_
-92	vita	uita	NOUN	n|n|-|s|-|-|-|f|n|-	Case=Nom|Gender=Fem|Number=Sing	84	acl	_	_
+92	vita	uita	NOUN	n|n|-|s|-|-|-|f|n|-	Case=Nom|Gender=Fem|Number=Sing	112	obl:tmod	_	_
 93	mea	meus	DET	a|a|1|s|-|-|-|f|n|-	Case=Nom|Gender=Fem|Number=Sing|Number[psor]=Sing|Person[psor]=1|Poss=Yes|PronType=Prs	92	det	_	_
-94	quam	quam	CCONJ	c|c|-|-|-|-|-|-|-|-	_	97	cc	_	_
-95	et	et	CCONJ	d|d|-|-|-|-|-|-|-|-	_	94	fixed	_	_
+94	quam	quam	SCONJ	c|c|-|-|-|-|-|-|-|-	_	97	mark	_	_
+95	et	et	CCONJ	d|d|-|-|-|-|-|-|-|-	_	97	advmod:emph	_	_
 96	post	post	ADP	r|r|-|-|-|-|-|-|-|-	_	97	case	_	_
-97	obito	obitus	NOUN	n|n|-|s|-|-|-|m|a|-	Case=Acc|Gender=Masc|Number=Sing	92	conj	_	_
+97	obito	obitus	NOUN	n|n|-|s|-|-|-|m|a|-	Case=Acc|Gender=Masc|Number=Sing	112	advcl:cmp	_	_
 98	meo	meus	DET	a|a|1|s|-|-|-|m|a|-	Case=Acc|Gender=Masc|Number=Sing|Number[psor]=Sing|Person[psor]=1|Poss=Yes|PronType=Prs	97	det	_	SpaceAfter=No
-99	,	,	PUNCT	Punc	_	111	punct	_	_
-100	in	in	ADP	r|r|-|-|-|-|-|-|-|-	_	112	case	_	_
+99	,	,	PUNCT	Punc	_	103	punct	_	_
+100	in	in	ADP	r|r|-|-|-|-|-|-|-|-	_	103	case	_	_
 101	ipsa	ipse	DET	p|p|-|s|-|-|-|f|a|-	Case=Acc|Gender=Fem|Number=Sing|PronType=Dem	103	det	_	_
 102	Domini	Dominus	PROPN	Propn|n|-|s|-|-|-|m|g|-	Case=Gen|Gender=Masc|Number=Sing	103	nmod	_	_
-103	ecclesia	ecclesia	NOUN	n|n|-|s|-|-|-|f|a|-	Case=Acc|Gender=Fem|Number=Sing	112	nmod	_	_
+103	ecclesia	ecclesia	NOUN	n|n|-|s|-|-|-|f|a|-	Case=Acc|Gender=Fem|Number=Sing	112	obl	_	_
 104	sancte	sanctus	ADJ	a|a|-|s|-|-|-|f|g|-	Case=Gen|Gender=Fem|Number=Sing	105	amod	_	_
 105	Marie	Maria	PROPN	Propn|n|-|s|-|-|-|f|g|-	Case=Gen|Gender=Fem|Number=Sing	103	nmod	_	_
 106	et	et	CCONJ	c|c|-|-|-|-|-|-|-|-	_	110	cc	_	_
 107	de	de	ADP	r|r|-|-|-|-|-|-|-|-	_	110	case	_	_
+108-109	eiusque	_	_	_	_	_	_	_	_
 108	eius	is	PRON	p|p|-|s|-|-|-|m|g|-	Case=Gen|Gender=Masc|Number=Sing|Person=3|PronType=Prs	110	nmod	_	_
 109	que	que	CCONJ	c|c|-|-|-|-|-|-|-|-	_	110	cc	_	_
 110	rectoribus	rector	NOUN	n|n|-|p|-|-|-|m|b|-	Case=Abl|Gender=Masc|Number=Plur	103	conj	_	_
-111	sint	sum	AUX	v|v|3|p|p|s|a|-|-|-	Aspect=Imp|Mood=Sub|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	92	conj	_	_
-112	potestatem	potestas	NOUN	n|n|-|s|-|-|-|f|b|-	Case=Abl|Gender=Fem|Number=Sing	111	obl	_	_
+111	sint	sum	AUX	v|v|3|p|p|s|a|-|-|-	Aspect=Imp|Mood=Sub|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	112	cop	_	_
+112	potestatem	potestas	NOUN	n|n|-|s|-|-|-|f|b|-	Case=Abl|Gender=Fem|Number=Sing	80	advcl	_	_
 113	suprascripta	suprascriptus	DET	a|a|-|s|-|-|-|f|a|-	Case=Acc|Gender=Fem|Number=Sing|PronType=Dem	114	det	_	_
 114	casa	casa	NOUN	n|n|-|s|-|-|-|f|a|-	Case=Acc|Gender=Fem|Number=Sing	121	obj	_	_
 115	et	et	CCONJ	c|c|-|-|-|-|-|-|-|-	_	116	cc	_	_
