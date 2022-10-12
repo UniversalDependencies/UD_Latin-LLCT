@@ -2396,11 +2396,11 @@
 59	casis	casa	NOUN	n|n|-|p|-|-|-|f|b|-	Case=Abl|Gender=Fem|Number=Plur	55	conj	_	_
 60	et	et	CCONJ	c|c|-|-|-|-|-|-|-|-	_	61	cc	_	_
 61	rebus	res	NOUN	n|n|-|p|-|-|-|f|b|-	Case=Abl|Gender=Fem|Number=Plur	59	conj	_	_
-62	tam	tam	CCONJ	d|d|-|-|-|-|-|-|-|-	PronType=Dem	63	cc	_	_
-63	domnicatis	domnicatus	ADJ	a|a|-|p|-|-|-|f|b|-	Case=Abl|Gender=Fem|Number=Plur	61	conj	_	_
-64	quam	quam	CCONJ	c|c|-|-|-|-|-|-|-|-	_	66	cc	_	_
-65	et	et	CCONJ	d|d|-|-|-|-|-|-|-|-	_	64	fixed	_	_
-66	massariciis	massaricius	ADJ	a|a|-|p|-|-|-|f|b|-	Case=Abl|Gender=Fem|Number=Plur	63	conj	_	_
+62	tam	tam	ADV	d|d|-|-|-|-|-|-|-|-	PronType=Dem	63	advmod:emph	_	_
+63	domnicatis	domnicatus	ADJ	a|a|-|p|-|-|-|f|b|-	Case=Abl|Gender=Fem|Number=Plur	59	amod	_	_
+64	quam	quam	SCONJ	c|c|-|-|-|-|-|-|-|-	_	66	mark	_	_
+65	et	et	CCONJ	d|d|-|-|-|-|-|-|-|-	_	66	advmod:emph	_	_
+66	massariciis	massaricius	ADJ	a|a|-|p|-|-|-|f|b|-	Case=Abl|Gender=Fem|Number=Plur	63	advcl:cmp	_	_
 67	quantas	quantus	DET	a|a|-|p|-|-|-|f|a|-	Case=Acc|Gender=Fem|Number=Plur|NumType=Card|PronType=Rel	89	nsubj	_	_
 68	ubique	ubique	ADV	d|d|-|-|-|-|-|-|-|-	_	89	advmod	_	_
 69	in	in	ADP	r|r|-|-|-|-|-|-|-|-	_	71	case	_	_
