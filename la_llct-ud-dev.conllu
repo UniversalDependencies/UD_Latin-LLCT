@@ -393,7 +393,7 @@
 # sent_id = dev-s9
 # text = [Propn], rogatu a Leuprando et Iohanne, subscripsi.
 # reference = document_id='84:42'-span='70'
-1	[Propn]	missing^token	X	Punc	_	9	nsubj	_	SpaceAfter=No
+1	[Propn]	_	PROPN	Punc	_	9	nsubj	_	SpaceAfter=No
 2	,	,	PUNCT	Punc	_	3	punct	_	_
 3	rogatu	rogo	VERB	t|t|-|s|r|p|p|m|a|-	Aspect=Perf|Case=Acc|Gender=Masc|Number=Sing|VerbForm=Part|Voice=Pass	1	acl	_	_
 4	a	ab	ADP	r|r|-|-|-|-|-|-|-|-	_	5	case	_	_
@@ -2401,7 +2401,7 @@
 # reference = document_id='84:46'-span='138'
 1	+	+	PUNCT	SYM	_	2	punct	_	_
 2	Ego	ego	PRON	p|p|1|s|-|-|-|m|n|-	Case=Nom|Gender=Masc|Number=Sing|Person=1|PronType=Prs	13	nsubj	_	_
-3	[Propn]	missing^token	X	Punc	_	2	nmod	_	SpaceAfter=No
+3	[Propn]	_	PROPN	Punc	_	2	nmod	_	SpaceAfter=No
 4	,	,	PUNCT	Punc	_	5	punct	_	_
 5	rogatus	rogo	VERB	t|t|-|s|r|p|p|m|n|-	Aspect=Perf|Case=Nom|Gender=Masc|Number=Sing|VerbForm=Part|Voice=Pass	3	acl	_	_
 6	a	ab	ADP	r|r|-|-|-|-|-|-|-|-	_	7	case	_	_
@@ -2419,7 +2419,7 @@
 # reference = document_id='84:46'-span='139'
 1	+	+	PUNCT	SYM	_	2	punct	_	_
 2	Ego	ego	PRON	p|p|1|s|-|-|-|m|n|-	Case=Nom|Gender=Masc|Number=Sing|Person=1|PronType=Prs	13	nsubj	_	_
-3	[Propn]	missing^token	X	Punc	_	2	nmod	_	SpaceAfter=No
+3	[Propn]	_	PROPN	Punc	_	2	nmod	_	SpaceAfter=No
 4	,	,	PUNCT	Punc	_	5	punct	_	_
 5	rogatus	rogo	VERB	t|t|-|s|r|p|p|m|n|-	Aspect=Perf|Case=Nom|Gender=Masc|Number=Sing|VerbForm=Part|Voice=Pass	3	acl	_	_
 6	a	ab	ADP	r|r|-|-|-|-|-|-|-|-	_	7	case	_	_
@@ -2437,7 +2437,7 @@
 # reference = document_id='84:46'-span='140'
 1	+	+	PUNCT	SYM	_	2	punct	_	_
 2	Ego	ego	PRON	p|p|1|s|-|-|-|m|n|-	Case=Nom|Gender=Masc|Number=Sing|Person=1|PronType=Prs	13	nsubj	_	_
-3	[Propn]	missing^token	X	Punc	_	2	nmod	_	SpaceAfter=No
+3	[Propn]	_	PROPN	Punc	_	2	nmod	_	SpaceAfter=No
 4	,	,	PUNCT	Punc	_	5	punct	_	_
 5	rogatus	rogo	VERB	t|t|-|s|r|p|p|m|n|-	Aspect=Perf|Case=Nom|Gender=Masc|Number=Sing|VerbForm=Part|Voice=Pass	3	acl	_	_
 6	a	ab	ADP	r|r|-|-|-|-|-|-|-|-	_	7	case	_	_
@@ -2499,7 +2499,7 @@
 14	agusto	augustus	NOUN	n|n|-|s|-|-|-|m|b|-	Case=Abl|Gender=Masc|Number=Sing	7	appos	_	SpaceAfter=No
 15	,	,	PUNCT	Punc	_	16	punct	_	_
 16	anno	annus	NOUN	n|n|-|s|-|-|-|m|b|-	Case=Abl|Gender=Masc|Number=Sing	6	obl	_	_
-17	[--]	missing^token	PUNCT	Punc	_	18	punct	_	_
+17	[--]	_	_	Punc	_	18	dep	_	_
 18	imperii	imperium	NOUN	n|n|-|s|-|-|-|n|g|-	Case=Gen|Gender=Neut|Number=Sing	16	nmod	_	_
 19	eius	is	PRON	p|p|-|s|-|-|-|m|g|-	Case=Gen|Gender=Masc|Number=Sing|Person=3|PronType=Prs	18	nmod	_	_
 20	primo	primus	ADJ	a|a|-|s|-|-|-|m|b|-	Case=Abl|Gender=Masc|Number=Sing|NumType=Ord	16	amod	_	SpaceAfter=No
@@ -5530,7 +5530,7 @@
 50	res	res	NOUN	n|n|-|p|-|-|-|f|a|-	Case=Acc|Gender=Fem|Number=Plur	35	conj	_	_
 51	vel	uel	CCONJ	c|c|-|-|-|-|-|-|-|-	_	52	cc	_	_
 52	incultas	incultus	ADJ	a|a|-|p|-|-|-|f|a|-	Case=Acc|Gender=Fem|Number=Plur	49	conj	_	_
-53	[--]	missing^token	PUNCT	Punc	_	54	punct	_	_
+53	[--]	_	_	Punc	_	54	dep	_	_
 54	et	et	CCONJ	c|c|-|-|-|-|-|-|-|-	_	32	reparandum	_	_
 55	rebus	res	NOUN	n|n|-|p|-|-|-|f|b|-	Case=Abl|Gender=Fem|Number=Plur	32	reparandum	_	_
 56	quantum	quantum	ADV	d|d|-|-|-|-|-|-|-|-	PronType=Rel	67	advmod	_	_
@@ -10289,7 +10289,7 @@
 1	+	+	PUNCT	SYM	_	3	punct	_	_
 2	Ego	ego	PRON	p|p|1|s|-|-|-|m|n|-	Case=Nom|Gender=Masc|Number=Sing|Person=1|PronType=Prs	3	det	_	_
 3	Petrus	Petrus	PROPN	Propn|n|-|s|-|-|-|m|n|-	Case=Nom|Gender=Masc|Number=Sing	5	nsubj	_	_
-4	[--]	missing^token	PUNCT	Punc	_	3	punct	_	_
+4	[--]	_	_	Punc	_	3	dep	_	_
 5	missus	missus	NOUN	n|n|-|s|-|-|-|m|n|-	Case=Nom|Gender=Masc|Number=Sing	0	root	_	_
 6	fui	sum	AUX	v|v|1|s|r|i|a|-|-|-	Aspect=Perf|Mood=Ind|Number=Sing|Person=1|Tense=Past|VerbForm=Fin	5	cop	_	SpaceAfter=No
 7	.	.	PUNCT	Punc	_	5	punct	_	_
@@ -10909,7 +10909,7 @@
 # text = ego [Propn], rogatus a Chunimundo, subscripsi.
 # reference = document_id='85:17'-span='7'
 1	ego	ego	PRON	p|p|1|s|-|-|-|m|n|-	Case=Nom|Gender=Masc|Number=Sing|Person=1|PronType=Prs	8	nsubj	_	_
-2	[Propn]	missing^token	X	Punc	_	1	nmod	_	SpaceAfter=No
+2	[Propn]	_	PROPN	Punc	_	1	nmod	_	SpaceAfter=No
 3	,	,	PUNCT	Punc	_	4	punct	_	_
 4	rogatus	rogo	VERB	t|t|-|s|r|p|p|m|n|-	Aspect=Perf|Case=Nom|Gender=Masc|Number=Sing|VerbForm=Part|Voice=Pass	2	acl	_	_
 5	a	ab	ADP	r|r|-|-|-|-|-|-|-|-	_	6	case	_	_
@@ -12445,7 +12445,7 @@
 104	Adalpertus	Adalpertus	PROPN	Propn|n|-|s|-|-|-|m|n|-	Case=Nom|Gender=Masc|Number=Sing	54	conj	_	_
 105	notarius	notarius	NOUN	n|n|-|s|-|-|-|m|n|-	Case=Nom|Gender=Masc|Number=Sing	104	appos	_	_
 106	et	et	CCONJ	c|c|-|-|-|-|-|-|-|-	_	107	cc	_	_
-107	[Propn]	missing^token	X	Punc	_	54	conj	_	SpaceAfter=No
+107	[Propn]	_	PROPN	Punc	_	54	conj	_	SpaceAfter=No
 108	,	,	PUNCT	Punc	_	14	punct	_	_
 109	audissemus	audio	VERB	v|v|1|p|l|s|a|-|-|-	Aspect=Perf|Mood=Sub|Number=Plur|Person=1|Tense=Pqp|VerbForm=Fin|Voice=Act	0	root	_	_
 110	Offo	Offus	PROPN	Propn|n|-|s|-|-|-|m|a|-	Case=Acc|Gender=Masc|Number=Sing	109	obj	_	SpaceAfter=No
@@ -12956,7 +12956,7 @@
 12	aut	aut	CCONJ	c|c|-|-|-|-|-|-|-|-	_	13	cc	_	_
 13	monimen	munimen	NOUN	n|n|-|s|-|-|-|n|a|-	Case=Acc|Gender=Neut|Number=Sing	11	conj	_	_
 14	per	per	ADP	r|r|-|-|-|-|-|-|-|-	_	16	mark	_	_
-15	[--]	missing^token	PUNCT	Punc	_	14	punct	_	_
+15	[--]	_	_	Punc	_	14	dep	_	_
 16	abere	habeo	VERB	v|v|-|-|p|n|a|-|-|-	Aspect=Imp|VerbForm=Vnoun|Voice=Act	17	xcomp	_	_
 17	possam	possum	VERB	v|v|3|s|p|s|a|-|-|-	Aspect=Imp|Mood=Sub|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	11	acl	_	SpaceAfter=No
 18	.	.	PUNCT	Punc	_	1	punct	_	_
@@ -13120,7 +13120,7 @@
 5	,	,	PUNCT	Punc	_	6	punct	_	_
 6	quas	qui	PRON	p|p|-|p|-|-|-|f|a|-	Case=Acc|Gender=Fem|Number=Plur|PronType=Rel	9	obj	_	_
 7	mihi	ego	PRON	p|p|1|s|-|-|-|m|d|-	Case=Dat|Gender=Masc|Number=Sing|Person=1|PronType=Prs	9	obl:arg	_	_
-8	[--]	missing^token	PUNCT	Punc	_	7	punct	_	_
+8	[--]	_	_	Punc	_	7	dep	_	_
 9	introistis	introeo	VERB	v|v|2|p|r|i|a|-|-|-	Aspect=Perf|Mood=Ind|Number=Plur|Person=2|Tense=Past|VerbForm=Fin|Voice=Act	1	acl:relcl	_	SpaceAfter=No
 10	,	,	PUNCT	Punc	_	15	punct	_	_
 11	unde	unde	ADV	d|d|-|-|-|-|-|-|-|-	AdvType=Loc|PronType=Rel	15	advmod:lmod	_	_
@@ -13168,7 +13168,7 @@
 12	vuadia	wadia	NOUN	n|n|-|s|-|-|-|f|a|-	Case=Acc|Gender=Fem|Number=Sing	11	obj	_	_
 13	eorum	is	PRON	p|p|-|p|-|-|-|m|g|-	Case=Gen|Gender=Masc|Number=Plur|Person=3|PronType=Prs	14	amod	_	_
 14	Offi	Offus	PROPN	Propn|n|-|s|-|-|-|m|g|-	Case=Gen|Gender=Masc|Number=Sing	11	obl:arg	_	_
-15	[--]	missing^token	PUNCT	Punc	_	21	punct	_	_
+15	[--]	_	_	Punc	_	21	dep	_	_
 16	et	et	CCONJ	c|c|-|-|-|-|-|-|-|-	_	21	cc	_	_
 17	ipse	ipse	DET	p|p|-|s|-|-|-|m|n|-	Case=Nom|Gender=Masc|Number=Sing|PronType=Dem	18	det	_	_
 18	Offo	Offus	PROPN	Propn|n|-|s|-|-|-|m|a|-	Case=Acc|Gender=Masc|Number=Sing	21	nsubj	_	_
@@ -13189,7 +13189,7 @@
 33	,	,	PUNCT	Punc	_	35	punct	_	_
 34	si	si	SCONJ	c|c|-|-|-|-|-|-|-|-	_	35	mark	_	_
 35	potuissent	possum	VERB	v|v|3|p|l|s|a|-|-|-	Aspect=Perf|Mood=Sub|Number=Plur|Person=3|Tense=Pqp|VerbForm=Fin|Voice=Act	30	advcl	_	_
-36	[--]	missing^token	PUNCT	Punc	_	11	punct	_	SpaceAfter=No
+36	[--]	_	_	Punc	_	11	dep	_	SpaceAfter=No
 37	.	.	PUNCT	Punc	_	11	punct	_	_
 
 # sent_id = dev-s411
@@ -13463,7 +13463,7 @@
 10	triginta	triginta	NUM	m|m|-|-|-|-|-|-|-|-	NumType=Card	9	nummod	_	_
 11	ad	ad	ADP	r|r|-|-|-|-|-|-|-|-	_	12	case	_	_
 12	propietatem	proprietas	NOUN	n|n|-|s|-|-|-|f|a|-	Case=Acc|Gender=Fem|Number=Sing	3	obl	_	_
-13	[--]	missing^token	PUNCT	Punc	_	1	punct	_	SpaceAfter=No
+13	[--]	_	_	Punc	_	1	dep	_	SpaceAfter=No
 14	.	.	PUNCT	Punc	_	1	punct	_	_
 
 # sent_id = dev-s421
@@ -13581,7 +13581,7 @@
 7	actum	ago	VERB	t|t|-|s|r|p|p|n|n|-	Aspect=Perf|Case=Nom|Gender=Neut|Number=Sing|VerbForm=Part|Voice=Pass	17	advcl	_	_
 8	fuisset	sum	AUX	v|v|3|s|l|s|a|-|-|-	Aspect=Perf|Mood=Sub|Number=Sing|Person=3|Tense=Pqp|VerbForm=Fin	7	aux:pass	_	SpaceAfter=No
 9	,	,	PUNCT	Punc	_	7	punct	_	_
-10	[--]	missing^token	PUNCT	Punc	_	7	punct	_	_
+10	[--]	_	_	Punc	_	7	dep	_	_
 11	dicte	dico	VERB	t|t|-|p|r|p|p|f|n|-	Aspect=Perf|Case=Nom|Gender=Fem|Number=Plur|VerbForm=Part|Voice=Pass	12	acl	_	_
 12	sagramentas	sacramentum	NOUN	n|n|-|p|-|-|-|n|a|-	Case=Acc|Gender=Neut|Number=Plur	13	nsubj:pass	_	_
 13	deductas	deduco	VERB	t|t|-|p|r|p|p|n|a|-	Aspect=Perf|Case=Acc|Gender=Neut|Number=Plur|VerbForm=Part|Voice=Pass	17	advcl	_	SpaceAfter=No
@@ -13663,7 +13663,7 @@
 17	imperii	imperium	NOUN	n|n|-|s|-|-|-|n|g|-	Case=Gen|Gender=Neut|Number=Sing	16	nmod	_	_
 18	domni	domnus	NOUN	n|n|-|s|-|-|-|m|g|-	Case=Gen|Gender=Masc|Number=Sing	20	nmod	_	_
 19	nostri	noster	DET	a|a|1|s|-|-|-|m|g|-	Case=Gen|Gender=Masc|Number=Sing|Number[psor]=Plur|Person[psor]=1|Poss=Yes|PronType=Prs	18	det	_	_
-20	[Propn]	missing^token	X	Punc	_	16	nmod	_	SpaceAfter=No
+20	[Propn]	_	PROPN	Punc	_	16	nmod	_	SpaceAfter=No
 21	,	,	PUNCT	Punc	_	16	punct	_	_
 22	quinto	quintus	ADJ	a|a|-|s|-|-|-|m|b|-	Case=Abl|Gender=Masc|Number=Sing|NumType=Ord	13	obl	_	_
 23	decimo	decimus	ADJ	a|a|-|s|-|-|-|m|b|-	Case=Abl|Gender=Masc|Number=Sing|NumType=Ord	22	flat	_	_
@@ -13792,7 +13792,7 @@
 # reference = document_id='85:21'-span='115'
 1	+	+	PUNCT	SYM	_	7	punct	_	_
 2	Ego	ego	PRON	p|p|1|s|-|-|-|m|n|-	Case=Nom|Gender=Masc|Number=Sing|Person=1|PronType=Prs	7	nsubj	_	_
-3	[Propn]	missing^token	X	Punc	_	2	nmod	_	_
+3	[Propn]	_	PROPN	Punc	_	2	nmod	_	_
 4	in	in	ADP	r|r|-|-|-|-|-|-|-|-	_	5	case	_	_
 5	aliquid	aliquis	PRON	p|p|-|s|-|-|-|n|a|-	Case=Acc|Gender=Neut|InflClass=LatPron|Number=Sing|PronType=Ind	7	obl	_	_
 6	ibi	ubi	ADV	d|d|-|-|-|-|-|-|-|-	PronType=Rel	7	advmod	_	_
@@ -14532,7 +14532,7 @@
 23	,	,	PUNCT	Punc	_	24	punct	_	_
 24	una	una	ADV	d|d|-|-|-|-|-|-|-|-	_	27	case	_	_
 25	cum	cum	ADP	r|r|-|-|-|-|-|-|-|-	_	24	fixed	_	_
-26	[--]	missing^token	PUNCT	Punc	_	24	punct	_	_
+26	[--]	_	_	Punc	_	24	dep	_	_
 27	portione	portio	NOUN	n|n|-|s|-|-|-|f|b|-	Case=Abl|Gender=Fem|Number=Sing	21	obl	_	_
 28	de	de	ADP	r|r|-|-|-|-|-|-|-|-	_	30	case	_	_
 29	ipso	ipse	DET	p|p|-|s|-|-|-|m|b|-	Case=Abl|Gender=Masc|Number=Sing|PronType=Dem	30	det	_	_
@@ -14569,7 +14569,7 @@
 60	tenentes	teneo	VERB	t|t|-|s|p|p|a|f|a|-	Aspect=Imp|Case=Acc|Gender=Fem|Number=Sing|VerbForm=Part|Voice=Act	52	conj	_	_
 61	uno	unus	DET	a|a|-|s|-|-|-|n|a|-	Case=Acc|Gender=Neut|InflClass=LatPron|Number=Sing|NumType=Card|NumValue=1|PronType=Ind	62	det	_	_
 62	capo	caput	NOUN	n|n|-|s|-|-|-|n|a|-	Case=Acc|Gender=Neut|Number=Sing	60	obj	_	_
-63	[--]	missing^token	PUNCT	Punc	_	65	punct	_	_
+63	[--]	_	_	Punc	_	65	dep	_	_
 64	in	in	ADP	r|r|-|-|-|-|-|-|-|-	_	65	case	_	_
 65	via	uia	NOUN	n|n|-|s|-|-|-|f|b|-	Case=Abl|Gender=Fem|Number=Sing	60	obl	_	SpaceAfter=No
 66	,	,	PUNCT	Punc	_	69	punct	_	_
@@ -14700,7 +14700,7 @@
 # reference = document_id='85:23'-span='154'
 1	+	+	PUNCT	SYM	_	2	punct	_	_
 2	Ego	ego	PRON	p|p|1|s|-|-|-|m|n|-	Case=Nom|Gender=Masc|Number=Sing|Person=1|PronType=Prs	12	nsubj	_	_
-3	[Propn]	missing^token	X	Punc	_	2	nmod	_	SpaceAfter=No
+3	[Propn]	_	PROPN	Punc	_	2	nmod	_	SpaceAfter=No
 4	,	,	PUNCT	Punc	_	5	punct	_	_
 5	rogatus	rogo	VERB	t|t|-|s|r|p|p|m|n|-	Aspect=Perf|Case=Nom|Gender=Masc|Number=Sing|VerbForm=Part|Voice=Pass	3	acl	_	_
 6	ad	ab	ADP	r|r|-|-|-|-|-|-|-|-	_	8	case	_	_
@@ -14847,7 +14847,7 @@
 # reference = document_id='85:23'-span='163'
 1	+	+	PUNCT	SYM	_	6	punct	_	_
 2	Ego	ego	PRON	p|p|1|s|-|-|-|m|n|-	Case=Nom|Gender=Masc|Number=Sing|Person=1|PronType=Prs	6	nsubj	_	_
-3	[Propn]	missing^token	X	Punc	_	2	nmod	_	_
+3	[Propn]	_	PROPN	Punc	_	2	nmod	_	_
 4	autenticho	authenticum	NOUN	n|n|-|s|-|-|-|n|a|-	Case=Acc|Gender=Neut|Number=Sing	6	obj	_	_
 5	illo	ille	DET	p|p|-|s|-|-|-|n|a|-	Case=Acc|Gender=Neut|Number=Sing|PronType=Dem	4	det	_	_
 6	vidi	uideo	VERB	v|v|1|s|r|i|a|-|-|-	Aspect=Perf|Mood=Ind|Number=Sing|Person=1|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	_
@@ -14961,7 +14961,7 @@
 2	Ego	ego	PRON	p|p|1|s|-|-|-|m|n|-	Case=Nom|Gender=Masc|Number=Sing|Person=1|PronType=Prs	8	nsubj	_	_
 3	qui	qui	DET	p|p|-|s|-|-|-|m|n|-	Case=Nom|Gender=Masc|Number=Sing|PronType=Ind	5	nmod	_	_
 4	supra	supra	ADV	d|d|-|-|-|-|-|-|-|-	_	3	fixed	_	_
-5	[Propn]	missing^token	X	Punc	_	2	nmod	_	_
+5	[Propn]	_	PROPN	Punc	_	2	nmod	_	_
 6	autenticho	authenticum	NOUN	n|n|-|s|-|-|-|n|a|-	Case=Acc|Gender=Neut|Number=Sing	8	obj	_	_
 7	illo	ille	DET	p|p|-|s|-|-|-|n|a|-	Case=Acc|Gender=Neut|Number=Sing|PronType=Dem	6	det	_	_
 8	vidi	uideo	VERB	v|v|1|s|r|i|a|-|-|-	Aspect=Perf|Mood=Ind|Number=Sing|Person=1|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	_
@@ -14982,7 +14982,7 @@
 # reference = document_id='85:23'-span='169'
 1	+	+	PUNCT	SYM	_	6	punct	_	_
 2	Ego	ego	PRON	p|p|1|s|-|-|-|m|n|-	Case=Nom|Gender=Masc|Number=Sing|Person=1|PronType=Prs	6	nsubj	_	_
-3	[Propn]	missing^token	X	Punc	_	2	nmod	_	_
+3	[Propn]	_	PROPN	Punc	_	2	nmod	_	_
 4	autenticho	authenticum	NOUN	n|n|-|s|-|-|-|n|a|-	Case=Acc|Gender=Neut|Number=Sing	6	obj	_	_
 5	illo	ille	DET	p|p|-|s|-|-|-|n|a|-	Case=Acc|Gender=Neut|Number=Sing|PronType=Dem	4	det	_	_
 6	vidi	uideo	VERB	v|v|1|s|r|i|a|-|-|-	Aspect=Perf|Mood=Ind|Number=Sing|Person=1|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	_
@@ -15252,7 +15252,7 @@
 50	,	,	PUNCT	Punc	_	52	punct	_	_
 51	argentum	argentum	NOUN	n|n|-|s|-|-|-|n|a|-	Case=Acc|Gender=Neut|Number=Sing	52	nmod	_	_
 52	soledos	solidus	NOUN	n|n|-|p|-|-|-|m|a|-	Case=Acc|Gender=Masc|Number=Plur	37	dislocated:obj	_	_
-53	[--]	missing^token	PUNCT	Punc	_	54	punct	_	_
+53	[--]	_	_	Punc	_	54	dep	_	_
 54	viginti	uiginti	NUM	m|m|-|-|-|-|-|-|-|-	NumType=Card	52	nummod	_	SpaceAfter=No
 55	,	,	PUNCT	Punc	_	60	punct	_	_
 56	quia	quia	SCONJ	c|c|-|-|-|-|-|-|-|-	_	60	mark	_	_
@@ -15358,7 +15358,7 @@
 # reference = document_id='85:24'-span='184'
 1	+	+	PUNCT	SYM	_	2	punct	_	_
 2	Ego	ego	PRON	p|p|1|s|-|-|-|m|n|-	Case=Nom|Gender=Masc|Number=Sing|Person=1|PronType=Prs	11	nsubj	_	_
-3	[Propn]	missing^token	X	Punc	_	2	nmod	_	SpaceAfter=No
+3	[Propn]	_	PROPN	Punc	_	2	nmod	_	SpaceAfter=No
 4	,	,	PUNCT	Punc	_	5	punct	_	_
 5	rogatus	rogo	VERB	t|t|-|s|r|p|p|m|n|-	Aspect=Perf|Case=Nom|Gender=Masc|Number=Sing|VerbForm=Part|Voice=Pass	3	acl	_	_
 6	a	ab	ADP	r|r|-|-|-|-|-|-|-|-	_	7	case	_	_
@@ -16640,7 +16640,7 @@
 # reference = document_id='85:27'-span='23'
 1	+	+	PUNCT	SYM	_	9	punct	_	_
 2	Ego	ego	PRON	p|p|1|s|-|-|-|m|n|-	Case=Nom|Gender=Masc|Number=Sing|Person=1|PronType=Prs	9	nsubj	_	_
-3	[Propn]	missing^token	X	Punc	_	2	nmod	_	_
+3	[Propn]	_	PROPN	Punc	_	2	nmod	_	_
 4	rogatus	rogo	VERB	t|t|-|s|r|p|p|m|n|-	Aspect=Perf|Case=Nom|Gender=Masc|Number=Sing|VerbForm=Part|Voice=Pass	3	acl	_	_
 5	a	ab	ADP	r|r|-|-|-|-|-|-|-|-	_	6	case	_	_
 6	Sichalmi	Sichelmus	PROPN	Propn|n|-|s|-|-|-|m|b|-	Case=Abl|Gender=Masc|Number=Sing	4	obl:arg	_	_
@@ -18250,7 +18250,7 @@
 30	ad	ad	ADP	r|r|-|-|-|-|-|-|-|-	_	31	case	_	_
 31	Valle	Valles	PROPN	Propn|n|-|s|-|-|-|f|a|-	Case=Acc|Gender=Fem|Number=Sing	29	xcomp	_	SpaceAfter=No
 32	,	,	PUNCT	Punc	_	24	punct	_	_
-33	[--]	missing^token	PUNCT	Punc	_	35	punct	_	_
+33	[--]	_	_	Punc	_	35	dep	_	_
 34	prope	prope	ADP	r|r|-|-|-|-|-|-|-|-	_	35	case	_	_
 35	ecclesia	ecclesia	NOUN	n|n|-|s|-|-|-|f|a|-	Case=Acc|Gender=Fem|Number=Sing	24	obl	_	_
 36	sancte	sanctus	ADJ	a|a|-|s|-|-|-|f|g|-	Case=Gen|Gender=Fem|Number=Sing	37	amod	_	_
@@ -19358,7 +19358,7 @@
 16	imperii	imperium	NOUN	n|n|-|s|-|-|-|n|g|-	Case=Gen|Gender=Neut|Number=Sing	15	nmod	_	_
 17	eius	is	PRON	p|p|-|s|-|-|-|m|g|-	Case=Gen|Gender=Masc|Number=Sing|Person=3|PronType=Prs	16	nmod	_	_
 18	quinto	quintus	ADJ	a|a|-|s|-|-|-|m|b|-	Case=Abl|Gender=Masc|Number=Sing|NumType=Ord	15	amod	_	_
-19	[--]	missing^token	PUNCT	Punc	_	5	punct	_	SpaceAfter=No
+19	[--]	_	_	Punc	_	5	dep	_	SpaceAfter=No
 20	,	,	PUNCT	Punc	_	21	punct	_	_
 21	nonus	nonus	ADJ	a|a|-|s|-|-|-|m|n|-	Case=Nom|Gender=Masc|Number=Sing|NumType=Ord	5	obl	_	_
 22	chalendas	kalendae	NOUN	n|n|-|p|-|-|-|f|a|-	Case=Acc|Gender=Fem|Number=Plur	21	nmod	_	_
@@ -20233,7 +20233,7 @@
 15	Adalprando	Adalprandus	PROPN	Propn|n|-|s|-|-|-|m|a|-	Case=Acc|Gender=Masc|Number=Sing	10	conj	_	_
 16	qui	qui	PRON	p|p|-|p|-|-|-|m|n|-	Case=Nom|Gender=Masc|Number=Plur|PronType=Rel	17	nsubj	_	_
 17	ambulaverunt	ambulo	VERB	v|v|3|p|r|i|a|-|-|-	Aspect=Perf|Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	10	acl:relcl	_	_
-18	[--]	missing^token	PUNCT	Punc	_	4	punct	_	SpaceAfter=No
+18	[--]	_	_	Punc	_	4	dep	_	SpaceAfter=No
 19	.	.	PUNCT	Punc	_	4	punct	_	_
 
 # sent_id = dev-s645
@@ -23417,7 +23417,7 @@
 # reference = document_id='85:38'-span='34'
 1	+	+	PUNCT	SYM	_	2	punct	_	_
 2	Ego	ego	PRON	p|p|1|s|-|-|-|m|n|-	Case=Nom|Gender=Masc|Number=Sing|Person=1|PronType=Prs	13	nsubj	_	_
-3	[Propn]	missing^token	X	Punc	_	2	nmod	_	_
+3	[Propn]	_	PROPN	Punc	_	2	nmod	_	_
 4	notarius	notarius	NOUN	n|n|-|s|-|-|-|m|n|-	Case=Nom|Gender=Masc|Number=Sing	3	nmod	_	SpaceAfter=No
 5	,	,	PUNCT	Punc	_	6	punct	_	_
 6	rogatus	rogo	VERB	t|t|-|s|r|p|p|m|n|-	Aspect=Perf|Case=Nom|Gender=Masc|Number=Sing|VerbForm=Part|Voice=Pass	3	acl	_	_
@@ -23435,7 +23435,7 @@
 # reference = document_id='85:38'-span='35'
 1	+	+	PUNCT	SYM	_	2	punct	_	_
 2	Ego	ego	PRON	p|p|1|s|-|-|-|m|n|-	Case=Nom|Gender=Masc|Number=Sing|Person=1|PronType=Prs	11	nsubj	_	_
-3	[Propn]	missing^token	X	Punc	_	2	nmod	_	_
+3	[Propn]	_	PROPN	Punc	_	2	nmod	_	_
 4	rogatus	rogo	VERB	t|t|-|s|r|p|p|m|n|-	Aspect=Perf|Case=Nom|Gender=Masc|Number=Sing|VerbForm=Part|Voice=Pass	3	acl	_	_
 5	ad	ab	ADP	r|r|-|-|-|-|-|-|-|-	_	6	case	_	_
 6	Albolfo	Albolfus	PROPN	Propn|n|-|s|-|-|-|m|b|-	Case=Abl|Gender=Masc|Number=Sing	4	obl:arg	_	_
@@ -26685,7 +26685,7 @@
 # text = ego [Propn] notarius, rogatus a Gherimundo presbitero et Iohannes, me teste subscripsi.
 # reference = document_id='85:43'-span='117'
 1	ego	ego	PRON	p|p|1|s|-|-|-|m|n|-	Case=Nom|Gender=Masc|Number=Sing|Person=1|PronType=Prs	14	nsubj	_	_
-2	[Propn]	missing^token	X	Punc	_	1	nmod	_	_
+2	[Propn]	_	PROPN	Punc	_	1	nmod	_	_
 3	notarius	notarius	NOUN	n|n|-|s|-|-|-|m|n|-	Case=Nom|Gender=Masc|Number=Sing	2	nmod	_	SpaceAfter=No
 4	,	,	PUNCT	Punc	_	5	punct	_	_
 5	rogatus	rogo	VERB	t|t|-|s|r|p|p|m|n|-	Aspect=Perf|Case=Nom|Gender=Masc|Number=Sing|VerbForm=Part|Voice=Pass	2	acl	_	_
