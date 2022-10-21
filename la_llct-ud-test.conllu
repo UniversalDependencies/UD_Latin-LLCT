@@ -4024,7 +4024,7 @@
 27	qui	qui	DET	p|p|-|s|-|-|-|m|n|-	Case=Nom|Gender=Masc|Number=Sing|PronType=Ind	29	det	_	_
 28	supra	supra	ADV	d|d|-|-|-|-|-|-|-|-	_	27	fixed	_	_
 29	Astolfo	Aistolfus	PROPN	Propn|n|-|s|-|-|-|m|a|-	Case=Acc|Gender=Masc|Number=Sing	25	nsubj	_	_
-30	[--]	_	_	Punc	_	31	dep	_	_
+30	[--]	_	X	Punc	_	31	dep	_	_
 31	conponere	compono	VERB	v|v|-|-|p|n|a|-|-|-	Aspect=Imp|VerbForm=Vnoun|Voice=Act	25	xcomp	_	_
 32	tibi	tu	PRON	p|p|2|s|-|-|-|m|d|-	Case=Dat|Gender=Masc|Number=Sing|Person=2|PronType=Prs	35	det	_	_
 33	qui	qui	DET	p|p|-|s|-|-|-|m|n|-	Case=Nom|Gender=Masc|Number=Sing|PronType=Ind	35	det	_	_
@@ -4038,7 +4038,7 @@
 41	penam	poena	NOUN	n|n|-|s|-|-|-|f|a|-	Case=Acc|Gender=Fem|Number=Sing	31	obj	_	SpaceAfter=No
 42	,	,	PUNCT	Punc	_	43	punct	_	_
 43	argentum	argentum	NOUN	n|n|-|s|-|-|-|n|a|-	Case=Acc|Gender=Neut|Number=Sing	45	nmod	_	_
-44	[--]	_	_	Punc	_	43	dep	_	_
+44	[--]	_	X	Punc	_	43	dep	_	_
 45	soledos	solidus	NOUN	n|n|-|p|-|-|-|m|a|-	Case=Acc|Gender=Masc|Number=Plur	31	dislocated:obj	_	SpaceAfter=No
 46	,	,	PUNCT	Punc	_	51	punct	_	_
 47	quia	quia	SCONJ	c|c|-|-|-|-|-|-|-|-	_	51	mark	_	_
@@ -6487,7 +6487,7 @@
 12	eius	is	PRON	p|p|-|s|-|-|-|m|g|-	Case=Gen|Gender=Masc|Number=Sing|Person=3|PronType=Prs	11	nmod	_	_
 13	octingentesimo	octingentesimus	ADJ	a|a|-|s|-|-|-|m|b|-	Case=Abl|Gender=Masc|Number=Sing|NumType=Ord	9	amod	_	_
 14	nonagisimo	nonagesimus	ADJ	a|a|-|s|-|-|-|m|b|-	Case=Abl|Gender=Masc|Number=Sing|NumType=Ord	13	flat	_	_
-15	[--]	_	_	Punc	_	9	dep	_	SpaceAfter=No
+15	[--]	_	X	Punc	_	9	dep	_	SpaceAfter=No
 16	,	,	PUNCT	Punc	_	9	punct	_	_
 17	post	post	ADP	r|r|-|-|-|-|-|-|-|-	_	18	case	_	_
 18	obitum	obitus	NOUN	n|n|-|s|-|-|-|m|a|-	Case=Acc|Gender=Masc|Number=Sing	25	nmod	_	_
@@ -6595,7 +6595,7 @@
 13	lato	latus	NOUN	n|n|-|s|-|-|-|n|a|-	Case=Acc|Gender=Neut|Number=Sing	10	nmod	_	_
 14	in	in	ADP	r|r|-|-|-|-|-|-|-|-	_	15	case	_	_
 15	terra	terra	NOUN	n|n|-|s|-|-|-|f|b|-	Case=Abl|Gender=Fem|Number=Sing	8	obl	_	_
-16	[--]	_	_	Punc	_	18	dep	_	_
+16	[--]	_	X	Punc	_	18	dep	_	_
 17	suprascripte	suprascriptus	DET	a|a|-|s|-|-|-|f|g|-	Case=Gen|Gender=Fem|Number=Sing|PronType=Dem	18	det	_	_
 18	ecclesie	ecclesia	NOUN	n|n|-|s|-|-|-|f|g|-	Case=Gen|Gender=Fem|Number=Sing	15	nmod	_	_
 19	sancti	sanctus	ADJ	a|a|-|s|-|-|-|m|g|-	Case=Gen|Gender=Masc|Number=Sing	20	amod	_	_
@@ -6610,7 +6610,7 @@
 28	fundamento	fundamentum	NOUN	n|n|-|s|-|-|-|n|b|-	Case=Abl|Gender=Neut|Number=Sing	26	nmod	_	_
 29	de	de	ADP	r|r|-|-|-|-|-|-|-|-	_	30	case	_	_
 30	casa	casa	NOUN	n|n|-|s|-|-|-|f|b|-	Case=Abl|Gender=Fem|Number=Sing	28	nmod	_	_
-31	[--]	_	_	Punc	_	24	dep	_	SpaceAfter=No
+31	[--]	_	X	Punc	_	24	dep	_	SpaceAfter=No
 32	,	,	PUNCT	Punc	_	34	punct	_	_
 33	lato	latus	NOUN	n|n|-|s|-|-|-|n|a|-	Case=Acc|Gender=Neut|Number=Sing	34	obj	_	_
 34	tenet	teneo	VERB	v|v|3|s|p|i|a|-|-|-	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	24	conj	_	_
@@ -6827,7 +6827,7 @@
 6	in	in	ADP	r|r|-|-|-|-|-|-|-|-	_	7	case	_	_
 7	edeficio	aedificium	NOUN	n|n|-|s|-|-|-|n|b|-	Case=Abl|Gender=Neut|Number=Sing	10	obl	_	_
 8	case	casa	NOUN	n|n|-|s|-|-|-|f|g|-	Case=Gen|Gender=Fem|Number=Sing	7	nmod	_	_
-9	[--]	_	_	Punc	_	7	dep	_	_
+9	[--]	_	X	Punc	_	7	dep	_	_
 10	sunt	sum	AUX	v|v|3|p|p|i|a|-|-|-	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	3	acl:relcl	_	_
 11	in	in	ADP	r|r|-|-|-|-|-|-|-|-	_	22	case	_	_
 12	nostra	noster	DET	a|a|1|s|-|-|-|f|a|-	Case=Acc|Gender=Fem|Number=Sing|Number[psor]=Plur|Person[psor]=1|Poss=Yes|PronType=Prs	22	det	_	_
@@ -7889,7 +7889,7 @@
 7	Christi	Christus	PROPN	Propn|n|-|s|-|-|-|m|g|-	Case=Gen|Gender=Masc|Number=Sing	6	nmod	_	SpaceAfter=No
 8	,	,	PUNCT	Punc	_	3	punct	_	_
 9	anno	annus	NOUN	n|n|-|s|-|-|-|m|b|-	Case=Abl|Gender=Masc|Number=Sing	35	obl	_	_
-10	[--]	_	_	Punc	_	12	dep	_	_
+10	[--]	_	X	Punc	_	12	dep	_	_
 11	ab	ad	ADP	r|r|-|-|-|-|-|-|-|-	_	12	case	_	_
 12	incarnationis	incarnatio	NOUN	n|n|-|s|-|-|-|f|g|-	Case=Gen|Gender=Fem|Number=Sing	9	nmod	_	_
 13	eius	is	PRON	p|p|-|s|-|-|-|m|g|-	Case=Gen|Gender=Masc|Number=Sing|Person=3|PronType=Prs	12	nmod	_	_
@@ -9579,7 +9579,7 @@
 2	ille	ille	DET	p|p|-|s|-|-|-|m|n|-	Case=Nom|Gender=Masc|Number=Sing|PronType=Dem	4	nmod	_	_
 3	tertia	tertius	ADJ	a|a|-|s|-|-|-|f|n|-	Case=Nom|Gender=Fem|Number=Sing|NumType=Ord	4	amod	_	_
 4	petia	petia	NOUN	n|n|-|s|-|-|-|f|n|-	Case=Nom|Gender=Fem|Number=Sing	13	nsubj	_	_
-5	[--]	_	_	Punc	_	7	dep	_	_
+5	[--]	_	X	Punc	_	7	dep	_	_
 6	de	de	ADP	r|r|-|-|-|-|-|-|-|-	_	7	case	_	_
 7	terra	terra	NOUN	n|n|-|s|-|-|-|f|b|-	Case=Abl|Gender=Fem|Number=Sing	4	nmod	_	_
 8	quod	qui	PRON	p|p|-|s|-|-|-|n|n|-	Case=Nom|Gender=Neut|Number=Sing|PronType=Rel	10	nsubj	_	_
@@ -12007,7 +12007,7 @@
 44	pre	prae	ADP	r|r|-|-|-|-|-|-|-|-	_	45	case	_	_
 45	tempore	tempus	NOUN	n|n|-|s|-|-|-|n|b|-	Case=Abl|Gender=Neut|Number=Sing	46	obl	_	_
 46	abueritis	habeo	VERB	v|v|2|p|t|i|a|-|-|-	Aspect=Perf|Mood=Ind|Number=Plur|Person=2|Tense=Fut|VerbForm=Fin|Voice=Act	40	acl:relcl	_	_
-47	[--]	_	_	Punc	_	37	dep	_	SpaceAfter=No
+47	[--]	_	X	Punc	_	37	dep	_	SpaceAfter=No
 48	,	,	PUNCT	Punc	_	37	punct	_	_
 49	argentum	argentum	NOUN	n|n|-|s|-|-|-|n|a|-	Case=Acc|Gender=Neut|Number=Sing	50	nmod	_	_
 50	denarios	denarius	NOUN	n|n|-|p|-|-|-|m|a|-	Case=Acc|Gender=Masc|Number=Plur	29	dislocated:obj	_	_
@@ -14105,7 +14105,7 @@
 1	manifestu	manifestus	ADJ	a|a|-|s|-|-|-|m|a|-	Case=Acc|Gender=Masc|Number=Sing	0	root	_	_
 2	sum	sum	AUX	v|v|1|s|p|i|a|-|-|-	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	1	cop	_	_
 3	ego	ego	PRON	p|p|1|s|-|-|-|m|n|-	Case=Nom|Gender=Masc|Number=Sing|Person=1|PronType=Prs	5	det	_	_
-4	[--]	_	_	Punc	_	5	dep	_	_
+4	[--]	_	X	Punc	_	5	dep	_	_
 5	Adalfridi	Adalfridus	PROPN	Propn|n|-|s|-|-|-|m|n|-	Case=Nom|Gender=Masc|Number=Sing	1	nsubj	_	SpaceAfter=No
 6	,	,	PUNCT	Punc	_	7	punct	_	_
 7	filio	filius	NOUN	n|n|-|s|-|-|-|m|a|-	Case=Acc|Gender=Masc|Number=Sing	5	appos	_	_
@@ -15783,7 +15783,7 @@
 67	in	in	ADP	r|r|-|-|-|-|-|-|-|-	_	69	case	_	_
 68	ferquidem	ferquidis	ADJ	a|a|-|s|-|-|-|m|b|-	Case=Abl|Gender=Masc|Number=Sing	69	amod	_	_
 69	loco	locus	NOUN	n|n|-|s|-|-|-|m|b|-	Case=Abl|Gender=Masc|Number=Sing	57	obl	_	_
-70	[--]	_	_	Punc	_	57	dep	_	SpaceAfter=No
+70	[--]	_	X	Punc	_	57	dep	_	SpaceAfter=No
 71	,	,	PUNCT	Punc	_	73	punct	_	_
 72	sub	sub	ADP	r|r|-|-|-|-|-|-|-|-	_	73	case	_	_
 73	estimationem	aestimatio	NOUN	n|n|-|s|-|-|-|f|b|-	Case=Abl|Gender=Fem|Number=Sing	57	obl	_	_
@@ -16821,7 +16821,7 @@
 15	me	ego	PRON	p|p|1|s|-|-|-|m|a|-	Case=Acc|Gender=Masc|Number=Sing|Person=1|PronType=Prs	21	nsubj	_	_
 16	in	in	ADP	r|r|-|-|-|-|-|-|-|-	_	21	mark	_	_
 17	hanc	hic	DET	p|p|-|s|-|-|-|f|a|-	Case=Acc|Gender=Fem|Number=Sing|PronType=Dem	23	nmod	_	_
-18	[--]	_	_	Punc	_	17	dep	_	_
+18	[--]	_	X	Punc	_	17	dep	_	_
 19	huius	hic	DET	p|p|-|s|-|-|-|m|g|-	Case=Gen|Gender=Masc|Number=Sing|PronType=Dem	20	det	_	_
 20	mundi	mundus	NOUN	n|n|-|s|-|-|-|m|g|-	Case=Gen|Gender=Masc|Number=Sing	23	nmod	_	_
 21	esse	sum	AUX	v|v|-|-|p|n|a|-|-|-	Aspect=Imp|VerbForm=Inf	14	ccomp	_	SpaceAfter=No
@@ -17536,7 +17536,7 @@
 24	notitie	notitia	NOUN	n|n|-|p|-|-|-|f|n|-	Case=Nom|Gender=Fem|Number=Plur	20	conj	_	_
 25	iudicati	iudicatum	NOUN	n|n|-|s|-|-|-|n|g|-	Case=Gen|Gender=Neut|Number=Sing	24	nmod	_	_
 26	vel	uel	CCONJ	c|c|-|-|-|-|-|-|-|-	_	30	cc	_	_
-27	[--]	_	_	Punc	_	26	dep	_	_
+27	[--]	_	X	Punc	_	29	dep	_	_
 28	quacumque	quicumque	DET	p|p|-|s|-|-|-|f|b|-	Case=Abl|Gender=Fem|InflClass=LatPron|Number=Sing|PronType=Ind	30	det	_	_
 29	scriptionis	scriptio	NOUN	n|n|-|s|-|-|-|f|g|-	Case=Gen|Gender=Fem|Number=Sing	30	nmod	_	_
 30	pagina	pagina	NOUN	n|n|-|s|-|-|-|f|b|-	Case=Abl|Gender=Fem|Number=Sing	24	conj	_	_
@@ -20049,7 +20049,7 @@
 95	per	per	ADP	r|r|-|-|-|-|-|-|-|-	_	96	case	_	_
 96	nos	nos	PRON	p|p|1|p|-|-|-|m|a|-	Case=Acc|Gender=Masc|Number=Plur|Person=1|PronType=Prs	92	obl	_	_
 97	aut	aut	CCONJ	c|c|-|-|-|-|-|-|-|-	_	100	cc	_	_
-98	[--]	_	_	Punc	_	97	dep	_	_
+98	[--]	_	X	Punc	_	100	dep	_	_
 99	per	per	ADP	r|r|-|-|-|-|-|-|-|-	_	100	case	_	_
 100	misso	missus	NOUN	n|n|-|s|-|-|-|m|a|-	Case=Acc|Gender=Masc|Number=Sing	96	conj	_	_
 101	nostro	noster	DET	a|a|1|s|-|-|-|m|a|-	Case=Acc|Gender=Masc|Number=Sing|Number[psor]=Plur|Person[psor]=1|Poss=Yes|PronType=Prs	100	det	_	SpaceAfter=No
@@ -21014,7 +21014,7 @@
 69	vestro	uester	DET	a|a|2|s|-|-|-|n|b|-	Case=Abl|Gender=Neut|Number=Sing|Number[psor]=Plur|Person[psor]=2|Poss=Yes|PronType=Prs	68	det	_	_
 70	ad	ad	ADP	r|r|-|-|-|-|-|-|-|-	_	73	case	_	_
 71	ipsa	ipse	DET	p|p|-|s|-|-|-|f|b|-	Case=Abl|Gender=Fem|Number=Sing|PronType=Dem	73	det	_	_
-72	[--]	_	_	Punc	_	71	dep	_	_
+72	[--]	_	X	Punc	_	71	dep	_	_
 73	ecclesia	ecclesia	NOUN	n|n|-|s|-|-|-|f|a|-	Case=Acc|Gender=Fem|Number=Sing	81	obl	_	_
 74	sancte	sanctus	ADJ	a|a|-|s|-|-|-|f|g|-	Case=Gen|Gender=Fem|Number=Sing	75	amod	_	_
 75	Marie	Maria	PROPN	Propn|n|-|s|-|-|-|f|g|-	Case=Gen|Gender=Fem|Number=Sing	73	nmod	_	SpaceAfter=No
@@ -22595,7 +22595,7 @@
 8	exinde	exinde	ADV	d|d|-|-|-|-|-|-|-|-	_	31	advmod	_	_
 9	tibi	tu	PRON	p|p|2|s|-|-|-|m|d|-	Case=Dat|Gender=Masc|Number=Sing|Person=2|PronType=Prs	31	obl:arg	_	_
 10	vel	uel	CCONJ	c|c|-|-|-|-|-|-|-|-	_	13	cc	_	_
-11	[--]	_	_	Punc	_	10	dep	_	_
+11	[--]	_	X	Punc	_	13	dep	_	_
 12	ad	ad	ADP	r|r|-|-|-|-|-|-|-|-	_	13	case	_	_
 13	subcessoribus	successor	NOUN	n|n|-|p|-|-|-|m|b|-	Case=Abl|Gender=Masc|Number=Plur	9	conj	_	_
 14	tuis	tuus	DET	a|a|2|p|-|-|-|m|b|-	Case=Abl|Gender=Masc|Number=Plur|Number[psor]=Sing|Person[psor]=2|Poss=Yes|PronType=Prs	13	det	_	_
@@ -23411,8 +23411,8 @@
 16	tibi	tu	PRON	p|p|2|s|-|-|-|m|d|-	Case=Dat|Gender=Masc|Number=Sing|Person=2|PronType=Prs	24	obl:arg	_	_
 17	qui	qui	DET	p|p|-|s|-|-|-|m|n|-	Case=Nom|Gender=Masc|Number=Sing|PronType=Ind	21	det	_	_
 18	supra	supra	ADV	d|d|-|-|-|-|-|-|-|-	_	21	advmod	_	_
-19	[--]	_	_	Punc	_	18	dep	_	_
-20	[--]	_	_	Punc	_	18	dep	_	_
+19	[--]	_	X	Punc	_	18	dep	_	_
+20	[--]	_	X	Punc	_	18	dep	_	_
 21	Ansighisi	Ansighisus	PROPN	Propn|n|-|s|-|-|-|m|g|-	Case=Gen|Gender=Masc|Number=Sing	16	nmod	_	_
 22	vendictionis	uenditio	NOUN	n|n|-|s|-|-|-|f|g|-	Case=Gen|Gender=Fem|Number=Sing	23	nmod	_	_
 23	titulo	titulus	NOUN	n|n|-|s|-|-|-|m|b|-	Case=Abl|Gender=Masc|Number=Sing	24	obl	_	_
@@ -24574,7 +24574,7 @@
 # text = Ioannes [--] tenet eclesia sancti Laurencii.
 # reference = document_id='86:45'-span='188'
 1	Ioannes	Johannes	PROPN	Propn|n|-|s|-|-|-|m|n|-	Case=Nom|Gender=Masc|Number=Sing	3	nsubj	_	_
-2	[--]	_	_	Punc	_	1	dep	_	_
+2	[--]	_	X	Punc	_	1	dep	_	_
 3	tenet	teneo	VERB	v|v|3|s|p|i|a|-|-|-	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
 4	eclesia	ecclesia	NOUN	n|n|-|s|-|-|-|f|a|-	Case=Acc|Gender=Fem|Number=Sing	3	obj	_	_
 5	sancti	sanctus	ADJ	a|a|-|s|-|-|-|m|g|-	Case=Gen|Gender=Masc|Number=Sing	6	amod	_	_
