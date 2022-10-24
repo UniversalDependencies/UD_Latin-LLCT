@@ -62,6 +62,21 @@ in the Humanities: Proceedings of the ACRH Workshop, Heidelberg, 5. Jan. 2012*. 
 
 # Changelog
 
+* 2022-11-15 v2.11
+    * Implementations of the [amendment](https://universaldependencies.org/changes.html#multiple-subjects) for clausal non-verbal copular constructions and corrections regarding multiple subjects and introduction of the `:outer` subtype for subjects and copulas
+    * Implementation of the proposal of [`VerbForm`](la-feat/VerbForm) reform as for (Cecchini, 2021; see documentation entry for `VerbForm`)
+        * at the same time, introduction of the `Traditional` feature in `MISC` to take into account traditional denominations  
+    * Double-pronoun constructions, also called free relatives, have been highlighted semi-automatically by means of the the newly introduced `:relcl` subtype
+    * Implementation of the treatment of personal pronouns as `Person`-bearing determiners (relation `det`, part of speech `PRON`) of (proper) nouns, instead as of heads modified by appositions (relation `appos`), as discussed in (Höhn, 2021; UDW 2021, Sofia) 
+    * Normalisation of textual gap annotation: no more pseudolemma *missing^token*, but empty lemma (`_`), empty part of speech (`X`) if not retrievable from the context, and possibly empty relation (`dep`) and convenience head attachment if not retrievable from the context
+    * Some instances of the correlating construction *tam ... quam et* 'so ... as also' have been (partially semi-automatically) normalised from co-ordinating conjunctions to focaliser + comparative adverbial clause
+    * Many "small words" (especially particles) and their features have started being standardised among treebanks. For example, *is*/*ea*/*id* is now always a `PRON` with `PronType=Prs`, *nam* always a `PART`, `AdvType` has been added to many "adverbs"...
+        * *et*, *nec* etc. now stay `CCONJ` even when acting as focalisers
+        * *unus* is uniformed to a determiner (`DET`) with both cardinal numeral type and indefinite pronoun type, and numeric value `1`
+        * multiple (comma-separated) `PronType`s have been revised and reduced to one; the interrogative `Int` value has been streamlined as possible 
+    * Remotion of the value `Pos` for the feature `Degree` ("positive" degree is still retrievable as the absence of another degree)
+    * Various other occasional corrections of the annotation
+        * The LLCT is still waiting for the introduction of inflectional classes and some other lexical features, a complex made more difficult by the particular Latin of these texts
 * 2020-05-15 v2.6
   * Initial release in Universal Dependencies.
 
