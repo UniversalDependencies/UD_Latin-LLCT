@@ -65,7 +65,7 @@ in the Humanities: Proceedings of the ACRH Workshop, Heidelberg, 5. Jan. 2012*. 
 * 2022-11-15 v2.11
     * Implementations of the [amendment](https://universaldependencies.org/changes.html#multiple-subjects) for clausal non-verbal copular constructions and corrections regarding multiple subjects and introduction of the `:outer` subtype for subjects and copulas
     * Implementation of the proposal of [`VerbForm`](la-feat/VerbForm) reform as for (Cecchini, 2021; see documentation entry for `VerbForm`)
-        * at the same time, introduction of the `Traditional` feature in `MISC` to take into account traditional denominations  
+        * at the same time, introduction of the `TraditionalMood` and `TraditionalTense` features in `MISC` to take into account traditional denominations  
     * Double-pronoun constructions, also called free relatives, have been highlighted semi-automatically by means of the the newly introduced `:relcl` subtype
     * Implementation of the treatment of personal pronouns as `Person`-bearing determiners (relation `det`, part of speech `PRON`) of (proper) nouns, instead as of heads modified by appositions (relation `appos`), as discussed in (Höhn, 2021; UDW 2021, Sofia) 
     * Normalisation of textual gap annotation: no more pseudolemma *missing^token*, but empty lemma (`_`), empty part of speech (`X`) if not retrievable from the context, and possibly empty relation (`dep`) and convenience head attachment if not retrievable from the context
