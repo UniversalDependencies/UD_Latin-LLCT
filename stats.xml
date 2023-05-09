@@ -32,7 +32,7 @@
     <tag name="X">187</tag><!-- _ -->
   </tags>
   <!-- Statistics of features and values. The comments show the most frequent word forms. -->
-  <feats unique="62">
+  <feats unique="61">
     <feat name="AdvType" value="Loc" upos="ADV">506</feat><!-- unde, hic, ubique, exinde, alibi, foras, foris, hinc, ibidem, ic -->
     <feat name="AdvType" value="Tim" upos="ADV">361</feat><!-- iam, semper, nunc, iterum, quandoque, iteru, senper, aduc, exinde, ia -->
     <feat name="Aspect" value="Imp" upos="AUX,VERB">12486</feat><!-- debeamus, est, legitur, tenet, regnante, scribere, conponere, pertenentes, dicitur, fieri -->
@@ -90,9 +90,8 @@
     <feat name="Tense" value="Pqp" upos="AUX,VERB">338</feat><!-- dedissemus, fuisset, voluisset, potuisset, abuisset, dixisset, fuerat, fuissent, fuisse, recipisset -->
     <feat name="Tense" value="Pres" upos="AUX,VERB">7629</feat><!-- est, debeamus, legitur, tenet, sum, dicitur, spondeo, videtur, videor, sunt -->
     <feat name="VerbForm" value="Fin" upos="AUX,VERB">18482</feat><!-- subscripsi, est, debeamus, dedi, dedisti, fuerit, legitur, tenet, conplevi, sum -->
-    <feat name="VerbForm" value="Inf" upos="AUX">207</feat><!-- esse, esset, essed, essem, fuisset, ese, essere, fuisse, fuissent, phore -->
+    <feat name="VerbForm" value="Inf" upos="AUX,VERB">4467</feat><!-- scribere, conponere, fieri, reddere, dare, abere, venire, esse, gubernare, facere -->
     <feat name="VerbForm" value="Part" upos="AUX,VERB">9756</feat><!-- rogatus, actum, regnante, pertenentes, traditam, facta, faciendum, sita, conservata, pegiorata -->
-    <feat name="VerbForm" value="Vnoun" upos="VERB">4260</feat><!-- scribere, conponere, fieri, reddere, dare, abere, venire, gubernare, facere, meliorare -->
     <feat name="Voice" value="Act" upos="AUX,VERB">18518</feat><!-- subscripsi, debeamus, dedi, dedisti, tenet, conplevi, regnante, scribere, conponere, pertenentes -->
     <feat name="Voice" value="Pass" upos="VERB">10074</feat><!-- rogatus, legitur, actum, traditam, dicitur, fieri, videtur, facta, faciendum, videor -->
   </feats>
