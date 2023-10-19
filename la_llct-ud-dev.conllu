@@ -17569,12 +17569,13 @@
 16	;	;	PUNCT	Punc	_	15	punct	_	_
 
 # sent_id = dev-s568
-# text = ne c non et dedisti mihi id est res illa in suprascripto loco et finibus Campo Maiore ubi vocatur ad Cassiaticho pertenentes ecclesie vestre sancti Bartholomei sita foras civitate ista Lucense ubi dicitur ad Cipriano, que est desup potestatem ipsius episcopatui vestro sancti Martini, tam terris quam et vineis, olivis, silvis, virgareis, cultas res vel incultas;
+# text = nec non et dedisti mihi id est res illa in suprascripto loco et finibus Campo Maiore ubi vocatur ad Cassiaticho pertenentes ecclesie vestre sancti Bartholomei sita foras civitate ista Lucense ubi dicitur ad Cipriano, que est desup potestatem ipsius episcopatui vestro sancti Martini, tam terris quam et vineis, olivis, silvis, virgareis, cultas res vel incultas;
 # reference = document_id='85:29'-span='55'
+1-2	nec	_	_	_	_	_	_	_	_
 1	ne	ne	PART	d|d|-|-|-|-|-|-|-|-	Polarity=Neg	5	advmod:neg	_	_
-2	c	c	CCONJ	c|c|-|-|-|-|-|-|-|-	_	1	fixed	_	_
-3	non	non	PART	d|d|-|-|-|-|-|-|-|-	Polarity=Neg	1	fixed	_	_
-4	et	et	CCONJ	c|c|-|-|-|-|-|-|-|-	_	1	fixed	_	_
+2	c	que	CCONJ	c|c|-|-|-|-|-|-|-|-	_	5	cc	_	_
+3	non	non	PART	d|d|-|-|-|-|-|-|-|-	Polarity=Neg	5	advmod:neg	_	_
+4	et	et	CCONJ	c|c|-|-|-|-|-|-|-|-	_	5	advmod:emph	_	_
 5	dedisti	do	VERB	v|v|2|s|r|i|a|-|-|-	Aspect=Perf|Mood=Ind|Number=Sing|Person=2|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	TraditionalMood=Indicativus|TraditionalTense=Perfectum
 6	mihi	ego	PRON	p|p|1|s|-|-|-|m|d|-	Case=Dat|Gender=Masc|Number=Sing|Person=1|PronType=Prs	5	obl:arg	_	_
 7	id	is	PRON	p|p|-|s|-|-|-|n|n|-	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs	9	advmod:emph	_	_
@@ -24899,12 +24900,13 @@
 18	;	;	PUNCT	Punc	_	17	punct	_	_
 
 # sent_id = dev-s780
-# text = ne c non et dedisti mihi, id est una petia de terra quod est silva, in loco ubi dicitur Scharpello, similiter pertenentes prefate ecclesie sancte Felicite;
+# text = nec non et dedisti mihi, id est una petia de terra quod est silva, in loco ubi dicitur Scharpello, similiter pertenentes prefate ecclesie sancte Felicite;
 # reference = document_id='85:41'-span='75'
+1-2	nec	_	_	_	_	_	_	_	_
 1	ne	ne	PART	d|d|-|-|-|-|-|-|-|-	Polarity=Neg	5	advmod:neg	_	_
-2	c	c	ADV	c|c|-|-|-|-|-|-|-|-	_	1	fixed	_	_
-3	non	non	PART	d|d|-|-|-|-|-|-|-|-	Polarity=Neg	1	fixed	_	_
-4	et	et	CCONJ	d|d|-|-|-|-|-|-|-|-	_	1	advmod:emph	_	_
+2	c	que	CCONJ	c|c|-|-|-|-|-|-|-|-	_	5	cc	_	_
+3	non	non	PART	d|d|-|-|-|-|-|-|-|-	Polarity=Neg	5	advmod:neg	_	_
+4	et	et	CCONJ	d|d|-|-|-|-|-|-|-|-	_	5	advmod:emph	_	_
 5	dedisti	do	VERB	v|v|2|s|r|i|a|-|-|-	Aspect=Perf|Mood=Ind|Number=Sing|Person=2|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	TraditionalMood=Indicativus|TraditionalTense=Perfectum
 6	mihi	ego	PRON	p|p|1|s|-|-|-|m|d|-	Case=Dat|Gender=Masc|Number=Sing|Person=1|PronType=Prs	5	obl:arg	_	SpaceAfter=No
 7	,	,	PUNCT	Punc	_	11	punct	_	_
@@ -25340,7 +25342,7 @@
 82	.	.	PUNCT	Punc	_	17	punct	_	_
 
 # sent_id = dev-s786
-# text = nam post vero obito suprascripti Arifusi presbiteri et abbas hunc libellum inanis et vacuum adque capsatum appareat quod in se nullum optineat robore ne c firmitatem, quia taliter inter nos convenit et duas inter nos cartulas Rachifonsum notarium scribere rogavimus.
+# text = nam post vero obito suprascripti Arifusi presbiteri et abbas hunc libellum inanis et vacuum adque capsatum appareat quod in se nullum optineat robore nec firmitatem, quia taliter inter nos convenit et duas inter nos cartulas Rachifonsum notarium scribere rogavimus.
 # reference = document_id='85:41'-span='81'
 1	nam	nam	PART	c|c|-|-|-|-|-|-|-|-	_	17	discourse	_	_
 2	post	post	ADP	r|r|-|-|-|-|-|-|-|-	_	4	case	_	_
@@ -25365,8 +25367,9 @@
 21	nullum	nullus	DET	a|a|-|s|-|-|-|n|a|-	Case=Acc|Gender=Neut|Number=Sing|Polarity=Neg|PronType=Ind	23	det	_	_
 22	optineat	obtineo	VERB	v|v|3|s|p|s|a|-|-|-	Aspect=Imp|Mood=Sub|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	17	advcl	_	TraditionalMood=Subiunctivus|TraditionalTense=Praesens
 23	robore	robur	NOUN	n|n|-|s|-|-|-|n|a|-	Case=Acc|Gender=Neut|Number=Sing	22	obj	_	_
-24	ne	ne	PART	d|d|-|-|-|-|-|-|-|-	Polarity=Neg	26	cc	_	_
-25	c	c	CCONJ	c|c|-|-|-|-|-|-|-|-	_	24	fixed	_	_
+24-25	nec	_	_	_	_	_	_	_	_
+24	ne	ne	PART	d|d|-|-|-|-|-|-|-|-	Polarity=Neg	26	advmod:neg	_	_
+25	c	que	CCONJ	c|c|-|-|-|-|-|-|-|-	_	26	cc	_	_
 26	firmitatem	firmitas	NOUN	n|n|-|s|-|-|-|f|a|-	Case=Acc|Gender=Fem|Number=Sing	23	conj	_	SpaceAfter=No
 27	,	,	PUNCT	Punc	_	32	punct	_	_
 28	quia	quia	SCONJ	c|c|-|-|-|-|-|-|-|-	_	32	mark	_	_
