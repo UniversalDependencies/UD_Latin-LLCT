@@ -50,18 +50,22 @@ D. (2018). Challenges in Converting the Index Thomisticus Treebank into Universa
 Belgium. Special Interest Group on linguistic DATa and
 corpus-based approaches to NLP (SIGDAT), ACL. Available at https://www.aclweb.org/anthology/W18-6004.pdf
 
+* Gamba, F. and Zeman, D. (2023a). [Universalising Latin Universal Dependencies: a harmonisation of Latin treebanks in UD](https://aclanthology.org/2023.udw-1.2/). In *Proceedings of the Sixth Workshop on Universal Dependencies (UDW, GURT/SyntaxFest 2023)*, Washington, DC, USA, March. Association for Computational Linguistics (ACL). 
+
+* Gamba, F. and Zeman, D. (2023b). [Latin Morphology through the Centuries: Ensuring Consistency for Better Language Processing](https://ufal.mff.cuni.cz/biblio/attachments/2023-gamba-p3787387064232511302.pdf). In *Proceedings of the Ancient Language Processing Workshop associated with the 14th International Conference on Recent Advances in Natural Language Processing RANLP 2023*, Varna, Bulgaria, September. 
+
 * Korkiakangas, T. (in press). Late Latin Charter Treebank: contents and annotation, in *Corpora*, 16 (2021). Preprint: https://researchportal.helsinki.fi/en/publications/late-latin-charter-treebank-contents-and-annotation
 
-* Korkiakangas, T. and Passarotti, M. (2011). Challenges
-in Annotating Medieval Latin Charters. *Journal for
-Language Technology and Computational Linguistics
-(JLCL)*, 26(2):105–116, november. In Francesco Mambrini, et al., editors, *Annotation of Corpora for Research
-in the Humanities: Proceedings of the ACRH Workshop, Heidelberg, 5. Jan. 2012*. Available at https://jlcl.org/content/2-allissues/12-Heft2-2011/16.pdf
+* Korkiakangas, T. and Passarotti, M. (2011). [Challenges in Annotating Medieval Latin Charters](https://jlcl.org/content/2-allissues/12-Heft2-2011/16.pdf). *Journal for Language Technology and Computational Linguistics (JLCL)*, 26(2):105–116, November. In Francesco Mambrini, et al., editors, *Annotation of Corpora for Research
+in the Humanities: Proceedings of the ACRH Workshop, Heidelberg, 5. Jan. 2012*.
 
 
 
 # Changelog
-
+* 2023-11-15 v2.13
+    * Implementation of overall syntactic and morphologic harmonisation following (Gamba & Zeman 2023a) and (Gamba & Zeman 2023b)
+    * Orthographic univerbation of the phrase *ne c* by means of multi-word tokens, retaining the individual analyses of its components
+    * Complete re-annotation of 16 gapping (i.e. non-projective) [`fixed`]() constructions (others have been kept for the moment since they are not trivially resolved)
 * 2022-11-15 v2.11
     * Implementations of the [amendment](https://universaldependencies.org/changes.html#multiple-subjects) for clausal non-verbal copular constructions and corrections regarding multiple subjects and introduction of the `:outer` subtype for subjects and copulas
     * Implementation of the proposal of [`VerbForm`](la-feat/VerbForm) reform as for (Cecchini, 2021; see documentation entry for `VerbForm`)
