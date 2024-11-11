@@ -1,11 +1,11 @@
 Running the following version of UD tools:
-commit 78ce4b21495c6e4c17a7b07925bec1267d833d14
+commit c1984d97df0ecdcc1b50fbeaa8c96419c6321432
 Author: Dan Zeman <zeman@ufal.mff.cuni.cz>
-Date:   Sun May 5 09:21:16 2024 +0200
+Date:   Sun Nov 10 10:33:45 2024 +0100
 Evaluating the following revision of UD_Latin-LLCT:
-commit 7f63c30de9f251031ec3ca8f320ef4cb7f94e355
+commit d94976efdbcdc6a31ce89b2cd7860a9ce9947715
 Author: Dan Zeman <zeman@ufal.mff.cuni.cz>
-Date:   Mon Nov 6 12:36:10 2023 +0100
+Date:   Sun May 5 13:01:26 2024 +0200
 Size: counted 242411 of 242411 words (nodes).
 Size: min(0, log((N/1000)**2)) = 10.981269265407.
 Size: maximum value 13.815511 is for 1000000 words or more.
@@ -25,10 +25,28 @@ Udapi: found 2299 bugs.
 Udapi: worst expected case (threshold) is one bug per 10 words. There are 242411 words.
 Genres: found 2 out of 17 known.
 /net/work/people/zeman/unidep/tools/validate.py --lang la --max-err=10 UD_Latin-LLCT/la_llct-ud-dev.conllu
+[Line 9845 Sent dev-s297 Node 73]: [L3 Warning leaf-det] 'det' not expected to have children (73:alia:det --> 72:ille:nmod)
+Warnings: 1
 *** PASSED ***
 /net/work/people/zeman/unidep/tools/validate.py --lang la --max-err=10 UD_Latin-LLCT/la_llct-ud-test.conllu
+[Line 8718 Sent test-s262 Node 2]: [L3 Warning leaf-det] 'det' not expected to have children (2:una:det --> 1:tenentes:acl)
+[Line 8722 Sent test-s262 Node 2]: [L3 Warning leaf-det] 'det' not expected to have children (2:una:det --> 5:petiola:nmod)
+[Line 21017 Sent test-s655 Node 71]: [L3 Warning leaf-det] 'det' not expected to have children (71:ipsa:det --> 72:[--]:dep)
+Warnings: 3
 *** PASSED ***
 /net/work/people/zeman/unidep/tools/validate.py --lang la --max-err=10 UD_Latin-LLCT/la_llct-ud-train.conllu
+[Line 9862 Sent train-s343 Node 38]: [L3 Warning leaf-det] 'det' not expected to have children (38:eius:det --> 43:data:acl)
+[Line 40524 Sent train-s1336 Node 16]: [L3 Warning leaf-det] 'det' not expected to have children (16:suprascripto:det --> 17:[--]:dep)
+[Line 42172 Sent train-s1386 Node 65]: [L3 Warning leaf-det] 'det' not expected to have children (65:iam:det --> 70:pertenentibus:acl)
+[Line 89660 Sent train-s2941 Node 34]: [L3 Warning leaf-det] 'det' not expected to have children (34:illorum:det --> 38:permanserint:acl)
+[Line 121261 Sent train-s3969 Node 12]: [L3 Warning leaf-det] 'det' not expected to have children (12:prefatam:det --> 13:[--]:dep)
+[Line 135777 Sent train-s4462 Node 120]: [L3 Warning leaf-det] 'det' not expected to have children (120:ipsa:det --> 126:emissa:acl)
+[Line 150425 Sent train-s4960 Node 357]: [L3 Warning leaf-det] 'det' not expected to have children (357:una:det --> 359:ipse:nmod)
+[Line 151731 Sent train-s4996 Node 26]: [L3 Warning leaf-det] 'det' not expected to have children (26:una:det --> 28:ipse:nmod)
+[Line 161799 Sent train-s5321 Node 10]: [L3 Warning leaf-det] 'det' not expected to have children (10:mea:det --> 15:germani:advcl)
+[Line 188515 Sent train-s6186 Node 63]: [L3 Warning leaf-det] 'det' not expected to have children (63:prefate:det --> 64:[--]:dep)
+...suppressing further errors regarding Warning
+Warnings: 12
 *** PASSED ***
 Validity: 1
 (weight=0.0769230769230769) * (score{features}=0.8) = 0.0615384615384615
