@@ -21013,7 +21013,7 @@
 68	mandato	mandatum	NOUN	n|n|-|s|-|-|-|n|b|-	Case=Abl|Gender=Neut|Number=Sing	81	obl	_	_
 69	vestro	uester	DET	a|a|2|s|-|-|-|n|b|-	Case=Abl|Gender=Neut|Number=Sing|Number[psor]=Plur|Person[psor]=2|Poss=Yes|PronType=Prs	68	det	_	_
 70	ad	ad	ADP	r|r|-|-|-|-|-|-|-|-	_	73	case	_	_
-71	ipsa	ipse	DET	p|p|-|s|-|-|-|f|b|-	Case=Abl|Gender=Fem|Number=Sing|PronType=Dem	73	det	_	_
+71	ipsa	ipse	DET	p|p|-|s|-|-|-|f|b|-	Case=Abl|Gender=Fem|Number=Sing|PronType=Dem	73	amod	_	_
 72	[--]	_	X	Punc	_	71	dep	_	_
 73	ecclesia	ecclesia	NOUN	n|n|-|s|-|-|-|f|a|-	Case=Acc|Gender=Fem|Number=Sing	81	obl	_	_
 74	sancte	sanctus	ADJ	a|a|-|s|-|-|-|f|g|-	Case=Gen|Gender=Fem|Number=Sing	75	amod	_	_
