@@ -32,7 +32,7 @@
     <tag name="X">187</tag><!-- _ -->
   </tags>
   <!-- Statistics of features and values. The comments show the most frequent word forms. -->
-  <feats unique="63">
+  <feats unique="68">
     <feat name="AdvType" value="Loc" upos="ADV">1232</feat><!-- ubi, unde, hic, ibidem, foris, ubique, alibi, ubicumque, inde, exinde -->
     <feat name="AdvType" value="Tim" upos="ADV">610</feat><!-- tunc, iam, semper, nunc, iterum, postea, quandoque, iteru, olim, senper -->
     <feat name="Aspect" value="Imp" upos="AUX,VERB">14214</feat><!-- est, debeamus, legitur, tenet, regnante, scribere, conponere, pertenentes, sum, dicitur -->
@@ -48,6 +48,11 @@
     <feat name="Degree" value="Abs" upos="ADJ,ADV,VERB">273</feat><!-- serenissimus, gloriosissimi, serenissimo, beatissimi, beatissimo, piissimo, beatissimus, firmissimo, gloriosissimus, beatissime -->
     <feat name="Degree" value="Cmp" upos="ADJ,ADV,DET">336</feat><!-- superius, maiore, plures, minore, plus, certius, meliorem, minus, diligentius, inferius -->
     <feat name="Degree" value="Dim" upos="ADJ,NOUN">1823</feat><!-- cartula, cartulam, cartulas, libellum, libello, cartule, ancilla, aliquantulo, libelli, aliquantula -->
+    <feat name="ExtPos" value="ADP" upos="ADP,ADV,CCONJ">627</feat><!-- una, usque, lato, de, excepto, prope, insimul, latus, huna, pro -->
+    <feat name="ExtPos" value="ADV" upos="ADV">2</feat><!-- scilicet, simul -->
+    <feat name="ExtPos" value="CCONJ" upos="ADV,CCONJ,PART,PRON,SCONJ">565</feat><!-- id, seo, seu, sive, ne, necnon, quam, quidem, adque, aut -->
+    <feat name="ExtPos" value="DET" upos="ADV,DET">1167</feat><!-- qui, iam, cui, que, quorum, ia, iac, ian -->
+    <feat name="ExtPos" value="SCONJ" upos="ADP,ADV,CCONJ,PRON,SCONJ">99</feat><!-- simul, similiter, sicut, eo, quatenus, in, anteposito, iusta, etiam, iuxta -->
     <feat name="Form" value="Emp" upos="ADV">27</feat><!-- tamen, tame, ubique -->
     <feat name="Gender" value="Fem" upos="ADJ,AUX,DET,NOUN,NUM,PRON,PROPN,VERB">40665</feat><!-- ecclesie, manus, ipsa, casa, terra, res, mea, cartula, rebus, ecclesia -->
     <feat name="Gender" value="Masc" upos="ADJ,DET,NOUN,NUM,PRON,PROPN,VERB">64158</feat><!-- qui, rogatus, sancti, teste, filio, Dei, tibi, loco, eius, notarius -->
@@ -100,7 +105,7 @@
   <!-- Statistics of universal dependency relations. -->
   <deps unique="57">
     <dep name="acl">4379</dep>
-    <dep name="acl:relcl">4010</dep>
+    <dep name="acl:relcl">4011</dep>
     <dep name="advcl">3021</dep>
     <dep name="advcl:abs">2024</dep>
     <dep name="advcl:cmp">770</dep>
@@ -111,7 +116,7 @@
     <dep name="advmod:lmod">1222</dep>
     <dep name="advmod:neg">652</dep>
     <dep name="advmod:tmod">412</dep>
-    <dep name="amod">9601</dep>
+    <dep name="amod">9863</dep>
     <dep name="appos">8167</dep>
     <dep name="aux">444</dep>
     <dep name="aux:pass">1246</dep>
@@ -127,7 +132,7 @@
     <dep name="csubj:pass">24</dep>
     <dep name="csubj:relcl">30</dep>
     <dep name="dep">186</dep>
-    <dep name="det">23433</dep>
+    <dep name="det">23165</dep>
     <dep name="discourse">437</dep>
     <dep name="dislocated">48</dep>
     <dep name="dislocated:csubj">1</dep>
@@ -138,12 +143,12 @@
     <dep name="flat">2589</dep>
     <dep name="iobj">18</dep>
     <dep name="mark">5356</dep>
-    <dep name="nmod">19323</dep>
-    <dep name="nsubj">11272</dep>
-    <dep name="nsubj:pass">1538</dep>
+    <dep name="nmod">19325</dep>
+    <dep name="nsubj">11273</dep>
+    <dep name="nsubj:pass">1539</dep>
     <dep name="nummod">1361</dep>
     <dep name="obj">6632</dep>
-    <dep name="obl">17384</dep>
+    <dep name="obl">17385</dep>
     <dep name="obl:agent">2</dep>
     <dep name="obl:arg">7027</dep>
     <dep name="obl:lmod">3</dep>
