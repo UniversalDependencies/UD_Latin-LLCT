@@ -23519,7 +23519,7 @@
 67	minuare	minuo	VERB	v|v|-|-|p|n|a|-|-|-	Aspect=Imp|VerbForm=Inf|Voice=Act	59	conj	_	TraditionalMood=Infinitivus|TraditionalTense=Praesens
 68	quesierimus	quaero	VERB	v|v|1|p|t|i|a|-|-|-	Aspect=Perf|Mood=Ind|Number=Plur|Person=1|Tense=Fut|VerbForm=Fin|Voice=Act	20	conj	_	TraditionalMood=Indicativus|TraditionalTense=Futurum
 69	per	per	ADP	r|r|-|-|-|-|-|-|-|-	_	70	case	_	_
-70	nosmedipsos	nosmetipse	PRON	p|p|1|p|-|-|-|m|a|-	Case=Acc|Gender=Masc|Number=Plur|Person=1	59	obl	_	_
+70	nosmedipsos	nosmetipse	PRON	p|p|1|p|-|-|-|m|a|-	Case=Acc|Gender=Masc|Number=Plur|Person=1|PronType=Prs	59	obl	_	_
 71	aut	aut	CCONJ	c|c|-|-|-|-|-|-|-|-	_	76	cc	_	_
 72	qui	qui	PRON	p|p|-|s|-|-|-|m|n|-	Case=Nom|Gender=Masc|Number=Sing|PronType=Rel	76	nsubj	_	_
 73	cum	cum	ADP	r|r|-|-|-|-|-|-|-|-	_	74	case	_	_
@@ -24891,7 +24891,7 @@
 17	regis	rex	NOUN	n|n|-|s|-|-|-|m|g|-	Case=Gen|Gender=Masc|Number=Sing	16	nmod	_	_
 18	et	et	CCONJ	c|c|-|-|-|-|-|-|-|-	_	19	cc	_	_
 19	medietatem	medietas	NOUN	n|n|-|s|-|-|-|f|a|-	Case=Acc|Gender=Fem|Number=Sing	15	conj	_	_
-20	parte	pars	NOUN	n|n|-|s|-|-|-|f|a|-	Case=Acc|Gender=Fem|Number=Sing	13	obj	_	_
+20	parte	pars	NOUN	n|n|-|s|-|-|-|f|a|-	Case=Acc|Gender=Fem|Number=Sing	13	xcomp	_	_
 21	ipsius	ipse	DET	p|p|-|s|-|-|-|f|g|-	Case=Gen|Gender=Fem|Number=Sing|PronType=Dem	22	det	_	_
 22	eclesie	ecclesia	NOUN	n|n|-|s|-|-|-|f|g|-	Case=Gen|Gender=Fem|Number=Sing	20	nmod	_	_
 23	et	et	CCONJ	c|c|-|-|-|-|-|-|-|-	_	31	cc	_	_
