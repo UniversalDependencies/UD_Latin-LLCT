@@ -15427,7 +15427,7 @@
 98	cartarum	charta	NOUN	n|n|-|p|-|-|-|f|g|-	Case=Gen|Gender=Fem|Number=Plur	97	nmod	_	_
 99	ex	ex	ADP	r|r|-|-|-|-|-|-|-|-	_	101	case	_	_
 100	ipsa	ipse	DET	p|p|-|s|-|-|-|f|b|-	Case=Abl|Gender=Fem|Number=Sing|PronType=Dem	101	det	_	_
-101	ecclesia	ecclesia	NOUN	n|n|-|s|-|-|-|f|b|-	Case=Abl|Gender=Fem|Number=Sing	91	obl	_	_
+101	ecclesia	ecclesia	NOUN	n|n|-|s|-|-|-|f|b|-	Case=Abl|Gender=Fem|Number=Sing	91	nmod	_	_
 102	et	et	CCONJ	c|c|-|-|-|-|-|-|-|-	_	103	cc	_	_
 103	casis	casa	NOUN	n|n|-|p|-|-|-|f|b|-	Case=Abl|Gender=Fem|Number=Plur	101	conj	_	_
 104	et	et	CCONJ	c|c|-|-|-|-|-|-|-|-	_	105	cc	_	_

@@ -6312,7 +6312,7 @@
 10	Quirici	Quiricus	PROPN	Propn|n|-|s|-|-|-|m|g|-	Case=Gen|Gender=Masc|Number=Sing	8	nmod	_	SpaceAfter=No
 11	,	,	PUNCT	Punc	_	13	punct	_	_
 12	inter	inter	ADP	r|r|-|-|-|-|-|-|-|-	_	13	case	_	_
-13	sacerdotes	sacerdos	NOUN	n|n|-|p|-|-|-|m|a|-	Case=Acc|Gender=Masc|Number=Plur	4	obl	_	_
+13	sacerdotes	sacerdos	NOUN	n|n|-|p|-|-|-|m|a|-	Case=Acc|Gender=Masc|Number=Plur	4	nmod	_	_
 14	et	et	CCONJ	c|c|-|-|-|-|-|-|-|-	_	15	cc	_	_
 15	cleros	clerus	NOUN	n|n|-|p|-|-|-|m|a|-	Case=Acc|Gender=Masc|Number=Plur	13	conj	_	_
 16	et	et	CCONJ	c|c|-|-|-|-|-|-|-|-	_	17	cc	_	_
