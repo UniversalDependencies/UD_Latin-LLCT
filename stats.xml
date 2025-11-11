@@ -87,7 +87,7 @@
     <feat name="PronType" value="Dem" upos="ADV,CCONJ,DET,PART">10096</feat><!-- ipsa, suprascripta, ipsius, hanc, ipse, illa, ipso, taliter, suprascripte, tantum -->
     <feat name="PronType" value="Ind" upos="ADV,DET,PRON">2586</feat><!-- qui, uno, una, quolibet, unum, aliquo, aliquid, quis, unam, cuius -->
     <feat name="PronType" value="Neg" upos="ADV">6</feat><!-- numquam, numqua, nunquam -->
-    <feat name="PronType" value="Prs" upos="DET,PRON">20939</feat><!-- ego, me, nos, tibi, eius, mea, mihi, vobis, nostro, tuis -->
+    <feat name="PronType" value="Prs" upos="DET,PRON">20941</feat><!-- ego, me, nos, tibi, eius, mea, mihi, vobis, nostro, tuis -->
     <feat name="PronType" value="Rel" upos="ADV,CCONJ,DET,PRON,SCONJ">5626</feat><!-- qui, ut, quas, ubi, que, quam, quod, unde, ibi, quantum -->
     <feat name="PronType" value="Tot" upos="DET">1908</feat><!-- omnia, omnibus, omni, omnem, omnes, ambas, omne, omnis, universis, ambo -->
     <feat name="Proper" value="Yes" upos="ADJ">4</feat><!-- Maiore -->
@@ -125,8 +125,8 @@
     <dep name="ccomp">1299</dep>
     <dep name="ccomp:relcl">172</dep>
     <dep name="compound">2</dep>
-    <dep name="conj">15401</dep>
-    <dep name="conj:expl">7</dep>
+    <dep name="conj">15403</dep>
+    <dep name="conj:expl">13</dep>
     <dep name="cop">1540</dep>
     <dep name="csubj">190</dep>
     <dep name="csubj:pass">24</dep>
@@ -137,18 +137,18 @@
     <dep name="dislocated">48</dep>
     <dep name="dislocated:csubj">1</dep>
     <dep name="dislocated:nsubj">86</dep>
-    <dep name="dislocated:obj">695</dep>
+    <dep name="dislocated:obj">696</dep>
     <dep name="dislocated:obl">2</dep>
     <dep name="fixed">2464</dep>
     <dep name="flat">2589</dep>
-    <dep name="iobj">18</dep>
+    <dep name="iobj">28</dep>
     <dep name="mark">5356</dep>
-    <dep name="nmod">19325</dep>
+    <dep name="nmod">19330</dep>
     <dep name="nsubj">11273</dep>
     <dep name="nsubj:pass">1539</dep>
     <dep name="nummod">1361</dep>
-    <dep name="obj">6632</dep>
-    <dep name="obl">17385</dep>
+    <dep name="obj">6609</dep>
+    <dep name="obl">17380</dep>
     <dep name="obl:agent">2</dep>
     <dep name="obl:arg">7027</dep>
     <dep name="obl:lmod">3</dep>
@@ -160,6 +160,6 @@
     <dep name="reparandum">141</dep>
     <dep name="root">9023</dep>
     <dep name="vocative">1</dep>
-    <dep name="xcomp">3605</dep>
+    <dep name="xcomp">3609</dep>
   </deps>
 </treebank>
