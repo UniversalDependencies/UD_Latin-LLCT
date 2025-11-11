@@ -89,6 +89,7 @@ in the Humanities: Proceedings of the ACRH Workshop, Heidelberg, 5. Jan. 2012*.
 Data available since: UD v2.6
 License: CC BY-SA 4.0
 Includes text: yes
+Parallel: no
 Genre: nonfiction legal
 Lemmas: converted from manual
 UPOS: converted from manual

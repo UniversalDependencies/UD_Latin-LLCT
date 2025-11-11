@@ -6312,7 +6312,7 @@
 10	Quirici	Quiricus	PROPN	Propn|n|-|s|-|-|-|m|g|-	Case=Gen|Gender=Masc|Number=Sing	8	nmod	_	SpaceAfter=No
 11	,	,	PUNCT	Punc	_	13	punct	_	_
 12	inter	inter	ADP	r|r|-|-|-|-|-|-|-|-	_	13	case	_	_
-13	sacerdotes	sacerdos	NOUN	n|n|-|p|-|-|-|m|a|-	Case=Acc|Gender=Masc|Number=Plur	4	obl	_	_
+13	sacerdotes	sacerdos	NOUN	n|n|-|p|-|-|-|m|a|-	Case=Acc|Gender=Masc|Number=Plur	4	nmod	_	_
 14	et	et	CCONJ	c|c|-|-|-|-|-|-|-|-	_	15	cc	_	_
 15	cleros	clerus	NOUN	n|n|-|p|-|-|-|m|a|-	Case=Acc|Gender=Masc|Number=Plur	13	conj	_	_
 16	et	et	CCONJ	c|c|-|-|-|-|-|-|-|-	_	17	cc	_	_
@@ -6731,7 +6731,7 @@
 90	,	,	PUNCT	Punc	_	79	punct	_	_
 91	in	in	ADP	r|r|-|-|-|-|-|-|-|-	_	92	case	_	_
 92	integrum	integer	ADJ	a|a|-|s|-|-|-|n|a|-	Case=Acc|Gender=Neut|Number=Sing	95	obl	_	_
-93	me	ego	PRON	p|p|1|s|-|-|-|m|a|-	Case=Acc|Number=Sing|Person=1|PronType=Prs	95	obj	_	_
+93	me	ego	PRON	p|p|1|s|-|-|-|m|a|-	Case=Acc|Number=Sing|Person=1|PronType=Prs	95	iobj	_	_
 94	inibi	inibi	ADV	d|d|-|-|-|-|-|-|-|-	_	95	advmod	_	_
 95	ordinavit	ordino	VERB	v|v|3|s|r|i|a|-|-|-	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	32	conj	_	TraditionalMood=Indicativus|TraditionalTense=Perfectum
 96	et	et	CCONJ	c|c|-|-|-|-|-|-|-|-	_	97	cc	_	_
