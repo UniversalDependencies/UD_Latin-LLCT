@@ -1,11 +1,15 @@
 Running the following version of UD tools:
-commit ecbbdff44b15c9b6de4a691e3499c1286459ab2e
+commit 26e6c87a2f518322d15901a351199b6be6569062
 Author: Dan Zeman <zeman@ufal.mff.cuni.cz>
-Date:   Fri May 9 21:07:42 2025 +0200
+Date:   Fri Nov 7 15:39:58 2025 +0100
 Evaluating the following revision of UD_Latin-LLCT:
-commit 4a2e36f48490b980288504cc5f0dfc851f9a0e21
-Merge: f16caaa eaf1ee3
+commit 2ba08700312257132644b9de5c850170265e3bf7
+Merge: bced75f df63d06
 Author: Dan Zeman <zeman@ufal.mff.cuni.cz>
+CoNLL-U data file regular expression = '(.+)-ud-(train|dev|test)\.conllu'
+Language-treebank code (from CoNLL-U file name) = 'la_llct'
+Language code (from CoNLL-U file name) = 'la'
+Found the following data files: la_llct-ud-dev.conllu, la_llct-ud-test.conllu, la_llct-ud-train.conllu
 Size: counted 242411 of 242411 words (nodes).
 Size: min(0, log((N/1000)**2)) = 10.981269265407.
 Size: maximum value 13.815511 is for 1000000 words or more.
@@ -19,26 +23,23 @@ Features: 162474 out of 242411 total words have one or more features.
 Features: source of annotation (from README) factor is 0.8.
 Universal relations: 33 out of 37 found in the corpus.
 Universal relations: source of annotation (from README) factor is 0.9.
-Udapi:
-               TOTAL        377
-Udapi: found 377 bugs.
-Udapi: worst expected case (threshold) is one bug per 10 words. There are 242411 words.
 Genres: found 2 out of 18 known.
 /net/work/people/zeman/unidep/tools/validate.py --lang la --max-err=10 UD_Latin-LLCT/la_llct-ud-dev.conllu
 *** PASSED ***
 /net/work/people/zeman/unidep/tools/validate.py --lang la --max-err=10 UD_Latin-LLCT/la_llct-ud-test.conllu
 *** PASSED ***
 /net/work/people/zeman/unidep/tools/validate.py --lang la --max-err=10 UD_Latin-LLCT/la_llct-ud-train.conllu
+[Line 68327 Sent train-s2224]: [L3 Warning pron-det-without-prontype] The word '[pronoun]' is tagged 'PRON' but it lacks the 'PronType' feature
+Warnings: 1
 *** PASSED ***
 Validity: 1
-(weight=0.0769230769230769) * (score{features}=0.8) = 0.0615384615384615
-(weight=0.0769230769230769) * (score{genres}=0.111111111111111) = 0.00854700854700855
-(weight=0.0769230769230769) * (score{lemmas}=0.8) = 0.0615384615384615
-(weight=0.256410256410256) * (score{size}=0.794850774376672) = 0.203807890865813
-(weight=0.0512820512820513) * (score{split}=1) = 0.0512820512820513
-(weight=0.0769230769230769) * (score{tags}=0.705882352941177) = 0.0542986425339367
-(weight=0.307692307692308) * (score{udapi}=0.984447900466563) = 0.302907046297404
-(weight=0.0769230769230769) * (score{udeprels}=0.802702702702703) = 0.0617463617463617
-(TOTAL score=0.805665924349499) * (availability=1) * (validity=1) = 0.805665924349499
-STARS = 4
-UD_Latin-LLCT	0.805665924349499	4
+(weight=0.111111111111111) * (score{features}=0.8) = 0.0888888888888889
+(weight=0.111111111111111) * (score{genres}=0.111111111111111) = 0.0123456790123457
+(weight=0.111111111111111) * (score{lemmas}=0.8) = 0.0888888888888889
+(weight=0.37037037037037) * (score{size}=0.794850774376672) = 0.294389175695064
+(weight=0.0740740740740741) * (score{split}=1) = 0.0740740740740741
+(weight=0.111111111111111) * (score{tags}=0.705882352941177) = 0.0784313725490196
+(weight=0.111111111111111) * (score{udeprels}=0.802702702702703) = 0.0891891891891892
+(TOTAL score=0.72620726829747) * (availability=1) * (validity=1) = 0.72620726829747
+STARS = 3.5
+UD_Latin-LLCT	0.72620726829747	3.5
