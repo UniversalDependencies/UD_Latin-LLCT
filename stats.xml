@@ -21,10 +21,10 @@
     <tag name="AUX">4127</tag><!-- sum, habeo -->
     <tag name="CCONJ">13993</tag><!-- et, uel, aut, seu, atque, nisi, que, siue, sed, an -->
     <tag name="DET">20065</tag><!-- ipse, meus, suprascriptus, omnis, hic, noster, qui, unus, uester, tuus -->
-    <tag name="NOUN">51212</tag><!-- testis, ecclesia, res, filius, casa, manus, presbyter, chartula, notarius, terra -->
+    <tag name="NOUN">51213</tag><!-- testis, ecclesia, res, filius, casa, manus, presbyter, chartula, notarius, terra -->
     <tag name="NUM">1501</tag><!-- duo, uiginti, triginta, quinquaginta, tres, quattuor, decem, sex, duodecim, quinque -->
     <tag name="PART">876</tag><!-- non, nam, ne, quidem, ecce, autem, enim, igitur, namque, itaque -->
-    <tag name="PRON">18279</tag><!-- ego, qui, is, nos, tu, uos, aliquis, sui, quis, quisquis -->
+    <tag name="PRON">18278</tag><!-- ego, qui, is, nos, tu, uos, aliquis, sui, quis, quisquis -->
     <tag name="PROPN">20252</tag><!-- Deus, Petrus, Luca, Martinus, Gherardus, Maria, Johannes, Andreas, Adalpertus, Dominus -->
     <tag name="PUNCT">35265</tag><!-- ,, ., +, ;, : -->
     <tag name="SCONJ">4299</tag><!-- si, ut, quia, sicut, qualiter, quam, dum, postquam, quod, quando -->
