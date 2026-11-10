@@ -1,11 +1,11 @@
 Running the following version of UD tools:
-commit b39dc4111bb13658bc0c204b48bb78b492e45d2b
+commit 59781c63b5b1c2ba74cd2b965d93f371e1c9d36a
 Author: Dan Zeman <zeman@ufal.mff.cuni.cz>
-Date:   Tue May 5 17:01:41 2026 +0200
+Date:   Tue Nov 10 13:08:27 2026 +0100
 Evaluating the following revision of UD_Latin-LLCT:
-commit 6ee23f2b60594add0d7409682f4192dd4bd5b519
+commit 45401ddb1124c18a66f1730e00b4a43a6ab6c308
+Merge: 173cd11 ea247fc
 Author: Dan Zeman <zeman@ufal.mff.cuni.cz>
-Date:   Tue Nov 11 20:13:23 2025 +0100
 CoNLL-U data file regular expression = '(.+)-ud-(train|dev|test)\.conllu'
 Language-treebank code (from CoNLL-U file name) = 'la_llct'
 Language code (from CoNLL-U file name) = 'la'
@@ -29,8 +29,6 @@ Genres: found 2 out of 18 known.
 /net/work/people/zeman/unidep/tools/validate.py --lang la --max-err=10 UD_Latin-LLCT/la_llct-ud-test.conllu
 *** PASSED ***
 /net/work/people/zeman/unidep/tools/validate.py --lang la --max-err=10 UD_Latin-LLCT/la_llct-ud-train.conllu
-[Line 68327 Sent train-s2224]: [L3 WARNING pron-det-without-prontype] The word '[pronoun]' is tagged 'PRON' but it lacks the 'PronType' feature
-Warnings: 1
 *** PASSED ***
 Validity: 1
 (weight=0.111111111111111) * (score{features}=0.8) = 0.0888888888888889
